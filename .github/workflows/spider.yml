@@ -1,4 +1,4 @@
-name: Requests Mod
+name: Spider
 
 on:
   workflow_dispatch:
