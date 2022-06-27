@@ -1,3 +1,5 @@
 files:
-  - source: files/**/%locale_with_underscore%
+  - source: source/**/
+    ignore:
+      - ModInfo.json
     translation: '%original_path%/%file_name%.%file_extension%'
