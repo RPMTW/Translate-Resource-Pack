@@ -30,7 +30,7 @@ jobs:
           mv ${{ github.workspace }}/${{ github.event.inputs.gameVersion }} ${{ github.workspace }}/source/${{ github.event.inputs.gameVersion }}
 
       - name: Push changes
-        uses: github-actions-x/commit@v2.8
+        uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: ${{ github.event.inputs.ref }}
