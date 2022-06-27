@@ -1,0 +1,43 @@
+name: Requests Mod
+
+on:
+  workflow_dispatch:
+    inputs:
+      curseForgeID:
+        description: "CurseForge Project ID"
+        required: true
+      gameVersion:
+        description: "Game Version"
+        required: true
+      modCount:
+        description: "Number of mods to download"
+        required: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Download files
+        uses: RPMTW/Translation-Scripts@1.1.2
+        with:
+          action: "spider"
+          args: ${{ github.event.inputs.curseForgeID }},${{ github.event.inputs.modCount }}
+          gameVersion: ${{ github.event.inputs.gameVersion }}
+
+      - name: Move files
+        run: |
+          mv ${{ github.event.inputs.gameVersion }} source/${{ github.event.inputs.gameVersion }}
+
+      - name: Push changes
+        uses: github-actions-x/commit@v2.8
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: ${{ github.event.inputs.ref }}
+          commit-message: Upload source files
+          force-add: true
+          files: ./
+          name: RPMTW Github Bot
+          rebase: true
