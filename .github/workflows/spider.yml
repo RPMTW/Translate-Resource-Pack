@@ -27,6 +27,7 @@ jobs:
       - name: Move files
         run: |
           mkdir source
+          mkdir source/zh_tw
           mv ${{ github.workspace }}/${{ github.event.inputs.gameVersion }} ${{ github.workspace }}/source/zh_tw/${{ github.event.inputs.gameVersion }}
 
       - name: Push changes
