@@ -27,7 +27,7 @@ jobs:
       - name: Move files
         run: |
           ls
-          mv ${{ github.event.inputs.gameVersion }} source/${{ github.event.inputs.gameVersion }}
+          mv ./${{ github.event.inputs.gameVersion }} ./source/${{ github.event.inputs.gameVersion }}
 
       - name: Push changes
         uses: github-actions-x/commit@v2.8
