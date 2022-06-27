@@ -3,9 +3,6 @@ name: Spider
 on:
   workflow_dispatch:
     inputs:
-      curseForgeID:
-        description: "CurseForge Project ID"
-        required: true
       gameVersion:
         description: "Game Version"
         required: true
@@ -24,7 +21,7 @@ jobs:
         uses: RPMTW/Translation-Scripts@1.1.2
         with:
           action: "spider"
-          args: ${{ github.event.inputs.curseForgeID }},${{ github.event.inputs.modCount }}
+          args: ${{ github.event.inputs.modCount }}
           gameVersion: ${{ github.event.inputs.gameVersion }}
 
       - name: Move files
