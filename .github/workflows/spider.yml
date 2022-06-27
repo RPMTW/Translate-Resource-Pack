@@ -26,6 +26,8 @@ jobs:
 
       - name: Move files
         run: |
+          cd ${{ github.workspace }}
+          pwd
           ls
           mv ${{ github.workspace }}/${{ github.event.inputs.gameVersion }} ${{ github.workspace }}/source/${{ github.event.inputs.gameVersion }}
 
