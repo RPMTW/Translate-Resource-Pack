@@ -36,6 +36,7 @@ jobs:
           push-branch: ${{ github.event.inputs.ref }}
           commit-message: Upload source files
           force-add: true
-          files: ./
+          files: ./source
           name: RPMTW Github Bot
+          email: 41898282+github-actions[bot]@users.noreply.github.com
           rebase: true
