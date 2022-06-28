@@ -47,6 +47,7 @@ jobs:
           name: RPMTW translate resource pack | ${{ github.run_number }}
           fail_on_unmatched_files: true
           generate_release_notes: true
+          tag_name: ${{ github.run_number }}
           files: |
             */*.zip
       - name: Merge Pull Request
