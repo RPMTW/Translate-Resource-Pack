@@ -18,28 +18,25 @@ jobs:
 
       - name: Patch files
         run: |
-          ls
           mkdir translated
           mkdir translated/zh_tw
           mv zh-TW/source/zh_tw translated/zh_tw
           rm -r zh-TW
-          cd translated
-          ls
-      # - name: Push changes
-      #   uses: github-actions-x/commit@v2.9
-      #   with:
-      #     github-token: ${{ secrets.GITHUB_TOKEN }}
-      #     push-branch: ${{ github.event.pull_request.head.ref }}
-      #     commit-message: Upload source files
-      #     force-add: true
-      #     files: ./translated
-      #     name: RPMTW Github Bot
-      #     email: 41898282+github-actions[bot]@users.noreply.github.com
-      #     rebase: true
-      # - name: Merge Pull Request
-      #   uses: juliangruber/merge-pull-request-action@v1
-      #   with:
-      #    github-token: ${{ secrets.GITHUB_TOKEN }}
-      #    number: ${{ github.event.pull_request.number }}
-      #    method: squash
-      #    repo: ${{ github.repository.full_name }}
+      - name: Push changes
+        uses: github-actions-x/commit@v2.9
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: ${{ github.event.pull_request.head.ref }}
+          commit-message: Upload source files
+          force-add: true
+          files: ./translated
+          name: RPMTW Github Bot
+          email: 41898282+github-actions[bot]@users.noreply.github.com
+          rebase: true
+      - name: Merge Pull Request
+        uses: juliangruber/merge-pull-request-action@v1
+        with:
+         github-token: ${{ secrets.GITHUB_TOKEN }}
+         number: ${{ github.event.pull_request.number }}
+         method: squash
+         repo: ${{ github.repository.full_name }}
