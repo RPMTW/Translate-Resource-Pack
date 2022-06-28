@@ -27,8 +27,8 @@
     "time.bookshelf.day.thursday": "週四",
     "time.bookshelf.day.friday": "週五",
     "time.bookshelf.day.saturday": "週六",
-    "commands.bookshelf.loot_tables": "Found %d missing loot tables for %s.",
-    "commands.bookshelf.loot_tables.wildcard": "Found %d missing loot tables for all mods.",
+    "commands.bookshelf.loot_tables": "找到 %d 個丟失的 %s 戰利品表。",
+    "commands.bookshelf.loot_tables.wildcard": "為所有模組找到 %d 個丟失的戰利品表。",
     "argument.bookshelf.unknown_value": "未知值 '%s'",
-    "text.bookshelf.ticks": "Ticks: %s"
+    "text.bookshelf.ticks": "刻度：%s"
 }
