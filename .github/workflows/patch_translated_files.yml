@@ -18,10 +18,10 @@ jobs:
 
       - name: Patch files
         run: |
-          if [ -d translated ] ; then
+          if [ ! -d translated ] ; then
             mkdir translated
           fi
-          if [ -d translated/zh_tw ] ; then
+          if [ ! -d translated/zh_tw ] ; then
             mkdir translated/zh_tw
           fi
           mv zh-TW/source/zh_tw translated/zh_tw
@@ -31,7 +31,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: ${{ github.event.pull_request.head.ref }}
-          commit-message: Upload translated files
+          commit-message: Patch translated files
           files: ./translated ./zh-TW
           name: RPMTW Github Bot
           email: 41898282+github-actions[bot]@users.noreply.github.com
