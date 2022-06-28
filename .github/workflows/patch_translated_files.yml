@@ -34,6 +34,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: ${{ github.event.pull_request.head.ref }}
           commit-message: Patch translated files
+          force-add: true
           files: ./translated ./zh-TW
           name: RPMTW Github Bot
           email: 41898282+github-actions[bot]@users.noreply.github.com
