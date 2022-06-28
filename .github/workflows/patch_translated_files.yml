@@ -25,8 +25,8 @@ jobs:
             mkdir translated/zh_tw
           fi
           ls
-          mv zh-TW/source/zh_tw translated/zh_tw
-          rm -r zh-TW
+          cp -R zh-TW/source/zh_tw translated/zh_tw
+          rm -R zh-TW
       - name: Push changes
         uses: github-actions-x/commit@v2.9
         with:
