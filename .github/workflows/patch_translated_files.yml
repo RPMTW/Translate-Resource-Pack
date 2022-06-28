@@ -27,8 +27,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: ${{ github.event.pull_request.head.ref }}
-          commit-message: Upload source files
-          force-add: true
+          commit-message: Upload translated files
           files: ./translated
           name: RPMTW Github Bot
           email: 41898282+github-actions[bot]@users.noreply.github.com
@@ -38,5 +37,5 @@ jobs:
         with:
          github-token: ${{ secrets.GITHUB_TOKEN }}
          number: ${{ github.event.pull_request.number }}
-         method: squash
+         method: merge
          repo: ${{ github.repository.full_name }}
