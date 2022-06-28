@@ -18,10 +18,10 @@ jobs:
 
       - name: Patch files
         run: |
-          if [ -f translated ] ; then
+          if [ -d translated ] ; then
             mkdri translated
           fi
-          if [ -f translated/zh_tw ] ; then
+          if [ -d translated/zh_tw ] ; then
             mkdri translated/zh_tw
           fi
           mv zh-TW/source/zh_tw translated/zh_tw
