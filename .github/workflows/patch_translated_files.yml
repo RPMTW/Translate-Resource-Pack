@@ -21,7 +21,9 @@ jobs:
           ls
           mkdir translated
           mkdir translated/zh_tw
-          mv ${{ github.workspace }}/zh-TW/source/zh_tw ${{ github.workspace }}/translated/zh_tw
+          mv zh-TW/source/zh_tw translated/zh_tw
+          rm -r zh-TW
+          cd translated
           ls
       # - name: Push changes
       #   uses: github-actions-x/commit@v2.9
