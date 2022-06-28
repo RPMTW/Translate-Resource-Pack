@@ -25,7 +25,7 @@ jobs:
             mkdir translated/zh_tw
           fi
           if [ -d zh-TW ] ; then
-            cp -R zh-TW/source/zh_tw translated/zh_tw
+            cp -R zh-TW/source/zh_tw/** translated/zh_tw
             rm -R zh-TW
           fi
       - name: Push changes
