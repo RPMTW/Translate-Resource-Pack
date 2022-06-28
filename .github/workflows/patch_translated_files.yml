@@ -24,7 +24,6 @@ jobs:
           if [ ! -d translated/zh_tw ] ; then
             mkdir translated/zh_tw
           fi
-          ls
           cp -R zh-TW/source/zh_tw translated/zh_tw
           rm -R zh-TW
       - name: Push changes
@@ -37,10 +36,10 @@ jobs:
           name: RPMTW Github Bot
           email: 41898282+github-actions[bot]@users.noreply.github.com
           rebase: true
-      # - name: Merge Pull Request
-      #   uses: juliangruber/merge-pull-request-action@v1
-      #   with:
-      #    github-token: ${{ secrets.GITHUB_TOKEN }}
-      #    number: ${{ github.event.pull_request.number }}
-      #    method: merge
-      #    repo: ${{ github.repository.full_name }}
+      - name: Merge Pull Request
+        uses: juliangruber/merge-pull-request-action@v1
+        with:
+         github-token: ${{ secrets.GITHUB_TOKEN }}
+         number: ${{ github.event.pull_request.number }}
+         method: squash
+         repo: ${{ github.repository.full_name }}
