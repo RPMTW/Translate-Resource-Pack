@@ -19,10 +19,16 @@ jobs:
         with:
           ref: ${{ github.event.pull_request.head.ref }}
 
+      - name: Merge files
+        run: |
+          mkdir pack
+          cp -R translated/zh_tw/source/zh_tw/${{ matrix.gameVersion }} pack
+          cp -R meta/${{ matrix.gameVersion }} pack
+
       - name: compressed the resource pack to a zip file
         uses: vimtor/action-zip@v1
         with:
-          files: translated/zh_tw/source/zh_tw/${{ matrix.gameVersion }}
+          files: pack
           dest: files/RPMTW-Translate-Resource-Pack-${{ matrix.gameVersion }}.zip
       - name: Upload file
         uses: actions/upload-artifact@v3
@@ -44,10 +50,10 @@ jobs:
       - name: Release files
         uses: softprops/action-gh-release@v1
         with:
-          name: RPMTW translate resource pack | ${{ github.run_number }}
+          name: Version ${{ github.run_number }}
           fail_on_unmatched_files: true
           generate_release_notes: true
-          tag_name: ${{ github.run_number }}
+          tag_name: pack_${{ github.run_number }}
           files: |
             */*.zip
       - name: Merge Pull Request
