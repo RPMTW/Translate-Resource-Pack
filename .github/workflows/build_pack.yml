@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    if: ${{ github.event.pull_request.title }} == "New Crowdin updates"
+    if: ${{ github.event.pull_request.title == 'New Crowdin updates' }}
     strategy:
       matrix:
         gameVersion: [1.19]
@@ -40,7 +40,7 @@ jobs:
           retention-days: 1
 
   release:
-    if: ${{ github.event.pull_request.title }} == "New Crowdin updates"
+    if: ${{ github.event.pull_request.title == 'New Crowdin updates' }}
     needs:
       - build
     runs-on: ubuntu-latest
