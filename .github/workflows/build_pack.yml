@@ -1,0 +1,55 @@
+name: Build Pack
+
+on:
+  pull_request:
+    types:
+      - opened
+      - edited
+
+jobs:
+  build:
+    if: ${{ github.event.pull_request.title }} == "New Crowdin updates"
+    strategy:
+      matrix:
+        gameVersion: [1.19]
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: compressed the resource pack to a zip file
+        uses: vimtor/action-zip@v1
+        with:
+          files: translated/zh_tw/source/zh_tw/${{ matrix.gameVersion }}
+          dest: files/RPMTW-Translate-Resource-Pack-${{ matrix.gameVersion }}.zip
+      - name: Upload file
+        uses: actions/upload-artifact@v3
+        with:
+          name: ${{ matrix.gameVersion }}
+          path: files/RPMTW-Translate-Resource-Pack-${{ matrix.gameVersion }}.zip
+          retention-days: 1
+
+  release:
+    if: ${{ github.event.pull_request.title }} == "New Crowdin updates"
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download files
+        uses: actions/download-artifact@v3
+      - name: Release files
+        uses: softprops/action-gh-release@v1
+        with:
+          name: RPMTW translate resource pack | ${{ github.run_number }}
+          fail_on_unmatched_files: true
+          generate_release_notes: true
+          files: |
+            */*.zip
+      - name: Merge Pull Request
+        uses: juliangruber/merge-pull-request-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          number: ${{ github.event.pull_request.number }}
+          method: squash
+          repo: ${{ github.repository.full_name }}
