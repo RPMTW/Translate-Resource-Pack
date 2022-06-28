@@ -35,11 +35,11 @@ jobs:
           push-branch: ${{ github.event.pull_request.head.ref }}
           commit-message: Patch translated files
           force-add: true
-          force-push: true
           files: ./translated ./zh-TW
           name: RPMTW Github Bot
           email: 41898282+github-actions[bot]@users.noreply.github.com
           rebase: true
+        continue-on-error: true
       - name: Merge Pull Request
         uses: juliangruber/merge-pull-request-action@v1
         with:
