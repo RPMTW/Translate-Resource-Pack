@@ -32,6 +32,7 @@ jobs:
         with:
           files: pack
           dest: files/RPMTW-Translate-Resource-Pack-${{ matrix.gameVersion }}.zip
+          recursive: false
       - name: Upload file
         uses: actions/upload-artifact@v3
         with:
