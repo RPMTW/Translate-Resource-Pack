@@ -18,26 +18,29 @@ jobs:
 
       - name: Patch files
         run: |
+          if [ ! -d translated ] ; then
+            mkdir translated
+          fi
+          if [ ! -d translated/zh_tw ] ; then
+            mkdir translated/zh_tw
+          fi
           ls
-          mkdir translated
-          mkdir translated/zh_tw
-          mv ${{ github.workspace }}/zh-TW/source/zh_tw ${{ github.workspace }}/translated/zh_tw
-          ls
-      # - name: Push changes
-      #   uses: github-actions-x/commit@v2.9
-      #   with:
-      #     github-token: ${{ secrets.GITHUB_TOKEN }}
-      #     push-branch: ${{ github.event.pull_request.head.ref }}
-      #     commit-message: Upload source files
-      #     force-add: true
-      #     files: ./translated
-      #     name: RPMTW Github Bot
-      #     email: 41898282+github-actions[bot]@users.noreply.github.com
-      #     rebase: true
+          mv zh-TW/source/zh_tw translated/zh_tw
+          rm -r zh-TW
+      - name: Push changes
+        uses: github-actions-x/commit@v2.9
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: ${{ github.event.pull_request.head.ref }}
+          commit-message: Patch translated files
+          files: ./translated ./zh-TW
+          name: RPMTW Github Bot
+          email: 41898282+github-actions[bot]@users.noreply.github.com
+          rebase: true
       # - name: Merge Pull Request
       #   uses: juliangruber/merge-pull-request-action@v1
       #   with:
       #    github-token: ${{ secrets.GITHUB_TOKEN }}
       #    number: ${{ github.event.pull_request.number }}
-      #    method: squash
+      #    method: merge
       #    repo: ${{ github.repository.full_name }}
