@@ -43,10 +43,16 @@ jobs:
 
       - name: Move files
         run: |
-          mkdir source
-          mkdir source/zh_tw
-          mv ${{ github.workspace }}/${{ github.event.inputs.gameVersion }} ${{ github.workspace }}/source/zh_tw/${{ github.event.inputs.gameVersion }}
-
+          if [ ! -d source ] ; then
+            mkdir source
+          fi
+          if [ ! -d source/zh_tw ] ; then
+            mkdir source/zh_tw
+          fi
+          if [ -d ${{ github.event.inputs.gameVersion }} ] ; then
+            cp -R ${{ github.event.inputs.gameVersion }} source/zh_tw/${{ github.event.inputs.gameVersion }}
+            rm -R ${{ github.event.inputs.gameVersion }}
+          fi
       - name: Push changes
         uses: github-actions-x/commit@v2.9
         with:
