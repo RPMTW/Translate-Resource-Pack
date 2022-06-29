@@ -22,7 +22,7 @@ jobs:
       - name: Compressed the resource pack to a zip file
         uses: vimtor/action-zip@v1
         with:
-          files: translated/zh_tw/source/zh_tw/${{ matrix.gameVersion }} meta/${{ matrix.gameVersion }}
+          files: translated/zh_tw/source/zh_tw/${{ matrix.gameVersion }} meta/${{ matrix.gameVersion }} LICENSE
           dest: files/RPMTW-Translate-Resource-Pack-${{ matrix.gameVersion }}.zip
       - name: Upload file
         uses: actions/upload-artifact@v3
