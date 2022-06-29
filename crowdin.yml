@@ -1,5 +1,5 @@
 files:
-  - source: source/zh_tw/
+  - source: /source/zh_tw/1.19/assets/
     ignore:
       - ModInfo.json
       - translated
