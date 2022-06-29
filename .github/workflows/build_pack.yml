@@ -7,10 +7,11 @@ on:
       - edited
       - reopened
       - synchronize
+  workflow_dispatch:
 
 jobs:
   build:
-    if: ${{ github.event.pull_request.title == 'New Crowdin updates' }}
+    if: ${{ github.event.pull_request.title == 'New Crowdin updates' || github.event_name == 'workflow_dispatch' }}
     strategy:
       matrix:
         gameVersion: [1.19]
@@ -18,21 +19,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-        with:
-          ref: ${{ github.event.pull_request.head.ref }}
-
-      - name: Merge files
-        run: |
-          mkdir pack
-          cp -R translated/zh_tw/source/zh_tw/${{ matrix.gameVersion }} pack
-          cp -R meta/${{ matrix.gameVersion }} pack
-
-      - name: compressed the resource pack to a zip file
+      - name: Compressed the resource pack to a zip file
         uses: vimtor/action-zip@v1
         with:
-          files: pack
+          files: translated/zh_tw/source/zh_tw/${{ matrix.gameVersion }} meta/${{ matrix.gameVersion }}
           dest: files/RPMTW-Translate-Resource-Pack-${{ matrix.gameVersion }}.zip
-          recursive: false
       - name: Upload file
         uses: actions/upload-artifact@v3
         with:
@@ -41,7 +32,7 @@ jobs:
           retention-days: 1
 
   release:
-    if: ${{ github.event.pull_request.title == 'New Crowdin updates' }}
+    if: ${{ github.event.pull_request.title == 'New Crowdin updates' || github.event_name == 'workflow_dispatch' }}
     needs:
       - build
     runs-on: ubuntu-latest
@@ -60,6 +51,7 @@ jobs:
           files: |
             */*.zip
       - name: Merge Pull Request
+        if: ${{ github.event_name == 'pull_request' }}
         uses: juliangruber/merge-pull-request-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
