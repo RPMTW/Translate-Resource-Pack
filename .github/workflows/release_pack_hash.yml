@@ -1,0 +1,25 @@
+name: Release pack hash
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate hash for the zip file (MD5)
+        uses: MCJack123/ghaction-generate-release-hashes@v1
+        with:
+          hash-type: md5
+          file-name: hash.md5
+      - name: Generate hash for the zip file (SHA1)
+        uses: MCJack123/ghaction-generate-release-hashes@v1
+        with:
+          hash-type: sha1
+          file-name: hash.sha1
+      - name: Generate hash for the zip file (SHA256)
+        uses: MCJack123/ghaction-generate-release-hashes@v1
+        with:
+          hash-type: sha256
+          file-name: hash.sha256
