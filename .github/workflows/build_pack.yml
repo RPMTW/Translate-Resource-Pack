@@ -16,19 +16,39 @@ jobs:
       matrix:
         gameVersion: [1.19]
     runs-on: ubuntu-latest
-
+    env:
+      file_path: files/RPMTW-Translate-Resource-Pack-${{ matrix.gameVersion }}
     steps:
       - uses: actions/checkout@v3
       - name: Compressed the resource pack to a zip file
         uses: vimtor/action-zip@v1
         with:
           files: translated/zh_tw/source/zh_tw/${{ matrix.gameVersion }} meta/${{ matrix.gameVersion }} LICENSE
-          dest: files/RPMTW-Translate-Resource-Pack-${{ matrix.gameVersion }}.zip
+          dest: ${{ env.file_path }}.zip
+      - name: Generate hash for the zip file (MD5)
+        uses: MCJack123/ghaction-generate-release-hashes@v1
+        with:
+          hash-type: md5
+          file-name: ${{ env.file_path }}.md5
+      - name: Generate hash for the zip file (SHA1)
+        uses: MCJack123/ghaction-generate-release-hashes@v1
+        with:
+          hash-type: sha1
+          file-name: ${{ env.file_path }}.sha1
+      - name: Generate hash for the zip file (SHA256)
+        uses: MCJack123/ghaction-generate-release-hashes@v1
+        with:
+          hash-type: sha256
+          file-name: ${{ env.file_path }}.sha256
       - name: Upload file
         uses: actions/upload-artifact@v3
         with:
           name: ${{ matrix.gameVersion }}
-          path: files/RPMTW-Translate-Resource-Pack-${{ matrix.gameVersion }}.zip
+          path: |
+            ${{ env.file_path }}.zip
+            ${{ env.file_path }}.md5
+            ${{ env.file_path }}.sha1
+            ${{ env.file_path }}.sha256
           retention-days: 1
 
   release:
@@ -50,6 +70,9 @@ jobs:
           tag_name: 1.0.${{ github.run_number }}
           files: |
             */*.zip
+            */*.md5
+            */*.sha1
+            */*.sha256
       - name: Merge Pull Request
         if: ${{ github.event_name == 'pull_request' }}
         uses: juliangruber/merge-pull-request-action@v1
