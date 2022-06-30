@@ -1,0 +1,22 @@
+{
+  "name": "你的第一塊青銅！",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:bronze_dust",
+  "pages": [
+    {
+      "type": "text",
+      "text": "首先，您需要藉由在鍛造鎚中鎚鍊銅和錫錠（粒）來製造銅和錫（小撮）粉。然後，您可以將銅和錫（小撮）粉塵混合製成青銅（小撮）粉。這個過程在$(l:modern_industrialization:steam_age/steam_machines)混合器$()中效率更高。$(br2)永遠記住，9 個小撮粉就是 1 個粉。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/bronze_dust",
+      "recipe2": "modern_industrialization:materials/bronze_tiny_dust"
+    },
+    {
+      "type": "smelting",
+      "recipe": "modern_industrialization:materials/bronze/smelting/dust_to_ingot_smelting",
+      "text": "熔煉青銅粉會給你一個青銅錠。"
+    }
+  ],
+  "sortnum": 1
+}
