@@ -1,9 +1,5 @@
 {
     "_comment": "除錯",
-    "jei.tooltip.config": "JEI 配置",
-    "jei.tooltip.show.recipes": "顯示配方",
-    "jei.tooltip.show.all.recipes": "顯示所有配方",
-    "jei.tooltip.delete.item": "點擊以刪除",
     "jei.tooltip.liquid.amount.with.capacity": "%s / %s mB",
     "jei.tooltip.liquid.amount": "%s mB",
     "jei.tooltip.transfer": "轉移物品",
@@ -24,20 +20,6 @@
     "jei.tooltip.bookmarks.not.enough.space": "這裡沒有足夠的空間來顯示 JEI 書籤列表",
     "jei.tooltip.error.recipe.transfer.missing": "缺少物品",
     "jei.tooltip.error.recipe.transfer.inventory.full": "物品欄已滿",
-    "jei.chat.error.no.cheat.permission.op": "players who are have Operator Status (/op)",
-    "jei.chat.error.no.cheat.permission.give": "players who can use /give",
-    "jei.key.category.overlays": "JEI (Overlays)",
-    "key.jei.toggleOverlay": "Show/Hide JEI Overlays",
-    "key.jei.focusSearch": "Select Search Bar",
-    "key.jei.previousPage": "Previous Page",
-    "key.jei.nextPage": "Next Page",
-    "key.jei.toggleBookmarkOverlay": "Show/Hide Bookmarked Ingredients",
-    "jei.key.category.recipe.gui": "JEI (Recipes)",
-    "key.jei.recipeBack": "Previous Recipe",
-    "key.jei.previousCategory": "Previous Recipe Category",
-    "key.jei.nextCategory": "Next Recipe Category",
-    "key.jei.previousRecipePage": "Previous Recipe Page",
-    "key.jei.nextRecipePage": "Next Recipe Page",
     "key.jei.closeRecipeGui": "關閉合成表使用者介面",
     "jei.key.category.cheat.mode": "JEI（作弊模式）",
     "key.jei.toggleCheatMode": "開關作弊模式",
@@ -45,13 +27,9 @@
     "key.jei.cheatOneItem2": "作弊獲取 1 物品",
     "key.jei.cheatItemStack": "作弊獲取 1 組",
     "key.jei.cheatItemStack2": "作弊獲取 1 組",
-    "jei.key.category.hover.config.button": "JEI (Hovering with Mouse over Config Button)",
     "key.jei.toggleCheatModeConfigButton": "開關作弊模式",
     "jei.key.category.edit.mode": "JEI (編輯模式)",
-    "key.jei.toggleEditMode": "Toggle Hide Ingredients Mode",
     "key.jei.toggleHideIngredient": "隱藏合成材料",
-    "key.jei.toggleWildcardHideIngredient": "Hide ingredient (wildcard)",
-    "jei.key.category.mouse.hover": "JEI (Hovering with Mouse)",
     "key.jei.bookmark": "新增／刪除書籤物品",
     "key.jei.showRecipe": "顯示配方",
     "key.jei.showRecipe2": "顯示配方",
@@ -61,25 +39,10 @@
     "key.jei.clearSearchBar": "清除搜尋篩選",
     "key.jei.previousSearch": "上個搜尋結果",
     "key.jei.nextSearch": "下個搜尋結果",
-    "jei.key.category.dev.tools": "JEI (Dev Tools)",
     "key.jei.copy.recipe.id": "複製合成配方ID至剪貼簿",
     "config.jei": "JEI設定",
     "config.jei.default": "預設值",
     "config.jei.valid": "有效",
-    "config.jei.title": "%MODNAME Config",
-    "config.jei.mode": "Mode",
-    "config.jei.mode.comment": "Change the mode that JEI is operating in.",
-    "config.jei.mode.cheatItemsEnabled": "Cheat Mode",
-    "config.jei.mode.cheatItemsEnabled.comment": "Give items instead of showing the recipe.",
-    "config.jei.mode.editEnabled": "Hide Ingredients Mode",
-    "config.jei.mode.editEnabled.comment": "Hide and unhide ingredients by clicking them in the ingredient list overlay.",
-    "config.jei.interface": "Interface",
-    "config.jei.interface.comment": "Options related to the user interface.",
-    "config.jei.interface.overlayEnabled": "Show Ingredient List Overlay",
-    "config.jei.interface.overlayEnabled.comment": "Show the ingredient list overlay next to open GUIs.",
-    "config.jei.interface.bookmarkOverlayEnabled": "Show Bookmark List Overlay",
-    "config.jei.interface.bookmarkOverlayEnabled.comment": "Show the bookmark list overlay next to open GUIs.",
-    "config.jei.search": "Search Options",
     "config.jei.search.comment": "Options related to the search bar.",
     "config.jei.search.modNameSearchMode": "@ModName",
     "config.jei.search.modNameSearchMode.comment": "Search mode for mod names (prefix: @).",
@@ -164,26 +127,89 @@
                     }
                 },
                 "crash\"": "Tooltip error, see logs"
+            },
+            "show": {
+                "all": {
+                    "recipes\n": "顯示所有配方"
+                },
+                "recipes": "顯示配方"
+            },
+            "delete": {
+                "item": "點擊以刪除"
             }
         },
         "chat": {
             "error": {
-                "command": {
-                    "too": {
-                        "long": "JEI must be installed on the server to handle this chat command, it is too long for Minecraft to send."
-                    }
-                },
                 "no": {
                     "cheat": {
                         "permission": {
                             "1": "You do not have permission to use JEI's Cheat Mode.",
                             "disabled": "On this server, JEI's Cheat Mode is disabled for all players.",
                             "enabled": "On this server, the following types of players can use JEI's Cheat Mode:",
-                            "creative": "players who are in Creative Mode"
+                            "creative": "players who are in Creative Mode",
+                            "op": "players who are have Operator Status (/op)"
                         }
                     }
                 }
             }
+        },
+        "key": {
+            "category": {
+                "overlays": "JEI (Overlays)",
+                "recipe": {
+                    "gui": "JEI (Recipes)"
+                },
+                "hover": {
+                    "config": {
+                        "button": "JEI (Hovering with Mouse over Config Button)"
+                    }
+                },
+                "mouse": {
+                    "hover": "JEI (Hovering with Mouse)"
+                },
+                "dev": {
+                    "tools": "JEI (Dev Tools)"
+                }
+            }
+        }
+    },
+    "key": {
+        "jei": {
+            "toggleOverlay": "Show/Hide JEI Overlays",
+            "focusSearch": "Select Search Bar",
+            "previousPage": "Previous Page",
+            "nextP": "Next Page",
+            "toggleBookmarkOverlay": "Show/Hide Bookmarked Ingredients",
+            "recipe": "Previous Recipe",
+            "previousCategory": "Previous Recipe Category",
+            "nextCategory": "Next Recipe Category",
+            "previousRecipePage": "Previous Recipe Page",
+            "nextRecipePage": "Next Recipe Page",
+            "toggleEd": "Toggle Hide Ingredients Mode",
+            "toggleWildcardHideIngredient": "Hide ingredient (wildcard)"
+        }
+    },
+    "config": {
+        "jei": {
+            "": "%MODNAME Config",
+            "mode": {
+                "comment": "Change the mode that JEI is operating in.",
+                "cheatItemsEnabled": {
+                    "comment": "Give items instead of showing the recipe."
+                },
+                "editEnabled": {
+                    "comment": "Hide and unhide ingredients by clicking them in the ingredient list overlay."
+                }
+            },
+            "interface": {
+                "overlayEnabled": {
+                    "comment": "Show the ingredient list overlay next to open GUIs."
+                },
+                "bookmarkOverlayEnabled": "Show Bookmark List Overlay",
+                "bookmar": "Show the bookmark list overlay next to open GUIs."
+            },
+            "in": "Options related to the user interface.",
+            "search": "Search Options"
         }
     }
 }
