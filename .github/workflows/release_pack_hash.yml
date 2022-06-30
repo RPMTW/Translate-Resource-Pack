@@ -1,8 +1,9 @@
-name: Release pack hash
+name: Release Pack Hash
 
 on:
   release:
-    types: [created]
+    types:
+      - published
 
 jobs:
   test:
