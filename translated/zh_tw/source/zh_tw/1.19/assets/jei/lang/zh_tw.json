@@ -7,7 +7,6 @@
     "jei.tooltip.cheat.mode.button.enabled": "作弊模式已開啟",
     "jei.tooltip.cheat.mode.how.to.disable.hotkey": "按下 %s 以切換。",
     "jei.tooltip.cheat.mode.how.to.disable.hover.config.button.hotkey": "%s 這裡以切換它",
-    "jei.tooltip.recipe.by": "該配方由 %s 加入",
     "jei.tooltip.recipe.id": "配方ID：%s",
     "jei.tooltip.not.enough.space": "畫面空間不足，無法顯示 JEI 物品疊加介面。",
     "jei.tooltip.ingredient.list.disabled": "JEI 疊加介面已停用。",
@@ -41,224 +40,87 @@
     "config.jei": "JEI設定",
     "config.jei.default": "預設值",
     "config.jei.valid": "有效",
-    "jei.message.copy.recipe.id.failure": "Failed to Copy Recipe ID to clipboard, the Recipe ID is unknown",
+    "jei.message.copy.recipe.id.failure": "無法複製配方 ID 到剪貼簿，未知的配方 ID",
     "jei.key.combo.command": "CMD + %s",
     "jei.key.combo.alt": "ALT + %s",
-    "description.jei.wooden.door.1": "Wooden Doors allow you to block monsters from entering your building.\\nTesting sentences.",
-    "description.jei.wooden.door.3": "Wooden Doors can be opened/closed via redstone circuits.",
-    "description.jei.debug.formatting.1": "Testing %s formatting replacements.",
-    "description.jei.debug.formatting.2": "Testing %s %s formatting replacements.",
-    "description.jei.debug.formatting.3": "%s nested",
-    "jei": {
-        "tooltip": {
-            "error": {
-                "recipe": {
-                    "transfer": {
-                        "unknown": "Unknown error, see logs",
-                        "no": {
-                            "server": "The server must have JEI installed"
-                        },
-                        "disabled": "The server config has disabled JEI recipe transfer",
-                        "too": {
-                            "large": {
-                                "player": {
-                                    "inventory": "Recipe is too large to craft in the 2x2 player crafting grid."
-                                }
-                            }
-                        }
-                    }
-                },
-                "crash\"": "Tooltip error, see logs"
-            },
-            "show": {
-                "all": {
-                    "recipes\n": "顯示所有配方"
-                },
-                "recipes": "顯示配方"
-            },
-            "delete": {
-                "item": "點擊以刪除"
-            },
-            "liquid": {
-                "amount": "%s mB"
-            }
-        },
-        "chat": {
-            "error": {
-                "no": {
-                    "cheat": {
-                        "permission": {
-                            "1": "You do not have permission to use JEI's Cheat Mode.",
-                            "disabled": "On this server, JEI's Cheat Mode is disabled for all players.",
-                            "enabled": "On this server, the following types of players can use JEI's Cheat Mode:",
-                            "creative": "players who are in Creative Mode",
-                            "op": "players who are have Operator Status (/op)"
-                        }
-                    }
-                }
-            }
-        },
-        "key": {
-            "category": {
-                "overlays": "JEI (Overlays)",
-                "recipe": {
-                    "gui": "JEI (Recipes)"
-                },
-                "hover": {
-                    "config": {
-                        "button": "JEI (Hovering with Mouse over Config Button)"
-                    }
-                },
-                "mouse": {
-                    "hover": "JEI (Hovering with Mouse)"
-                },
-                "dev": {
-                    "tools": "JEI (Dev Tools)"
-                }
-            },
-            "": "SHIFT + %s",
-            "combo": {
-                "control": "CTRL + %s"
-            }
-        },
-        "message": {
-            "configured": "Install the \"Configured\" mod to access the in-game config",
-            "copy": {
-                "recipe": {
-                    "id": "Copied Recipe ID to clipboard: %s"
-                }
-            }
-        }
-    },
-    "key": {
-        "jei": {
-            "focusSearch": "Select Search Bar",
-            "previousPage": "Previous Page",
-            "nextP": "Next Page",
-            "toggleBookmarkOverlay": "Show/Hide Bookmarked Ingredients",
-            "recipe": "Previous Recipe",
-            "previousCategory": "Previous Recipe Category",
-            "nextCategory": "Next Recipe Category",
-            "previousRecipePage": "Previous Recipe Page",
-            "nextRecipePage": "Next Recipe Page",
-            "toggleEd": "Toggle Hide Ingredients Mode",
-            "toggleWildcardHideIngredient": "Hide ingredient (wildcard)",
-            "toggleOverlay": "Show/Hide JEI Overlays"
-        }
-    },
-    "config": {
-        "jei": {
-            "": "%MODNAME Config",
-            "mode": {
-                "comment": "Change the mode that JEI is operating in.",
-                "cheatItemsEnabled": {
-                    "comment": "Give items instead of showing the recipe."
-                },
-                "editEnabled": {
-                    "comment": "Hide and unhide ingredients by clicking them in the ingredient list overlay."
-                }
-            },
-            "interface": {
-                "overlayEnabled": {
-                    "comment": "Show the ingredient list overlay next to open GUIs."
-                },
-                "bookmarkOverlayEnabled": "Show Bookmark List Overlay",
-                "bookmar": "Show the bookmark list overlay next to open GUIs."
-            },
-            "in": "Options related to the user interface.",
-            "search": {
-                "comment": "Options related to the search bar.",
-                "modNa": "@ModName",
-                "modNameSearchMode": {
-                    "comment": "Search mode for mod names (prefix: @)."
-                },
-                "tooltipSearchMode": "#Tooltip",
-                "tooltipSearchMo": "Search mode for tooltips (prefix: #).",
-                "tag": "$Tag",
-                "tagSearchMode": {
-                    "comment": "Search mode for tags (prefix: $)."
-                },
-                "creativeTabSearchMode": {
-                    "comment": "Search mode for creative tab names (prefix: %)."
-                },
-                "colorSearchMode": {
-                    "comment": "Search mode for colors (prefix: ^)."
-                },
-                "resourceIdSearchMode": {
-                    "comment": "Search mode for resources IDs (prefix: &)."
-                },
-                "searchAdvancedTooltips": "Search advanced tooltips"
-            },
-            "advanced": {
-                "comment": "Advanced config options to change the way JEI functions.",
-                "itemBlacklist": {
-                    "comment": "List of ingredients that should not be displayed in the ingredient list overlay. Format: modId[:name[:meta]]. Hide Ingredients Mode will automatically add or remove entries here."
-                },
-                "colorSearchEnabled": {
-                    "comment": "Search ingredients by color and show the colors on tooltips in the ingredient list overlay."
-                },
-                "debugModeEnabled": {
-                    "comment": "Only useful for JEI developers, adds test ingredients and some debug recipes."
-                },
-                "centerSearchBarEnabled": {
-                    "comment": "Move the JEI search bar to the bottom center of the screen."
-                },
-                "modNameFormat": {
-                    "comment": "How the mod name should be formatted in the tooltip for JEI GUIs. Leave blank to disable."
-                },
-                "maxColumns": {
-                    "c": "The maximum width of the ingredient and bookmark list overlays."
-                },
-                "maxRecipeGuiHeight": {
-                    "comment": "The maximum height of the recipe GUI."
-                },
-                "giveMode": {
-                    "comment": "Choose if JEI should give ingredients direct to the inventory (inventory) or pick them up with the mouse (mouse_pickup)."
-                }
-            }
-        }
-    },
-    "gui": {
-        "jei": {
-            "editMode": {
-                "description": {
-                    "hide": {
-                        "wild": "%s to hide by wildcard"
-                    }
-                }
-            },
-            "category": {
-                "craftingTable": "Crafting",
-                "stoneCutter": "Stonecutting",
-                "smelting": {
-                    "time": {
-                        "seconds": "%ss"
-                    }
-                },
-                "smoking": "Smoking",
-                "blasting": "Blasting",
-                "campfire": "Campfire Cooking",
-                "smeltin": "%s XP",
-                "fuel": {
-                    "smeltCount": "Smelts %s items"
-                },
-                "brewing": {
-                    "steps": "Steps: %s"
-                },
-                "compostable": {
-                    "chance": "Chance: %s%%"
-                }
-            },
-            "catego": "Information"
-        }
-    },
-    "description": {
-        "jei": {
-            "wooden": {
-                "door": {
-                    "2": "Clicking on a door changes its state from open to closed and vice versa."
-                }
-            }
-        }
-    }
+    "description.jei.wooden.door.1": "木門允許你阻擋怪物進入你的房子。\\n測試句子。",
+    "description.jei.wooden.door.3": "木門可以透過紅石打開或關閉。",
+    "description.jei.debug.formatting.1": "測試%s格式替換。",
+    "description.jei.debug.formatting.2": "測試%s %s格式替換。",
+    "description.jei.debug.formatting.3": "%s 嵌套",
+    "jei.tooltip.show.recipes": "顯示配方",
+    "jei.tooltip.liquid.amount": "%s mB",
+    "jei.tooltip.recipe.by": "該配方由 %s 加入",
+    "config.jei.advanced.modNameFormat.comment": "該如何格式化物品提示界面的模組名稱。留空以停用。",
+    "config.jei.search.tooltipSearchMode": "#Tooltip",
+    "config.jei.search.modNameSearchMode.comment": "使用模組名稱搜尋（前綴：@）。",
+    "gui.jei.editMode.description.hide.wild": "透過雜項隱藏%s",
+    "description.jei.wooden.door.2": "點擊門會將其狀態從打開變更為關閉，反之亦然。",
+    "jei.tooltip.error.crash": "提示錯誤，請查看日誌",
+    "config.jei.advanced.colorSearchEnabled.comment": "使用顏色搜尋物品並顯示顏色在原料清單疊加的物品提示上。",
+    "jei.tooltip.show.all.recipes": "顯示所有配方",
+    "jei.tooltip.delete.item": "點擊以刪除",
+    "jei.tooltip.error.recipe.transfer.too.large.player.inventory": "配方太大，無法在 2x2 的玩家合成欄合成。",
+    "jei.tooltip.error.recipe.transfer.disabled": "伺服器設定已禁止 JEI 配方轉移",
+    "jei.tooltip.error.recipe.transfer.no.server": "伺服器必須安裝JEI",
+    "jei.tooltip.error.recipe.transfer.unknown": "未知錯誤，請查看日誌",
+    "config.jei.advanced.maxRecipeGuiHeight.comment": "配方界面的最大高度。",
+    "config.jei.interface.overlayEnabled.comment": "在打開的介面一側顯示物品列表疊加。",
+    "config.jei.interface.bookmar": "在打開的介面旁邊顯示書籤列表疊加。",
+    "jei.key.category.recipe.gui": "JEI（配方）",
+    "gui.jei.category.craftingTable": "合成",
+    "gui.jei.category.stoneCutter": "切石",
+    "gui.jei.category.smelting.time.seconds": "%ss",
+    "gui.jei.category.smoking": "冒煙中",
+    "gui.jei.catego": "資訊",
+    "gui.jei.category.compostable.chance": "機率：%s%%",
+    "gui.jei.category.brewing.steps": "步驟：%s",
+    "config.jei.advanced.giveMode.comment": "選擇 JEI 會直接將物品放入物品欄（inventory）或是用滑鼠將其撿起（mouse_pickup）。",
+    "config.jei.search.colorSearchMode.comment": "使用顏色搜尋（前綴：^）。",
+    "config.jei.search.creativeTabSearchMode.comment": "使用創造模式頁面名稱搜尋（前綴：%）。",
+    "config.jei.search.searchAdvancedTooltips": "搜尋高級工具提示",
+    "jei.chat.error.no.cheat.permission.disabled": "在此伺服器，所有玩家被禁止使用 JEI 作弊模式。",
+    "jei.chat.error.no.cheat.permission.enabled": "在此伺服器，以下類型的玩家可以使用 JEI 作弊模式：",
+    "jei.chat.error.no.cheat.permission.creative": "創造模式的玩家",
+    "jei.key.category.hover.config.button": "JEI（將滑鼠懸停在配置按鈕上）",
+    "jei.key.category.mouse.hover": "JEI（滑鼠懸停）",
+    "jei.key.category.overlays": "JEI（疊加）",
+    "config.jei.search.tag": "$Tag",
+    "jei.key.category.dev.tools": "JEI（開發工具）",
+    "jei.key.combo.control": "CTRL + %s",
+    "jei.key.combo.shift": "SHIFT + %s",
+    "jei.chat.error.no.cheat.permission.op": "具有管理員身份（/op）的玩家",
+    "jei.message.configured": "安裝「Configured」模組後可在遊戲內修改設定",
+    "jei.message.copy.recipe.id": "已複製配方 ID 到剪貼簿：%s",
+    "key.jei.focusSearch": "選擇搜尋列",
+    "key.jei.previousPage": "上一頁",
+    "key.jei.toggleBookmarkOverlay": "顯示/隱藏書籤欄",
+    "jei.chat.error.no.cheat.permission.1": "你沒有權限使用 JEI 的作弊模式。",
+    "key.jei.recipe": "上一個配方分類",
+    "key.jei.nextCategory": "下一個配方分類",
+    "key.jei.previousRecipePage": "上一頁的配方",
+    "key.jei.nextRecipePage": "下一頁的配方",
+    "key.jei.toggleEd": "切換隱藏原料模式",
+    "key.jei.toggleWildcardHideIngredient": "隱藏原料（雜項）",
+    "key.jei.toggleOverlay": "顯示／隱藏JEI疊加",
+    "config.jei.title": "%MODNAME Config",
+    "config.jei.mode.comment": "變更 JEI 的工作模式。",
+    "gui.jei.category.smeltin": "%s點經驗值",
+    "config.jei.mode.cheatItemsEnabled.comment": "給予物品而非顯示其配方。",
+    "config.jei.mode.editEnabled.comment": "點擊原料列表疊加上的原料來隱藏或取消隱藏。",
+    "config.jei.interface.bookmarkOverlayEnabled": "顯示書籤列表疊加",
+    "config.jei.interface": "玩家介面的相關設定。",
+    "config.jei.search.modNameSearchMode": "@ModName",
+    "config.jei.search.comment": "搜尋欄的相關選項。",
+    "config.jei.search.tooltipSearchMo": "使用物品提示搜尋（前綴：#）。",
+    "key.jei.nextPage": "下一頁",
+    "config.jei.advanced.comment": "用於變更 JEI 功能的進階設定。",
+    "config.jei.advanced.itemBlacklist.comment": "黑名單中物品將不會顯示於JEI物品列表疊加。格式：modId[:name[:meta]]。隱藏編輯模式可自動加入或刪除這裡的條目。",
+    "config.jei.advanced.debugModeEnabled.comment": "僅對 JEI 開發者有用，啟用後會增加測試物品及一些除錯配方。",
+    "config.jei.advanced.centerSearchBarEnabled.comment": "移動 JEI 搜尋欄到螢幕底部中間的位置。",
+    "config.jei.advanced.maxColumns.comment": "原料和書籤列表疊加的最大寬度。",
+    "gui.jei.category.blasting": "熔煉中",
+    "gui.jei.category.campfire": "營火烹飪",
+    "config.jei.search.tagSearchMode.comment": "使用標籤搜尋（前綴：$）。",
+    "config.jei.search.resourceIdSearchMode.comment": "使用資源 ID 搜尋（前綴：&）"
 }
