@@ -1,0 +1,17 @@
+{
+  "name": "大型儲罐",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:large_tank",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/large_tank_asbl",
+      "text": "大型儲罐是一個多方塊，可讓您儲存大量流體，例如蒸汽。它可以為結構中的每個方塊（包括側面）儲存 64 桶流體。"
+    },
+    {
+      "type": "text",
+      "text": "The Large Tank has many possible sizes depending on how much storage you need. You can open the size configuration panel by clicking on a button in the controller.$(br2)Only pipes may access the tank, and only through the controller.$(br2)Don't break the controller or you will lose all of the stored fluid!"
+    }
+  ],
+  "sortnum": 101
+}
