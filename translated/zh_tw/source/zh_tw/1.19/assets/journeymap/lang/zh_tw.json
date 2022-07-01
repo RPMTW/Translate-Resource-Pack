@@ -571,7 +571,7 @@
     "jm.waypoint.bold_label": "標籤加粗",
     "jm.waypoint.bold_label.tooltip": "在烽火台上使用加粗的導航點標籤",
     "jm.waypoint.shader": "著色器信標",
-    "jm.waypoint.shader.tooltip": "讓著色器在定位點信標上做他們的事情。 可能會有意想不到的結果。",
+    "jm.waypoint.shader.tooltip": "讓著色器在定位點信標上做他們的事情。可能會有意想不到的結果。",
     "jm.waypoint.cancel": "取消",
     "jm.waypoint.chat": "到聊天欄",
     "jm.waypoint.chat.tooltip": "將目前位置複製到聊天欄",

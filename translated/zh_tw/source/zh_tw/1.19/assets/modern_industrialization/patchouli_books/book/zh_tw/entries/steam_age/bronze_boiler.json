@@ -1,0 +1,27 @@
+{
+  "name": "熱水",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:bronze_boiler",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Steam machines need steam to function, and that's exactly what the boiler provides.$(br2)It will slowly use fuel to heat up. When it's hot enough, it will start to produce steam."
+    },
+    {
+      "type": "smelting",
+      "recipe": "modern_industrialization:vanilla_recipes/steam_bucket",
+      "text": "您也可以將水桶熔煉成蒸汽桶。在鍋爐之前製作您的第一台$(l:modern_industrialization:steam_age/steam_machines)青銅壓縮機$()，以節省大量的板材！$(br2)翻到鍋爐本身的那一頁..."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/boiler_asbl",
+      "text": "它現在對你來說可能看起來很貴，但不要忘記你可以用鍛造鎚將礦石增加三倍。此外，只要您擁有前兩台機器，它的價格就會便宜兩倍多！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/fire_clay_dust",
+      "text": "要製作耐火磚，您需要烹製耐火黏土粉。而要製作這些，您將需要紅磚粉。要製作一些，請用鍛造鎚鎚鍊紅磚頭。在蒸汽機或鎚子可以提高過程效率。"
+    }
+  ],
+  "sortnum": 2
+}
