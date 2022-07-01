@@ -13,6 +13,7 @@
     "jei.tooltip.cheat.mode.button.enabled": "作弊模式已開啟",
     "jei.tooltip.cheat.mode.how.to.disable.hotkey": "按下 %s 以切換。",
     "jei.tooltip.cheat.mode.how.to.disable.hover.config.button.hotkey": "%s 這裡以切換它",
+    "jei.tooltip.recipe.by": "該配方由 %s 加入",
     "jei.tooltip.recipe.id": "配方ID：%s",
     "jei.tooltip.not.enough.space": "畫面空間不足，無法顯示 JEI 物品疊加介面。",
     "jei.tooltip.ingredient.list.disabled": "JEI 疊加介面已停用。",
