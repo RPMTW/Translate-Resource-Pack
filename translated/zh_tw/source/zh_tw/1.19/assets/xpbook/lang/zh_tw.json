@@ -1,7 +1,7 @@
 {
-    "item.xpbook.xp_book": "OLD - RIGHTCLICK TO CONVERT",
-    "item.xpbook.xp_tome": "XP Tome",
-    "xpbook.tooltip.1": "Sneak + right-click to store as much XP as possible",
-    "xpbook.tooltip.2": "Right-click to retrieve all XP",
-    "xpbook.tooltip.3": "%1$s/%2$s XP stored"
+    "item.xpbook.xp_book": "舊 - 右鍵轉換",
+    "item.xpbook.xp_tome": "經驗值之書",
+    "xpbook.tooltip.1": "蹲下+按右鍵儲存可能情況下最多的經驗值",
+    "xpbook.tooltip.2": "按右鍵取回所有經驗值",
+    "xpbook.tooltip.3": "%1$s/%2$s 經驗值已儲存"
 }
