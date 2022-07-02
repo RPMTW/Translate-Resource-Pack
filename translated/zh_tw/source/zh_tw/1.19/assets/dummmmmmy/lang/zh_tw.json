@@ -1,6 +1,6 @@
 {
-    "item.dummmmmmy.target_dummy_placer": "Target Dummy",
-    "entity.dummmmmmy.dummy_number": "Dummy Number",
-    "entity.dummmmmmy.target_dummy": "Target Dummy",
-    "message.dummmmmmy.dps": "%s: %s DPS"
+    "item.dummmmmmy.target_dummy_placer": "標靶假人",
+    "entity.dummmmmmy.dummy_number": "假人編號",
+    "entity.dummmmmmy.target_dummy": "標靶假人",
+    "message.dummmmmmy.dps": "%s：%s 每秒傷害(DPS)"
 }
