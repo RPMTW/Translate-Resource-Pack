@@ -1,12 +1,12 @@
 {
     "_comment": "# 功能設定",
-    "config.commoncapabilities": "%s configuration",
-    "recipecomponent.minecraft.itemstack": "Item",
-    "recipecomponent.minecraft.fluidstack": "Fluid",
-    "recipecomponent.minecraft.energy": "Energy",
-    "capability.commoncapabilities.inventoryState": "Inventory state",
-    "capability.commoncapabilities.temperature": "Temperature",
-    "capability.commoncapabilities.worker": "Worker",
-    "capability.commoncapabilities.worldNameable": "Nameable world",
-    "capability.commoncapabilities.wrench": "Wrench"
+    "config.commoncapabilities": "%s配置",
+    "recipecomponent.minecraft.itemstack": "物品",
+    "recipecomponent.minecraft.fluidstack": "液體",
+    "recipecomponent.minecraft.energy": "能量",
+    "capability.commoncapabilities.inventoryState": "物品欄狀態",
+    "capability.commoncapabilities.temperature": "溫度",
+    "capability.commoncapabilities.worker": "工人",
+    "capability.commoncapabilities.worldNameable": "可命名的世界",
+    "capability.commoncapabilities.wrench": "扳手"
 }
