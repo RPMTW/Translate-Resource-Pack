@@ -6,16 +6,16 @@
     {
       "type": "crafting",
       "recipe": "modern_industrialization:electric_age/machine/large_steam_boiler_asbl",
-      "text": "The Large Steam Boiler is an upgraded version of the smaller Bronze and Steel Boilers. It uses fuels 8 times faster than the Furnace, but it produces 256 mb/t of Steam when fully heated"
+      "text": "大型蒸汽鍋爐是小型青銅和鋼製鍋爐的升級版。它使用燃料的速度比熔爐快 8 倍，但在完全加熱時會產生 256 mb/t 的蒸汽。不要忘記水，否則它不會起作用！"
     },
     {
       "type": "text",
-      "text": "Unlike its single block counterpart, in the Large Steam Boiler, 80% of any unconsumed heat will be lost. This means the ratio of energy produced by fuel consumed will drastically decrease when the output decreases below maximum. This will happen when the Boiler is not used continuously at maximum output."
+      "text": "與單個鍋爐不同，在大型蒸汽鍋爐中，任何未消耗的熱量都會損失掉80%。這意味著，當輸出量下降到最大值以下時，所產生的能量與所消耗的燃料的比率將急劇下降。當鍋爐沒有以最大輸出量連續使用時，就會出現這種情況。"
     },
     {
       "type": "crafting",
       "recipe": "modern_industrialization:electric_age/casing/bronze_plated_bricks_asbl",
-      "text": "The main block you'll need is the Bronze Plated Bricks, but you'll also need Bronze Pipe Machine Casings and Heatproof Machine Casings."
+      "text": "您需要的主要方塊是鍍銅磚塊，但您還需要青銅管道機器外殼和耐熱機器外殼。"
     },
     {
       "type": "crafting",
@@ -24,7 +24,7 @@
     },
     {
       "type": "text",
-      "text": "The Large Steam Boiler is comprised of one layer of Heatproof Machine Casings and three layers of Bronze Plated Bricks.$(br2)The controller goes on the second layer (i.e. the first layer of Bronze Plated Bricks).$(br2)The two middle blocks are Bronze Pipe Machine Casings.$(br2)Hatches must be placed on the bottom layer."
+      "text": "大型蒸汽鍋爐由一層耐熱機器外殼和三層鍍銅磚塊組成。$(br2)控制器進入第二層（即第一層鍍銅磚塊）。$(br2)中間的兩個方塊是青銅管道機器外殼。$(br2)倉必須放在底層。"
     }
   ],
   "sortnum": 102
