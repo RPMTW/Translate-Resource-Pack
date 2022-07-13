@@ -30,7 +30,7 @@
     {
       "type": "crafting",
       "recipe": "modern_industrialization:steam_age/bronze/furnace_asbl",
-      "text": "The Furnace is... well... a Furnace. It is as slow as normal Furnaces, but it uses 10 times less fuel because steam is very efficient."
+      "text": "這個熔爐……就是個……普通的熔爐。它和普通的熔爐一樣慢，但它消耗的燃料是普通熔爐的四十分之一。"
     },
     {
       "type": "text",
