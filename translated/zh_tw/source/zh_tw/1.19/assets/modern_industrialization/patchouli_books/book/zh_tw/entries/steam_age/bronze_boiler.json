@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "Steam machines need steam to function, and that's exactly what the boiler provides.$(br2)It will slowly use fuel to heat up. When it's hot enough, it will start to produce steam."
+      "text": "蒸汽機器需要蒸汽來運轉，而鍋爐就能提供蒸汽。$(br2)鍋爐會緩慢消耗燃料來加熱。溫度足夠時，鍋爐就會產出蒸汽。別忘了加水，否則你的燃料就白白浪費了。"
     },
     {
       "type": "smelting",
