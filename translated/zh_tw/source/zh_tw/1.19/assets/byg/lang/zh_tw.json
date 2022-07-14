@@ -1326,7 +1326,7 @@
     "byg.worldgenexport.exists": "世界導出已存在！ 在此處查看: %s!",
     "byg.worldgenexport.failed": "哦哦，無法創建世界生成導出，請查看您的最新日誌！",
     "byg.worldgenexport.singleplayer": "世界生成導出指令必須在單人遊戲中使用！",
-    "byg.worldgenexport.starting": "開始世界生成導出，預計伺服器延遲和高內存使用...",
+    "byg.worldgenexport.starting": "開始世界生成導出，預計伺服器延遲和高記憶體使用...",
     "byg.worldgenexport.success": "世界導出成功!在此處查看文件:%s!",
     "container.hypogeal_imperium_container": "負溫冷凝器",
     "death.attack.byg.cattail_campfire": "%s太好奇了",
