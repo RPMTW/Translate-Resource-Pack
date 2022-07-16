@@ -229,7 +229,7 @@
     "valuetype.integrateddynamics.error.fluid.no_fluid": "The inserted item contains no fluid.",
     "valuetype.integrateddynamics.error.no_light_calculator": "The value type %s can not be used to derive a light level.",
     "valuetype.integrateddynamics.error.deserialize": "Something went wrong while deserializing '%s': %s",
-    "valuetype.integrateddynamics.any": "Any",
+    "valuetype.integrateddynamics.any": "任何",
     "valuetype.integrateddynamics.any.info": "Accepts any type of value.",
     "valuetype.integrateddynamics.number": "Number",
     "valuetype.integrateddynamics.number.info": "Accepts all number types.",
