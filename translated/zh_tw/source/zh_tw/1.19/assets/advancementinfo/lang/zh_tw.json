@@ -1,0 +1,13 @@
+{
+    "advancementinfo.infopane": "關於",
+    "text.autoconfig.advancementinfo.title": "進階資訊設定",
+    "text.autoconfig.advancementinfo.option.colorHave": "已完成成就要求顏色",
+    "text.autoconfig.advancementinfo.option.colorHaveNot": "未完成成就顏色",
+    "text.autoconfig.advancementinfo.option.marginX": "邊距X",
+    "text.autoconfig.advancementinfo.option.marginY": "邊距Y",
+    "text.autoconfig.advancementinfo.option.infoWidth": "資訊寬度",
+    "text.autoconfig.advancementinfo.option.infoWidth.min": "最小值",
+    "text.autoconfig.advancementinfo.option.infoWidth.max": "最大值",
+    "text.autoconfig.advancementinfo.option.infoWidth.percent": "%",
+    "text.autoconfig.advancementinfo.option.infoWidth.enabled": "啟用"
+}
