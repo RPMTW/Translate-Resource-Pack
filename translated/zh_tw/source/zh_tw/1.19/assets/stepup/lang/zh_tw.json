@@ -1,15 +1,15 @@
 {
-    "mod.stepup.minecraft": "Vanilla",
-    "mod.stepup.autojump": "Auto Jump",
-    "mod.stepup.enabled": "Enabled",
-    "mod.stepup.disabled": "Disabled",
-    "mod.stepup.updateAvailable": "Update Available",
-    "mod.stepup.updateTooltip": "Click here to update from official website",
-    "key.categories.stepup": "StepUp",
-    "key.stepup.toggle": "Toggle",
-    "mod.stepup.config.default": "Default on new servers",
-    "mod.stepup.config.dostepup": "§aStepUp enabled",
-    "mod.stepup.config.nostepup": "§cStepUp disabled",
-    "mod.stepup.config.vanillajump": "§eUse Vanilla Auto Jump",
-    "mod.stepup.config.tt.onthisserver": "Stepup behavior on this server"
+    "mod.stepup.minecraft": "原版",
+    "mod.stepup.autojump": "自動跳躍",
+    "mod.stepup.enabled": "啟用",
+    "mod.stepup.disabled": "停用",
+    "mod.stepup.updateAvailable": "有可用的更新",
+    "mod.stepup.updateTooltip": "點擊這裡從官網更新",
+    "key.categories.stepup": "步進",
+    "key.stepup.toggle": "切換",
+    "mod.stepup.config.default": "在預設的新伺服器啟用",
+    "mod.stepup.config.dostepup": "§啟用步進",
+    "mod.stepup.config.nostepup": "§停用步進",
+    "mod.stepup.config.vanillajump": "§使用原版自動跳躍",
+    "mod.stepup.config.tt.onthisserver": "此伺福器的步進行為"
 }
