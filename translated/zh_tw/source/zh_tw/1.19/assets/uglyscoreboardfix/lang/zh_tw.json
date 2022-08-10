@@ -1,6 +1,6 @@
 {
-    "config.uglyscoreboardfix.sidebar.hiding": "Hiding options",
-    "config.uglyscoreboardfix.sidebar.hiding.hidePart": "Hide",
+    "config.uglyscoreboardfix.sidebar.hiding": "隱藏選項",
+    "config.uglyscoreboardfix.sidebar.hiding.hidePart": "隱藏",
     "config.uglyscoreboardfix.sidebar.hiding.hidePart.scores": "Scores",
     "config.uglyscoreboardfix.sidebar.hiding.hidePart.sidebar": "Sidebar",
     "config.uglyscoreboardfix.sidebar.hiding.hidePart.tooltip": "Whether to hide the scores only (red numbers on the right side) or the sidebar completely.",
