@@ -1,9 +1,9 @@
 {
-    "title.smoothscrollingeverywhere.config": "Smooth Scrolling Everywhere Config",
-    "option.smoothscrollingeverywhere.easingMethod": "Easing Method:",
-    "option.smoothscrollingeverywhere.scrollDuration": "Scrolling Duration:",
-    "option.smoothscrollingeverywhere.scrollStep": "Scrolling Step:",
-    "option.smoothscrollingeverywhere.bounceBackMultiplier": "Bounce Back Multiplier:",
-    "option.smoothscrollingeverywhere.setDefaultSmoothScroll": "Set Default Smooth Scroll",
-    "option.smoothscrollingeverywhere.disableSmoothScroll": "Disable Smooth Scroll"
+    "title.smoothscrollingeverywhere.config": "平滑滾動無所不在 設定",
+    "option.smoothscrollingeverywhere.easingMethod": "基本設定：",
+    "option.smoothscrollingeverywhere.scrollDuration": "滾動持續時間",
+    "option.smoothscrollingeverywhere.scrollStep": "滾動靈敏度：",
+    "option.smoothscrollingeverywhere.bounceBackMultiplier": "反彈乘數：",
+    "option.smoothscrollingeverywhere.setDefaultSmoothScroll": "設定預設平滑滾動",
+    "option.smoothscrollingeverywhere.disableSmoothScroll": "停用平滑滾動"
 }
