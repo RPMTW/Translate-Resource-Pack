@@ -30,7 +30,7 @@
     "bdlib.config.power.maxinput": "最大能源輸入",
     "bdlib.config.power.capacity": "能源容量",
     "bdlib.config.power.activation": "啟動能源",
-    "bdlib.oredistribution.usage": "使用方法： /oredistribution <半徑> [<最低高度>] [<最高高度>] [--file]",
+    "bdlib.oredistribution.usage": "使用方法：/oredistribution <半徑> [<最低高度>] [<最高高度>] [--file]",
     "bdlib.oredistribution.start1": "檢查在（%s %s %s）到（%s %s %s）的礦物分佈情況 dim %s",
     "bdlib.oredistribution.start2": "伺服器可能會出現短暫的延遲",
     "bdlib.oredistribution.entry": "%s %s - %s（%s%%）",
