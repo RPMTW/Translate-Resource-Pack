@@ -51,7 +51,7 @@
     "RS Monument Map": "RS遺跡地圖\n",
     "repurposed_structures.midnightconfig.title": "重新設計的結構",
     "repurposed_structures.midnightconfig.importModdedItems": "導入模組修改項目",
-    "repurposed_structures.midnightconfig.blacklistedRSLoottablesFromImportingModdedItems": "禁用導入模組物品的RS黑名單",
+    "repurposed_structures.midnightconfig.blacklistedRSLoottablesFromImportingModdedItems": "停用導入模組物品的RS黑名單",
     "repurposed_structures.midnightconfig.importModdedItems.tooltip": "從原版結構的戰利品表中添加改裝戰利品和\n將它們注入重新設計的結構的戰利品表中。\n示例：雪地金字塔獲取所有修改過的物品\n原版沙漠神殿可以有",
-    "repurposed_structures.midnightconfig.blacklistedRSLoottablesFromImportingModdedItems.tooltip": "為重新設計的結構的黑名單添加標識符\n想要關閉自動修改項目導入代碼。\n用逗號分隔多個條目。\n例子：\n“repurposed_structures:chests/mansions/birch,\nrepurposed_structures:chests/mineshafts/jungle\""
+    "repurposed_structures.midnightconfig.blacklistedRSLoottablesFromImportingModdedItems.tooltip": "為重新設計的結構的黑名單添加標識符\n想要關閉自動修改項目導入代碼。\n用逗號分隔多個條目。\n例子：\n「repurposed_structures:chests/mansions/birch,\nrepurposed_structures:chests/mineshafts/jungle\""
 }
