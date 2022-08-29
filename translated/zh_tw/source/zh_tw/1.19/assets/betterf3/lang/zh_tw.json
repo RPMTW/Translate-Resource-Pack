@@ -62,7 +62,7 @@
     "config.betterf3.order_left_button": "畫面左側模組",
     "config.betterf3.order_right_button": "畫面右側模組",
     "config.betterf3.general_settings": "一般設定",
-    "debug.betterf3.cycle_renderdistance.message": "渲染距離： %s",
+    "debug.betterf3.cycle_renderdistance.message": "渲染距離：%s",
     "debug.betterf3.cycle_simulationdistance.message": "模擬距離: %s",
     "debug.betterf3.cycle_renderdistance.help": "F3 + F = 在不同顯示距離中循環（按 Shift 鍵反向循環）",
     "debug.betterf3.cycle_simulationdistance.help": "F3 + F鍵 + Crtl = 循環模擬距離 (Shift鍵反向操作)",
