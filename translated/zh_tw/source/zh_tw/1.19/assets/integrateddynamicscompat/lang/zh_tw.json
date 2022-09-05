@@ -1,6 +1,6 @@
 {
     "_comment": "------ 在集成動力中的內容 ------",
-    "gui.integrateddynamics.waila.part_config": "Part Information",
+    "gui.integrateddynamics.waila.part_config": "組件訊息",
     "gui.integrateddynamics.waila.proxy_config": "Proxy Information",
     "gui.integrateddynamics.waila.squeezer_config": "Squeezer Information",
     "gui.integrateddynamics.waila.drying_basin_config": "Drying Basin Information",
