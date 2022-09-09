@@ -337,7 +337,7 @@
     "inventoryprofiles.tooltip.next_profile_button": "Select and apply next profile",
     "inventoryprofiles.tooltip.prev_profile_button": "Select and apply previous profile",
     "inventoryprofiles.tooltip.apply_profile_button": "Apply selected profile",
-    "inventoryprofiles.tooltip.editor_toggle": "Show configuration screen for Inventory Profiles Next GUI overlay",
+    "inventoryprofiles.tooltip.editor_toggle": "顯示IPN的GUI疊層配置畫面",
     "inventoryprofiles.update.version": " 版本: ",
     "inventoryprofiles.update.available": " 現已可用",
     "inventoryprofiles.update.get": "從這裡了解更多:",
