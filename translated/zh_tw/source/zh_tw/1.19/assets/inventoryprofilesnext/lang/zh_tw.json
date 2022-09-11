@@ -272,7 +272,7 @@
     "inventoryprofiles.config.description.sort_inventory_in_columns": "一鍵垂直方向分類的按鍵",
     "inventoryprofiles.config.description.sort_inventory_in_rows": "一鍵水平方向分類的按鍵",
     "inventoryprofiles.config.description.move_all_items": "移動容器中已存在的所有物品按鍵",
-    "inventoryprofiles.config.description.throw_all_items": "扔出玩家物品欄或打開的容器中的所有物品的按鍵。一般來說，在大量製作時很有用。\n所有移動所有物品的修改鍵也適用於此。",
+    "inventoryprofiles.config.description.throw_all_items": "扔出玩家物品欄或開啟的容器中所有物品的按鍵。一般來說，在大量製作時很有用。\n移動全部物品的所有修改鍵也適用於此。",
     "inventoryprofiles.config.description.dump_item_nbt_to_chat": "將帶有NBT的物品字符串打印到聊天記錄中",
     "inventoryprofiles.config.description.open_gui_editor": "顯示IPN的GUI疊層配置畫面",
     "inventoryprofiles.config.description.reload_custom_configs": "當你定義新的自訂規則時，此熱鍵可以更快地重新加載配置。\n在其他情況下，建議不要動它。\n重新加載配置通常不會是你想要做的事。",
