@@ -1,13 +1,13 @@
 {
-    "smoothswapping.config.menu": "Smooth Swapping Config Menu",
-    "smoothswapping.config.general": "General",
-    "smoothswapping.config.option.animationspeed": "Animation Speed",
+    "smoothswapping.config.menu": "平滑移動配置選單",
+    "smoothswapping.config.general": "一般設定",
+    "smoothswapping.config.option.animationspeed": "動畫速度",
     "smoothswapping.config.option.animationspeed.speed": "速度",
-    "smoothswapping.config.option.ease": "Ease Animation Style",
-    "smoothswapping.config.option.ease.linear": "Linear",
-    "smoothswapping.config.option.ease.ease-in": "Ease-In",
-    "smoothswapping.config.option.ease.ease-out": "Ease-Out",
-    "smoothswapping.config.option.ease.ease-in-out": "Ease-In-Out",
+    "smoothswapping.config.option.ease": "舒適動畫風格",
+    "smoothswapping.config.option.ease.linear": "線性",
+    "smoothswapping.config.option.ease.ease-in": "緩進",
+    "smoothswapping.config.option.ease.ease-out": "緩出",
+    "smoothswapping.config.option.ease.ease-in-out": "緩進/出",
     "smoothswapping.config.option.easespeed": "進食動畫速度",
     "smoothswapping.config.option.easespeed.speed": "速度"
 }
