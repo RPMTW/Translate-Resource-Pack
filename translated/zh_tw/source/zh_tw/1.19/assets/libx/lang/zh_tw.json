@@ -49,5 +49,5 @@
     "libx.config.gui.component.arguments": "參數",
     "libx.config.gui.component.type_text": "文字",
     "libx.config.gui.component.type_translate": "翻譯",
-    "libx.config.gui.component.type_key": "Keybinding"
+    "libx.config.gui.component.type_key": "快捷鍵"
 }
