@@ -54,13 +54,13 @@
     "sodium.options.use_persistent_mapping.tooltip": "如果啟用，少量記憶體將永久用於區塊上傳的暫存緩衝區，有助於在載入或更新區塊時減少 CPU 負載和FPS不穩定。\n\n需要 OpenGL 4.4 或 ARB_buffer_storage。",
     "sodium.options.chunk_memory_allocator.name": "區塊記憶體分配模式",
     "sodium.options.chunk_memory_allocator.tooltip": "選擇用於區塊渲染的記憶體分配器。\n- ASYNC：最快的選項，適用於大多數現行圖形驅動程式。\n- SWAP：舊版圖形驅動程式的返回選項。可能會顯著增加記憶體使用量。",
-    "sodium.options.chunk_memory_allocator.async": "非同步",
-    "sodium.options.chunk_memory_allocator.swap": "切換",
+    "sodium.options.chunk_memory_allocator.async": "Async",
+    "sodium.options.chunk_memory_allocator.swap": "Swap",
     "sodium.options.chunk_update_threads.name": "區塊更新線程",
     "sodium.options.chunk_update_threads.tooltip": "指定用於區塊構建的線程數。使用更多線程可以加快區塊載入和更新速度，但可能會對FPS產生負面影響。",
     "sodium.options.always_defer_chunk_updates.name": "始終延遲區塊更新",
     "sodium.options.always_defer_chunk_updates.tooltip": "如果啟用，渲染將不會等待區塊更新完成，即使它們很重要。在某些情況下，這可以有效提升FPS，但可能會在部分場景中造成明顯的視覺滯留。",
     "sodium.options.buttons.undo": "取消變更",
     "sodium.options.buttons.apply": "套用變更",
-    "sodium.options.buttons.donate": "幫我買杯咖啡！"
+    "sodium.options.buttons.donate": "贊助我們！"
 }
