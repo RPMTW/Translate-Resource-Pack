@@ -1,19 +1,19 @@
 {
   "category": "aoa3:contents",
   "icon": "aoa3:torn_pages",
-  "name": "Transcription",
+  "name": "轉錄",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "and so we begin to form an understand the underlying mechanics in which we came to be. Not everything discussed thus-far is to be understood with absolute confidence, as large portions of it are educated guesses at best, but we have some confidence in its veracity."
+      "text": "因此，我們開始形成對我們賴以生存的基本機制的理解。 到目前為止，並非所有討論的內容都可以絕對自信地理解，因為其中大部分充其量只是有根據的猜測，但我們對其真實性有一定的信心。"
     },
     {
       "type": "patchouli:text",
-      "text": "At the very least we can sum up our current knowledge with the current key points:$(br)$(li)Other dimensions DO exist$(li)We don't yet know how to access them$(li)They have been accessed by humans in the past$(li)Dimensional travel is not safe"
+      "text": "至少我們可以用當前的關鍵點來總結我們目前的知識：$(br)$(li)其他維度確實存在$(li)我們還不知道如何訪問它們$(li)他們已經 過去被人類訪問過$(li)次元旅行不安全"
     },
     {
       "type": "patchouli:text",
-      "text": "With that information in mind, we should begin investigations on the possibility of safe travel being the dimensions in an effort to understand as much as possible about them before the next great dimensional clash, whenever that may be.$(br2)There is growing concern however that this may not be within our reach. We've already lost one of our own, and we've only just hit the starting steps of this field of inquiry."
+      "text": "考慮到這些訊息，我們應該開始調查安全旅行作為維度的可能性，以便在下一次大規模維度衝突之前盡可能多地了解它們。$(br2)人們越來越擔心 但是，這可能不在我們的範圍之內。 我們已經失去了自己的一個，而且我們才剛剛邁出了這一調查領域的起步階段。"
     }
   ],
   "sortnum": 0
