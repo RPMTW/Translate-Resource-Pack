@@ -1,23 +1,23 @@
 {
   "category": "aoa3:contents",
   "icon": "aoa3:torn_pages",
-  "name": "Transcription",
+  "name": "轉錄",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "I've set foot for the first time in another dimension; it appears to be a flaming hellscape filled with mutated animalistic creatures that fit well into the environment.$(br)Unfortunately it's as inhospitable as I expected prior to powering the portal, so I made haste on a makeshift shelter built into a cliffside"
+      "text": "我第一次踏足異次元； 它似乎是一個燃燒的地獄景觀，充滿了非常適合環境的變異動物。$(br)不幸的是，在為傳送門供電之前，它和我預期的一樣荒涼，所以我趕緊在懸崖邊建造了一個臨時避難所"
     },
     {
       "type": "patchouli:text",
-      "text": "The creatures here are notably more dangerous than the creatures from my dimension, but nothing I can't handle. They are interesting though - the primary denizens seem to be some kind of animal-human hybrid, with a pig-like appearance. I believe there may be some relation to the old fables of 'hell' that we tell each other in stories."
+      "text": "這裡的生物比我維度的生物危險得多，但沒有什麼是我無法處理的。 不過它們很有趣——主要居民似乎是某種動物與人類的混血兒，長得像豬。 我相信這可能與我們在故事中互相講述的“地獄”的古老寓言有關。"
     },
     {
       "type": "patchouli:text",
-      "text": "I have noticed some intentional-looking structures in the foggy distance, which I'll be checking out in the next few days - are there even days in here? I'm not even sure if there's an equivalent of celestial bodies in this place. Something else to investigate, perhaps. Anyway, I'll be checking those structures out soon, as a matter of interest"
+      "text": "我注意到有霧的遠處有一些故意看的結構，我將在接下來的幾天內檢查它們——這裡還有幾天嗎？ 我什至不確定這個地方是否有類似的天體。 也許還有其他需要調查的東西。 無論如何，我會盡快檢查這些結構，作為一個感興趣的問題"
     },
     {
       "type": "patchouli:text",
-      "text": "If they are as intentional as they appear to be, it might be my first actual evidence of the Arc-ancestors' presence in a plane other than my own.$(br)That alone would be confirmation enough that I've made the right decision in chasing down this path."
+      "text": "如果他們像他們看起來的那樣故意，這可能是我第一個實際證據證明 Arc 祖先存在於我所在位面之外的位面。$(br)僅此一項就足以證實我做對了 決定走這條路。"
     }
   ],
   "sortnum": 0
