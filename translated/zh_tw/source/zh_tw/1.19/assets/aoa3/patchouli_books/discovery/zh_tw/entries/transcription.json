@@ -1,35 +1,35 @@
 {
   "category": "aoa3:contents",
   "icon": "aoa3:torn_pages",
-  "name": "Transcription",
+  "name": "轉錄",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "could we ever have suspected that this was possible! Nevertheless, this discovery finally begins us on the path we have been hunting for decades. This is finally solid proof that dimensional travel is not only possible, but safely possible!$(br2)As for the dimension itself, it is even more intriguing than originally expected."
+      "text": "我們有沒有想過這是可能的！ 儘管如此，這一發現最終讓我們開始了我們幾十年來一直在尋找的道路。 這終於有力地證明了次元旅行不僅是可能的，而且是安全的！$(br2)至於次元本身，它比最初預期的還要有趣。"
     },
     {
       "type": "patchouli:text",
-      "text": "It appears to be some form of dimensional garbage collector. There appears to be chunks of land pulled from different lands just dotted throughout an otherwise empty space. We are incredibly lucky that there seems to be some form of magical stasis here preventing us from suffocating in what appears to be empty space. These primary constructions are definitely intentional however, possibly built by some ancient"
+      "text": "它似乎是某種形式的維度垃圾收集器。 似乎有大塊的土地是從不同的土地上拉出來的，只是點綴在一個原本空曠的空間裡。 我們非常幸運，這裡似乎有某種形式的魔法停滯阻止我們在看似空曠的空間中窒息。 然而，這些主要建築絕對是故意的，可能是由一些古代人建造的"
     },
     {
       "type": "patchouli:text",
-      "text": "civilisation or race, or possibly some higher power. There is intentional ornate architecture and still-working portals, which indicates an incredibly advanced and stable form of magic of which we can only dream."
+      "text": "文明或種族，或者可能是某種更高的權力。 有故意的華麗建築和仍在工作的門戶，這表明我們只能夢想的一種令人難以置信的先進和穩定的魔法形式。"
     },
     {
       "type": "patchouli:text",
-      "text": "15 Anth. 19444 CD.$(br2)$(br2)We have had a few days now to catalogue our findings of the initial structures of this place, and there is definitely an overarching malevolence here. Despite its welcoming ornate designs, whoever or whatever created this place have taken advantage of the floating chunks of lost dimensions to host trials and challenges for visitors."
+      "text": "15 日。 19444 CD.$(br2)$(br2)我們已經有幾天的時間來整理我們對這個地方的初始結構的發現，這里肯定有一個總體的惡意。 儘管其華麗的設計令人歡迎，但無論是誰或任何創造了這個地方的人，都利用了丟失尺寸的浮動塊來為遊客舉辦試驗和挑戰。"
     },
     {
       "type": "patchouli:text",
-      "text": "but given the stability of the magic we have seen here, I fail to see why it wouldn't still be operational."
+      "text": "但是考慮到我們在這裡看到的魔法的穩定性，我不明白為什麼它仍然無法運行。"
     },
     {
       "type": "patchouli:text",
-      "text": "29 Anth. 19444 CD.$(br2)$(br2)This is it. We were inspecting some form of plinth we discovered in one of the centrally linked chambers, and one of my colleagues brought some sort of relic he had found lying nearby too close to it, and the plinth activated. Before we knew it, we were all teleported away to one of the dimensional shards floating through the void"
+      "text": "29 日。 19444 CD.$(br2)$(br2)就是這樣。 我們正在檢查我們在其中一個中央相連的房間中發現的某種形式的底座，我的一位同事帶來了某種他在附近發現的遺物離它太近了，底座被激活了。 在不知不覺中，我們都被傳送到了漂浮在虛空中的次元碎片之一"
     },
     {
       "type": "patchouli:text",
-      "text": "and immediately set upon by a monstrous beast. He killed almost all of us immediately, and has been slowly picking off the rest of us who managed to run and hide in the initial slaughter.$(br)I don't know if anyone else is left, and I don't know how long I can hide here before it finds me.$(br)Whatever these chambers were designed for, it was something far stronger than us."
+      "text": "並立即被一頭猛獸襲擊。 他幾乎立即殺死了我們所有人，並一直在慢慢地把我們其他人在最初的屠殺中設法逃跑和躲藏起來。$(br)我不知道是否還剩下其他人，我也不知道 我能在它找到我之前躲在這裡多久。$(br)無論這些房間是為了什麼而設計的，它都比我們強大得多。"
     }
   ],
   "sortnum": 0
