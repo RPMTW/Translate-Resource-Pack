@@ -1,23 +1,23 @@
 {
   "category": "aoa3:contents",
   "icon": "aoa3:torn_pages",
-  "name": "Transcription",
+  "name": "轉錄",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "in place today. We're quietly confident that this text will be the first successful one. When the rune slid into place it had a slight reaction, unlike all the previous attempts - as if it was resonating with the rest of the frame. The old stone panels we found seem to be the key, the magic flows through them in a way that makes it all work."
+      "text": "今天到位。 我們有信心這個文本將是第一個成功的文本。 當符文滑入到位時，它會產生輕微的反應，這與之前的所有嘗試不同——就好像它正在與框架的其餘部分產生共鳴一樣。 我們發現的舊石板似乎是關鍵，魔法以一種使一切正常的方式流過它們。"
     },
     {
       "type": "patchouli:text",
-      "text": "We'll attempt to activate the frame tomorrow morning. The key's power seemed to notice the newly constructed frame, perhaps some amount of its divine power sensing a potential? This whole exercise has us all questioning the theocratic implications of the physical manifestation of a divine power.$(br)Could Krasaun be more than just a legend? Although it's easily more plausible that we just don't yet understand"
+      "text": "明天早上我們將嘗試激活框架。 鑰匙的力量似乎注意到了新構建的框架，也許是它的一些神力感應到了一種潛力？ 這整個練習讓我們都質疑神聖力量的物理表現的神權含義。$(br)Krasaun 可能不僅僅是一個傳奇嗎？ 雖然我們還不明白這很容易更合理"
     },
     {
       "type": "patchouli:text",
-      "text": "the magic well enough to differentiate it from a divine power. Maybe we'll find out more if we can ever get this portal thing working.$(br2)I am personally curious about the impacts this may have on localised hyper-travel. The other teams working on the portal to the underworld seem to believe that a stable implementation of their designs would allow not only travel to that realm, but also a method to"
+      "text": "足以將其與神力區分開來的魔法。 如果我們能讓這個門戶網站工作，也許我們會發現更多。$(br2)我個人很好奇這可能對本地化超旅行產生的影響。 其他致力於黑社會門戶的團隊似乎相信，穩定地實施他們的設計不僅可以讓他們前往那個領域，而且還可以提供一種方法"
     },
     {
       "type": "patchouli:text",
-      "text": "travel vast distances of our dimension with little to no side effects. This would be a monumental breakthrough, although I remain justifiably skeptical.$(br2)Regardless, tomorrow if all things go well I will be the first person to travel inter-dimensionally (at least in modern times), though I'm not sure my excitement justifies the decision to volunteer to be first."
+      "text": "在幾乎沒有副作用的情況下旅行我們維度的很遠距離。 這將是一個巨大的突破，儘管我仍然持懷疑態度。$(br2)無論如何，明天如果一切順利，我將成為第一個跨維度旅行的人（至少在現代），儘管我不確定 我的興奮證明了自願成為第一的決定是正確的。"
     }
   ],
   "sortnum": 0

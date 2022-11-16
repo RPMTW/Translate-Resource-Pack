@@ -990,7 +990,7 @@
     "stat.tombstone.villager_killed": "Villager Kills",
     "stat.tombstone.zombify": "Zombified Villagers",
     "stat.tombstone.trade_grave_guardian": "Grave Guardian Trades",
-    "stat.tombstone.traded_lollipop": "Traded Halloween Lollipop",
+    "stat.tombstone.traded_lollipop": "交易萬聖節棒棒糖",
     "entity.tombstone.grave_guardian": "Grave Guardian",
     "entity.tombstone.cloud": "Cloud",
     "config.jade.plugin_tombstone.graves": "插件 Corail 墓碑"

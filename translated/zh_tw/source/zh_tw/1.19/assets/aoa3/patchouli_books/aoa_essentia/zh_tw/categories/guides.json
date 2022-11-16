@@ -1,5 +1,5 @@
 {
-  "description": "Read guides for various areas of the mod here.$(br)Guides are not intended to be thorough walkthroughs of the mod. $(aoa) is intended to be a sandbox mod, played differently by each player.$(br2)Consider these as general guidelines for how to get the basics done.",
+  "description": "在此處閱讀本模組各個領域的指南。$(br)指南並非旨在全面介紹本模組。 $(aoa) 旨在成為一個沙盒模式，每個玩家玩的方式不同。$(br2)將這些視為如何完成基本操作的一般指南。",
   "icon": "minecraft:written_book",
-  "name": "Guides"
+  "name": "指南"
 }

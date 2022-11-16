@@ -1,5 +1,5 @@
 {
-  "description": "Contents of the journal given by the $(thing)Corrupted Traveller$()",
+  "description": "$(thing)墮落的旅行者$() 給出的日誌內容",
   "icon": "aoa3:worn_book",
-  "name": "Contents"
+  "name": "內容"
 }

@@ -1,6 +1,6 @@
 {
   "parent": "aoa3:skills",
-  "description": "$(thing)Engineering$() is a skill centering around the construction of devices and tools to aid with various areas of the game.$(br2)Levelling up $(thing)Engineering$() gives access to more devices, and can give benefits for existing ones.",
+  "description": "$(thing)工程學$() 是一項以構建設備和工具為中心的技能，以幫助遊戲的各個領域。$(br2)升級 $(thing)Engineering$() 可以訪問更多設備，並且可以 給現有的好處。",
   "icon": "aoa3:textures/gui/aoaskill/engineering.png",
-  "name": "Engineering"
+  "name": "工程學"
 }
