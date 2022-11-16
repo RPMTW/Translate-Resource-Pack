@@ -1,6 +1,6 @@
 {
   "parent": "aoa3:skills",
-  "description": "$(thing)Farming$() is a skill about growing crops and breeding animals.$(br2)Higher levels of $(thing)Farming$() grants additional abilities and bonuses to harvesting, as well as access to new crops$(br2)$(l)NOTE:$() this guide is based on the mod defaults. Modpack/datapack changes may affect the accuracy of the following information",
+  "description": "$(thing)農業$() 是一種關於種植農作物和飼養動物的技能。$(br2)更高級別的 $(thing)農業$() 可以為收穫提供額外的能力和獎勵，以及獲得新作物的機會$(br2)$(l)注意：$() 本指南基於模組的設定值。 Modpack/datapack 更改可能會影響以下信息的準確性",
   "icon": "aoa3:textures/gui/aoaskill/farming.png",
-  "name": "Farming"
+  "name": "農業"
 }
