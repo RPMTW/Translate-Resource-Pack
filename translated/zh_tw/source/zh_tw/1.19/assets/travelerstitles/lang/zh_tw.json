@@ -1,6 +1,6 @@
 {
-    "travelerstitles.commands.biometitle.invalid": "\"%s\" does not seem to be a valid biome",
-    "travelerstitles.commands.biometitle.notfound": "No title found for biome \"%s\"",
+    "travelerstitles.commands.biometitle.invalid": "\"%s\"可能不是存在的生物群系",
+    "travelerstitles.commands.biometitle.notfound": "找不到生物群系標題\"%s\"",
     "travelerstitles.minecraft.overworld": "主世界",
     "travelerstitles.minecraft.the_nether": "地獄",
     "travelerstitles.minecraft.the_nether.color": "750909",
