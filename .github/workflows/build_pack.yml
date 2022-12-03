@@ -43,14 +43,13 @@ jobs:
       - name: Download files
         uses: actions/download-artifact@v3
       - name: Release files
-        uses: softprops/action-gh-release@v1
+        uses: ncipollo/release-action@1
         with:
           name: Version ${{ github.run_number }}
-          fail_on_unmatched_files: true
-          generate_release_notes: true
-          tag_name: 1.0.${{ github.run_number }}
-          files: |
-            */*.zip
+          generateReleaseNotes: true
+          artifacts: "*/*.zip"
+          tag: latest
+          allowUpdates: true
       - name: Merge Pull Request
         if: ${{ github.event_name == 'pull_request' }}
         uses: juliangruber/merge-pull-request-action@v1
