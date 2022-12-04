@@ -179,7 +179,7 @@
     "sodium-extra.option.use_fast_random.tooltip": "啟用後, 將使用快速隨機函數來渲染方塊.\n與原版相比, 這會影響隨機旋轉紋理的旋轉方向.",
     "sodium-extra.overlay.coordinates": "X: %s, Y: %s, Z: %s",
     "sodium-extra.overlay.fps": "%s 幀率",
-    "sodium-extra.overlay.fps_extended": " 幀率 (最高. %s / 平均. %s / 最小. %s)",
+    "sodium-extra.overlay.fps_extended": "（最高 %s / 平均 %s / 最小 %s）",
     "sodium-extra.overlay.light_updates": "照明更新已停用",
     "sodium-extra.suggestRSO.header": "建議：安裝Reese的鈉選項",
     "sodium-extra.suggestRSO.message": "強烈建議您將 Reese 的納選項 與 納額外  一同安裝。由於功能選項變多，它不再適合於 納 的預設動畫選項中使用。"
