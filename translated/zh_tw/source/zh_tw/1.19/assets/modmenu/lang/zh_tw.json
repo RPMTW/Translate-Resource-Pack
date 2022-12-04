@@ -1,6 +1,6 @@
 {
-    "category.modmenu.name": "Mod Menu",
-    "key.modmenu.open_menu": "Open Mod Menu",
+    "category.modmenu.name": "模組選單",
+    "key.modmenu.open_menu": "開啟模組選單",
     "modmenu.title": "模組",
     "modmenu.descriptionTranslation.modmenu": "新增了一個模組選單來查看你所安裝的模組列表。",
     "modmenu.loaded": "（已載入%s個模組）",
