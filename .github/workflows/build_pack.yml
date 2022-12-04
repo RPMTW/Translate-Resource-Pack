@@ -43,7 +43,7 @@ jobs:
       - name: Download files
         uses: actions/download-artifact@v3
       - name: Release files
-        uses: ncipollo/release-action@1
+        uses: ncipollo/release-action@v1
         with:
           name: Version ${{ github.run_number }}
           generateReleaseNotes: true
