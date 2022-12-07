@@ -1,6 +1,6 @@
 {
     "itemGroup.mcwbridges.bridges": "Macaw的橋樑",
-    "block.mcwbridges.iron_bridge": "Iron Bridge",
+    "block.mcwbridges.iron_bridge": "鐵橋",
     "item.mcwbridges.pliers": "造型鉗",
     "mcwbridges.pliers.desc": "對橋右鍵改變成終點樣式, 只適用於2格以上寬的橋",
     "block.mcwbridges.oak_log_bridge_middle": "橡木橋（中段）",
