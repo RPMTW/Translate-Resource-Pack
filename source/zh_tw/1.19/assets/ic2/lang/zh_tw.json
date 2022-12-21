@@ -460,6 +460,7 @@
     "gui.ic2.tube.provider.global": "Global",
     "gui.ic2.tube.provider.keep": "Keep",
     "gui.ic2.tube.provider.per_item": "Per Item",
+    "gui.ic2.tube.provider.keep_mode": "Keeps Mode. (Disables Whitelist)",
     "gui.ic2.tube_priority_inventory": "Prioritize Inventories",
     "gui.ic2.tube_priority_inventory.desc": "Prioritizes \"directly connected\" Inventories",
     "gui.ic2.uranium_enricher.per_ingot": "Points/Ingot:",
