@@ -155,7 +155,7 @@
     "text.rei.working_station": "工作站",
     "text.rei.release_export": "釋放 %s 以導出此配方",
     "text.rei.ask_to_export": "您是否打算匯出「%s」 ？",
-    "text.rei.ask_to_export.subtitle": "這將匯出 %d 個配方為圖像檔。",
+    "text.rei.ask_to_export.subtitle": "這將匯出 %d 個配方為圖片檔。",
     "text.rei.recipe_id": "\n%s配方 ID: %s",
     "text.rei.recipe_screen_type.selection": "合成介面樣式選擇",
     "text.rei.recipe_screen_type.selection.sub": "你隨時可以通過設定介面再次編輯此設定.",
