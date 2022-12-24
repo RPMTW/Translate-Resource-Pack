@@ -1443,7 +1443,7 @@
     "twilightforest.config.parry_window": "射彈的計時窗口",
     "twilightforest.config.parry_window.tooltip": "舉起盾牌後可以格擋射彈的ticks數量。 1 秒內有 20 ticks。",
     "twilightforest.config.casket_uuid_locking": "紀念品棺材 UUID 鎖定",
-    "twilightforest.config.casket_uuid_locking.tooltip": "如果為true，其他玩家將無法使用在玩家死亡時生成的紀念品棺材。 如果您不希望人們從其他人的死亡棺材中取出，請使用此選項。 注意：服務器管理員仍然可以打開上鎖的棺材。",
+    "twilightforest.config.casket_uuid_locking.tooltip": "如果為true，其他玩家將無法使用在玩家死亡時生成的紀念品棺材。 如果您不希望人們從其他人的死亡棺材中取出，請使用此選項。 注意：伺服器管理員仍然可以打開上鎖的棺材。",
     "twilightforest.config.disable_skull_candles": "禁用骷髏蠟燭創建",
     "twilightforest.config.disable_skull_candles.tooltip": "如果為true，則禁用通過右鍵單擊帶有蠟燭的原版頭顱來製作骷髏蠟燭的能力。 如果您由於某種原因遇到模組衝突問題，請打開此功能。",
     "twilightforest.book.author": "被遺忘的探險家",
