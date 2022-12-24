@@ -1307,7 +1307,7 @@
     "byg.command.updateconfig.update": "更新",
     "byg.command.updateconfig.update.hover": "運行此指令將更新您的配置並重新啟動您的遊戲！將在 %s 中創建 BYG 配置的備份",
     "byg.command.updateconfig.warngameclose": "BYG：警告此指令將關閉您的遊戲以確保重新讀取所有配置。BYG 配置的備份將在「.../config/byg/backups」中創建",
-    "byg.command.updateconfig.warnplayers": "BYG：警告伺服器所有者正在嘗試更新所有 BYG 配置，所有連接的用戶都應該預料到可能會斷開連接......",
+    "byg.command.updateconfig.warnplayers": "BYG：警告伺服器所有者正在嘗試更新所有 BYG 配置，所有連接的使用者都應該預料到可能會斷開連接......",
     "byg.end.not.used": "警告：您收到此警告是因為 BYG 的終界生態域資源未在世界末地使用，因此導致 BYG 的終界配置無用。您的配置指定它應該使用它！如果這是故意的（即使用另一個終界模組），您可以通過訪問此處找到的配置來停用此警告，使其不再出現在未來世界中：「%s」並將「warnBYGEndBiomeSourceNotUsedInNewWorlds」設定為「false」！\n如果這不是故意的，請按照此處的說明進行操作：%s 以啟用 BYG 的終界。",
     "byg.experimental.warning": "您目前正在使用 BYG 的實驗版本或不完整版本。如果您在這個世界上更新 BYG，世界必然會崩潰或出現錯誤！",
     "byg.nether.not.used": "警告：您收到此警告是因為 BYG 的下界生態域資源未在此世界的地獄中使用，因此導致 BYG 的地獄配置無用。您的配置指定它應該使用它！如果這是故意的（即使用另一個地獄模組），您可以通過訪問此處找到的配置來停用此警告，使其不再出現在未來世界中：「%s」並將「warnBYGNetherBiomeSourceNotUsedInNewWorlds」設定為「false」！\n如果這不是故意的，請按照此處的說明進行操作：%s 以啟用 BYG 的地獄。",
