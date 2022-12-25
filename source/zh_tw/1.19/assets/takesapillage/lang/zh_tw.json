@@ -32,8 +32,5 @@
     "death.attack.skirmisher": "%1$s was chopped to bits by %2$s",
     "death.attack.skirmisher.item": "%1$s was chopped to bits by %2$s while wielding %3$s",
     "death.attack.legioner": "%1$s was struck down by %2$s",
-    "death.attack.legioner.item": "%1$s was struck down by %2$s while wielding %3$s",
-    "takesapillage.midnightconfig.REPLACE_IRON_GOLEMS": "Replace Iron Golems",
-    "takesapillage.midnightconfig.REMOVE_BAD_OMEN": "Remove Bad Omen",
-    "takesapillage.midnightconfig.DO_PILLAGE_SIEGES": "Do Pillage Sieges"
+    "death.attack.legioner.item": "%1$s was struck down by %2$s while wielding %3$s"
 }
