@@ -465,7 +465,7 @@
     "info_book.integratedtunnels.tutorials.filter_storage_mod.text1": "使用 &l過濾物品界面&r，將 &l箱子&r 附加到您的網路，並配置一個基於謂詞的過濾器，它只傳遞來自 &lIntegratedDynamics&r mod 的項目。 為此，我們將創建一個新的運算符，它將 &8Item&0 作為輸入，並返回 &9Boolean&0 作為輸出。",
     "info_book.integratedtunnels.tutorials.filter_storage_mod.text2": "為此，首先創建一個包含 &l關係等式&r 運算符的 &2Operators&0 值。 接下來，創建一個包含 &lIntegratedDynamics&r 值的 &4String&0。 然後，使用 &lApply&r 運算符將 &lRelational Equals&r 運算符部分應用於 &4String&0 值。",
     "info_book.integratedtunnels.tutorials.filter_storage_mod.text3": "作為下一步，我們必須創建另一個 &2Operators&0 值，但這次包含 &lItem Mod&r 運算符。 現在，我們可以使用 &lPipe&r 運算符將我們的 &lItem Mod&r 運算符通過管道傳遞到上一步中部分應用的運算符中。",
-    "info_book.integratedtunnels.tutorials.filter_storage_mod.text4": "&lPipe&r 操作符的這個結果可以放在 &lFiltering Item Interface&r 的基於謂詞的方面，我們依賴的所有變量都需要放在 &lVariable Store&r 中。 如果所有步驟都正確執行，過濾器將只傳遞 &lIntegratedDynamics&r 模塊中的項目，可以通過更改我們的 &4String&0 常量來自定義。",
+    "info_book.integratedtunnels.tutorials.filter_storage_mod.text4": "&lPipe&r 操作符的這個結果可以放在 &lFiltering Item Interface&r 的基於謂詞的方面，我們依賴的所有變數都需要放在 &lVariable Store&r 中。 如果所有步驟都正確執行，過濾器將只傳遞 &lIntegratedDynamics&r 模塊中的項目，可以通過更改我們的 &4String&0 常量來自定義。",
     "info_book.integratedtunnels.tutorials.world_item_importer_exporter": "世界物品輸入/輸出",
     "info_book.integratedtunnels.tutorials.world_item_importer_exporter.text1": "與&o物品輸入口&r和&o物品輸出口&r類似，&l物品拾取口&r和&l物品投擲口&r分別可以從世界上撿起物品並輸入完了或者從網路中提取物品扔到世界上。此外，它們也能與&o界伏箱&r這樣帶庫存的掉落物進行互動。",
     "info_book.integratedtunnels.tutorials.drop_all_items": "投擲所有物品",
