@@ -14,7 +14,7 @@
     "menu.pf.volume.other_players": "其他玩家：%d%%",
     "menu.pf.volume.other_players.tooltip": "更改多人遊戲中其他玩家的腳步音量。",
     "menu.pf.volume.running": "增加跑步音量：%d%%",
-    "menu.pf.volume.running.tooltip": "跑步時腳部音量可以增加多少。\n\n這個值將被添加到總音量並與你的速度成比例，所以你走得越快，腳步聲就會越大。\n\n建議先將其設定為較小的值，然後根據需要進行調整。較高的值會使效果更明顯。",
+    "menu.pf.volume.running.tooltip": "跑步時腳部音量可以增加多少。\n\n這個值將被新增到總音量並與你的速度成比例，所以你走得越快，腳步聲就會越大。\n\n建議先將其設定為較小的值，然後根據需要進行調整。較高的值會使效果更明顯。",
     "menu.pf.stance": "站立：%s",
     "menu.pf.stance.auto": "自動",
     "menu.pf.stance.none": "無",

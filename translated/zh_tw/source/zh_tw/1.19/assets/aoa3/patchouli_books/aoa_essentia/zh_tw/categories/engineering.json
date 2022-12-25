@@ -1,6 +1,6 @@
 {
   "parent": "aoa3:skills",
-  "description": "$(thing)工程學$() 是一項以構建設備和工具為中心的技能，以幫助遊戲的各個領域。$(br2)升級 $(thing)Engineering$() 可以訪問更多設備，並且可以 給現有的好處。",
+  "description": "$(thing)工程學$() 是一項以建構設備和工具為中心的技能，以幫助遊戲的各個領域。$(br2)升級 $(thing)Engineering$() 可以存取更多設備，並且可以 給現有的好處。",
   "icon": "aoa3:textures/gui/aoaskill/engineering.png",
   "name": "工程學"
 }
