@@ -121,6 +121,7 @@
     "biome.twilightforest.highlands": "Twilight Highlands",
     "biome.twilightforest.thornlands": "Thornlands",
     "biome.twilightforest.final_plateau": "Final Plateau",
+    "biome.twilightforest.underground": "Underground",
     "gamerule.tfEnforcedProgression": "Twilight Forest Progression",
     "enchantment.twilightforest.fire_react": "Fire React",
     "enchantment.twilightforest.fire_react.desc": "Adds a chance for the attacker to be set on fire after hitting the wearer.",
@@ -187,6 +188,7 @@
     "block.twilightforest.liveroot_block": "Liveroots",
     "block.twilightforest.mangrove_root": "Mangrove Roots",
     "block.twilightforest.uncrafting_table": "Uncrafting Table",
+    "container.uncrafting_table": "Uncrafting Table",
     "container.uncrafting_table.disabled": "Uncrafting is disabled via config",
     "container.uncrafting_table.disabled_item": "Uncrafting this item is disabled.",
     "block.twilightforest.smoker": "Smoker",
@@ -1380,6 +1382,8 @@
     "twilightforest.config.stalactite_config_only.tooltip": "If true, default stalactites and stalactites defined by other mods will not be used.",
     "twilightforest.config.silent_cicadas": "Silent Cicadas",
     "twilightforest.config.silent_cicadas.tooltip": "Make cicadas silent for those having sound library problems, or otherwise finding them annoying.",
+    "twilightforest.config.silent_cicadas_on_head": "Silent Cicadas On Head",
+    "twilightforest.config.silent_cicadas_on_head.tooltip": "Make cicadas silent when sitting on your head. If the above option is already true, this won't have any effect.",
     "twilightforest.config.first_person_effects": "Render 1st Person Effects",
     "twilightforest.config.first_person_effects.tooltip": "Controls whether various effects from the mod are rendered while in first-person view. Turn this off if you find them distracting.",
     "twilightforest.config.origin_dimension": "Origin Dimension",
@@ -1436,6 +1440,8 @@
     "twilightforest.config.locked_toasts.tooltip": "Disables the toasts that appear when a biome is locked. Not recommended if you're not familiar with progression.",
     "twilightforest.config.animate_trophyitem": "Rotate Trophy Heads on Item model",
     "twilightforest.config.animate_trophyitem.tooltip": "Rotate trophy heads on item model. Has no performance impact at all. For those who don't like fun.",
+    "twilightforest.config.ram_indicator": "Quest Ram Fed Wool Indicator",
+    "twilightforest.config.ram_indicator.tooltip": "Renders a little check mark or x above your crosshair depending on if fed the Quest Ram that color of wool. Turn this off if you find it intrusive.",
     "twilightforest.config.shield_parry": "Shield Parrying",
     "twilightforest.config.shield_parry.tooltip": "We recommend downloading the Shield Parry mod for parrying, but these controls remain for without.",
     "twilightforest.config.parry_non_twilight": "Parry non-Twilight projectiles",
@@ -1554,5 +1560,6 @@
     "twilightforest.gui.optifine.suggestions": "Here's a selection of mods that we recommend using instead.",
     "gui.crumble_horn_jei": "Crumble Horn",
     "gui.transformation_jei": "Transformation Powder",
-    "gui.uncrafting_jei": "Uncrafting"
+    "gui.uncrafting_jei": "Uncrafting",
+    "config.jade.plugin_twilightforest.quest_ram_wool": "Quest Ram Wool"
 }

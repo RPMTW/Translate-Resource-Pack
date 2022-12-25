@@ -1,0 +1,11 @@
+{
+    "name": "Ars Creo",
+    "icon": "create:goggles",
+    "category": "ars_nouveau:machines",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "ars_creo.page.behaviors"
+        }
+    ]
+}

@@ -1,7 +1,6 @@
 {
-    "itemGroup.mcwdoors.inv": "Macaw's Doors",
+    "itemGroup.mcwdoors": "Macaw's Doors",
     "mcwdoors.crafting.desc": "Crafting ingredient",
-    "mcwdoors.remote.desc": "Right click on garage door to open/close",
     "subtitle.mcwdoors.shoji": "Open Shoji Door",
     "subtitle.mcwdoors.garage": "Open Garage Door",
     "item.mcwdoors.garage_remote": "Garage Remote",

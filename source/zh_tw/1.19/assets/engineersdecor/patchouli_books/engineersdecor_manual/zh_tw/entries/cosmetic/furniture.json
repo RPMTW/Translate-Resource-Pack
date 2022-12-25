@@ -1,0 +1,20 @@
+{
+  "name": "Furniture",
+  "icon": "engineersdecor:steel_table",
+  "category": "engineersdecor:cosmetic",
+  "sortnum": 3010,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Steel table",
+      "item": "engineersdecor:steel_table",
+      "text": "A metal table as used in some manual assembly lines or clean rooms. The grated top face allows dust or air streams to pass through.$(br)Depending on your factory setup they can also be used as decorative supports for conveyor belts."
+    },
+    {
+      "type": "spotlight",
+      "title": "Wood Stool",
+      "item": "engineersdecor:treated_wood_stool",
+      "text": "Let's face it: Comfy armchairs are lame. Members of the working population sit on plain stools without cushion, where they can jump up any time and race to their next task.$(br)For whatever reason however, this stool seems to be comfy enough that mobs sometimes sit down (so can you, too). Villagers don't, probably they are Über-Workers."
+    }
+  ]
+}

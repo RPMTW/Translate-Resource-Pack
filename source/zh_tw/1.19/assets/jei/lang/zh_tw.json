@@ -29,7 +29,6 @@
     "jei.tooltip.error.recipe.transfer.disabled": "The server config has disabled JEI recipe transfer",
     "jei.tooltip.error.recipe.transfer.too.large.player.inventory": "Recipe is too large to craft in the 2x2 player crafting grid.",
     "jei.tooltip.error.crash": "Tooltip error, see logs",
-    "jei.chat.error.command.too.long": "JEI must be installed on the server to handle this chat command, it is too long for Minecraft to send.",
     "jei.chat.error.no.cheat.permission.1": "You do not have permission to use JEI's Cheat Mode.",
     "jei.chat.error.no.cheat.permission.disabled": "On this server, JEI's Cheat Mode is disabled for all players.",
     "jei.chat.error.no.cheat.permission.enabled": "On this server, the following types of players can use JEI's Cheat Mode:",

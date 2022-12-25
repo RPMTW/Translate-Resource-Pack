@@ -210,6 +210,8 @@
     "jm.common.ready": "§e%1$s ready.",
     "jm.common.renderdelay": "Render Delay",
     "jm.common.renderdelay.tooltip": "Time (in seconds) between Render Passes. Higher values can improve performance, but may result in missed chunks while travelling.",
+    "jm.common.render.clear_caves": "Clear Unlit Caves",
+    "jm.common.render.clear_caves.tooltip": "Unlit and inner slice blocks are rendered clear instead of black. This option only effects newly mapped blocks.",
     "jm.common.renderdistance_cave_max": "Cave Max Distance",
     "jm.common.renderdistance_cave_max.tooltip": "Radius of chunks around you that are eventually mapped underground or in dimensions with no sky. Lower values can improve performance. Values geater than Minecraft's Render Distance have no effect.\nSet to 0 to mirror video option chunk render range.",
     "jm.common.renderdistance_cave_min": "Cave Min Distance",
