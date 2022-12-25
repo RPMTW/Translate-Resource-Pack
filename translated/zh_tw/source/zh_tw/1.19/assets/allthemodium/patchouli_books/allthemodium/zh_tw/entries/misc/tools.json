@@ -1,0 +1,12 @@
+{
+    "name": "ATM金屬工具",
+    "icon": "allthemodium:allthemodium_pickaxe",
+    "category": "allthemodium:misc",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Allthemodium有幾個內建的工具，都是無法破壞的。"
+        }
+    ]
+}
