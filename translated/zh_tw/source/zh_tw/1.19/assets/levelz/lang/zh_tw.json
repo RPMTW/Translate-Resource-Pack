@@ -14,7 +14,7 @@
     "text.autoconfig.levelz.option.useIndependentExp": "使用獨立的經驗值",
     "text.autoconfig.levelz.option.devMode": "除錯模式",
     "text.autoconfig.levelz.option.hardMode": "困難模式",
-    "text.autoconfig.levelz.option.disableMobFarms": "禁用生怪塔",
+    "text.autoconfig.levelz.option.disableMobFarms": "停用生怪塔",
     "text.autoconfig.levelz.option.maxLevel": "最高等級",
     "text.autoconfig.levelz.option.overallMaxLevel": "全體最高等級",
     "text.autoconfig.levelz.option.startPoints": "初始技能點",

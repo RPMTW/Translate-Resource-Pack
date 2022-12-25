@@ -1637,7 +1637,7 @@
     "info_book.integrateddynamics.manual.machines.generator": "火力發電機",
     "info_book.integrateddynamics.manual.machines.generator.text1": "當你需要 &lRF&r 或 &lTesla&r 的能量時，你可以使用&oburnable&r來建立能量和可再生能源。",
     "info_book.integrateddynamics.manual.machines.mechanical_squeezer": "電動擠壓機",
-    "info_book.integrateddynamics.manual.machines.mechanical_squeezer.text1": "總會有那麽一段時間，你得不停地在&l擠壓機&r上跳來跳去. 如果你還沒有自動化&l擠壓機&r，也許是時候考慮製作一個&l電動擠壓機&r了. 它不需要任何人力來工作，但是需要提供能量才能運行. 這也使它比普通的&l擠壓機&r快的多，並且可以批量擠壓，並得到更多產物.",
+    "info_book.integrateddynamics.manual.machines.mechanical_squeezer.text1": "總會有那麽一段時間，你得不停地在&l擠壓機&r上跳來跳去. 如果你還沒有自動化&l擠壓機&r，也許是時候考慮製作一個&l電動擠壓機&r了. 它不需要任何人力來工作，但是需要提供能量才能執行. 這也使它比普通的&l擠壓機&r快的多，並且可以批量擠壓，並得到更多產物.",
     "info_book.integrateddynamics.manual.machines.mechanical_drying_basin": "電動烘乾池",
     "info_book.integrateddynamics.manual.machines.mechanical_drying_basin.text1": "使用&l烘乾池&r進行烘乾會需要一些時間。檢測是否你想要烘乾變得更快，或者你想能烘乾更多的東西，你應該使用&l電動烘乾池&r，它需要消耗能量來執行。",
     "info_book.integrateddynamics.manual.logic_programming": "邏輯編程",

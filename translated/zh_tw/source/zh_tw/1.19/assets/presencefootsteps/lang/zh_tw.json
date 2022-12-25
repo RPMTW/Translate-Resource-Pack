@@ -8,7 +8,7 @@
     "menu.pf.global.players_only": "實體：僅限玩家",
     "menu.pf.volume.min": "全域音量：關",
     "menu.pf.volume": "全域音量：%d%%",
-    "menu.pf.volume.tooltip": "所有 Presence Footsteps 聲音的全域音量，將其設定為 0 以徹底禁用模組。",
+    "menu.pf.volume.tooltip": "所有 Presence Footsteps 聲音的全域音量，將其設定為 0 以徹底停用模組。",
     "menu.pf.volume.player": "用戶端玩家：%d%%",
     "menu.pf.volume.player.tooltip": "更改你個人的腳步音量",
     "menu.pf.volume.other_players": "其他玩家：%d%%",
