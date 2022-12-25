@@ -1,0 +1,20 @@
+{
+  "name": "畜牧自動機核心",
+  "icon": "高級外設：husbandry_automata_core",
+  "category": "高級外圍：形而上學\n",
+  "advancement": "高級外設：weak_automata_core\n",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "畜牧自動機核心",
+      "item": "高級外設：husbandry_automata_core",
+      "text": "吃掉3隻雞、3頭牛、3隻羊後，弱自動機核心將轉化為畜牧自動機核心！$(p)除了是更強大的弱自動機核心變體，看來，這個靈魂還提供了與動物互動的能力！"
+    },
+    {
+      "type": "link",
+      "text": "除了弱自動機核心能力之外，這個核心還允許與動物互動，甚至將它們轉移到裡面！$(p)但是要注意，任何儲存的動物都會在烏龜被打破後丟失。",
+      "url": "https://docs.srendi.de/items/husbandry_automata/",
+      "link_text": "API 文檔"
+    }
+  ]
+}
