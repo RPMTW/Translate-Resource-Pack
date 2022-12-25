@@ -1,0 +1,13 @@
+{
+    "screen.itemmodelfix.config.title": "Item Model Fix Configuration",
+    "category.itemmodelfix.general": "General",
+    "option.itemmodelfix.generation_type": "Item Model Generation Type",
+    "option.itemmodelfix.generation_type.vanilla": "Vanilla",
+    "option.itemmodelfix.generation_type.vanilla.tooltip": "Performance impact: §b§lnone§r\nUses Vanilla model generation.",
+    "option.itemmodelfix.generation_type.unlerp": "Unlerp",
+    "option.itemmodelfix.generation_type.unlerp.tooltip": "Performance impact: §b§lnone§r\nUses Vanilla model generation, but\napplies some math to make it look correct.\nMay cause flickering along model edges.",
+    "option.itemmodelfix.generation_type.outline": "Outline",
+    "option.itemmodelfix.generation_type.outline.tooltip": "Performance impact: §b§lnone§r\nSame as Unlerp mode, but uses a\ndifferent generation algorithm to\nprevent enchantment glint flickering.",
+    "option.itemmodelfix.generation_type.pixel": "Pixel",
+    "option.itemmodelfix.generation_type.pixel.tooltip": "Performance impact: §b§lnone§r-§a§llow§r\nGenerates all pixels individually. Provides\nbest results but causes a larger impact\nwith higher resolution resource packs."
+}
