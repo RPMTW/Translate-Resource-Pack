@@ -1,0 +1,14 @@
+{
+  "name": "Ladders",
+  "icon": "engineersdecor:metal_rung_ladder",
+  "category": "engineersdecor:buildingblocks",
+  "sortnum": 1080,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Metal Ladders",
+      "item": "engineersdecor:metal_rung_ladder",
+      "text": "Solid metal ladders, sometimes a bit rusty.$(br2)Used and placed the same way as the wooden ladders."
+    }
+  ]
+}

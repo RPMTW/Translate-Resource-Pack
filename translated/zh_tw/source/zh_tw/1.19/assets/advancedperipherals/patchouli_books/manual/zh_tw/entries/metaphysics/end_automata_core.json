@@ -1,0 +1,20 @@
+{
+  "name": "終界自動機核心",
+  "icon": "\n高級外設：end_automata_core",
+  "category": "高級外圍：形而上學\n",
+  "advancement": "高級外設：weak_automata_core\n",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "\n結束自動機核心",
+      "item": "\n高級外設：end_automata_core",
+      "text": "\n消耗10個末影人後，弱自動機核心將轉化為末日自動機核心！$(p)除了是更強大的弱自動機核心變體之外，似乎這個靈魂還為烏龜本身提供了一些有限的瞬移能力。"
+    },
+    {
+      "type": "link",
+      "text": "除了較弱的自動機核心能力之外，這個靈魂還允許有限的世界傳送。看來，你需要儲存點數，然後傳送到他們那裡！$(p)但是要注意，任何儲存的點數都會在海龜被破壞後丟失。\n",
+      "url": "https://docs.srendi.de/items/end_automata/",
+      "link_text": "API 文檔"
+    }
+  ]
+}

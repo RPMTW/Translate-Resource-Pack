@@ -1,0 +1,31 @@
+{
+  "name": "方塊讀取器",
+  "icon": "advancedperipherals:block_reader",
+  "category": "advancedperipherals:peripherals",
+  "pages": [
+    {
+      "type": "text",
+      "text": "此方塊可以讀取方塊的數據和前方鋪陳物件。.$(p)詳細文件檔參見 $(9)$(l:https://docs.srendi.de/peripherals/block_reader/)official wiki page$(/l)$()！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "advancedperipherals:block_reader"
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "computercraft:computer_advanced",
+          "P": "advancedperipherals:block_reader",
+          "T": "minecraft:dirt "
+        },
+        "pattern": [
+          [
+            "0PT"
+          ]
+        ]
+      },
+      "text": "將你的方塊讀取器連接到計算機和選取方塊以使用它！"
+    }
+  ]
+}
