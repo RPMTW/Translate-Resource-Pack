@@ -1,0 +1,11 @@
+{
+    "constants.gravitationalmodulatingunittweaks.key_category": "Mekanism - Gravitational Modulating Additional Unit",
+    "constants.gravitationalmodulatingunittweaks.mod_name": "Gravitational Modulating Additional Unit",
+    "description.gravitationalmodulatingunittweaks.gravitational_modulating_additional_unit": "Require 'Gravitational Modulating Unit', Provides additional features",
+    "key.gravitationalmodulatingunittweaks.vertical_speed": "Vertical Speed Modifier Switch",
+    "module.gravitationalmodulatingunittweaks.fix_fov": "Fix FOV",
+    "module.gravitationalmodulatingunittweaks.fly_always": "Defy Gravity Always",
+    "module.gravitationalmodulatingunittweaks.gravitational_modulating_additional_unit": "Gravitational Modulating Additional Unit",
+    "module.gravitationalmodulatingunittweaks.stop_immediately": "Stop Immediately",
+    "module.gravitationalmodulatingunittweaks.vertical_speed": "Vertical Speed Modifier"
+}
