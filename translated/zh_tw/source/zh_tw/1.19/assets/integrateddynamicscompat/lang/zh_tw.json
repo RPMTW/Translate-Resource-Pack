@@ -14,7 +14,7 @@
     "gui.integrateddynamics.waila.fluid.in": "輸入流體：%s（%s mB）",
     "gui.integrateddynamics.waila.fluid.out": "輸出流體：%s（%s mB）",
     "gui.integrateddynamics.waila.progress": "進度：%s / 100",
-    "error.jei.integrateddynamics.recipetransfer.recipe.toobig.desc": "對於邏輯編程器配方模板來說太大了。",
+    "error.jei.integrateddynamics.recipetransfer.recipe.toobig.desc": "對於邏輯程式器配方模板來說太大了。",
     "aspect.integrateddynamics.read.itemstack.charsetpipe.content": "管道內容",
     "aspect.integrateddynamics.read.itemstack.charsetpipe.content.info": "正在通過這條管道的物品。",
     "aspect.integrateddynamics.read.list.charsetpipe.contents": "管道內容",
