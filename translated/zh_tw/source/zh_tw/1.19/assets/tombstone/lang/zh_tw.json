@@ -872,7 +872,7 @@
     "tombstone.config.curio_auto_equip.tooltip": "允許自動裝備在Curio中的特殊槽中",
     "tombstone.config.curio_bundle_support.tooltip": "允許在古玩mod中為收納袋提供預設支援",
     "tombstone.config.preserve_effects_on_return_end_conquered.tooltip": "使得玩家身上的藥水效果在終界討伐回歸後仍然保留",
-    "tombstone.config.fix_anvil_custom_name": "當字符串空時，使用鐵砧修復自訂名稱",
+    "tombstone.config.fix_anvil_custom_name": "當字串空時，使用鐵砧修復自訂名稱",
     "tombstone.config.fix_repair_cost_zero": "fix the RepairCost:0 added by the anvil & grindstone in nbt preventing theses items to stack",
     "tombstone.command.tbteleport.default.usage": "該指令為傳送指令, 你需要選擇一個類型的傳送點\npos=坐標，player=玩家，grave=墳墓，death=死亡點，home=家，discovery=探索，biome=生態域\n/tbteleport <pos, player, grave, death, home, discovery, biome>",
     "tombstone.command.tbteleport.discovery.usage": "傳送到一個為探索過的結構\nentity=實體，structure=結構，dim=維度\n/tbteleport discovery <entity> [structure] [dim]",
