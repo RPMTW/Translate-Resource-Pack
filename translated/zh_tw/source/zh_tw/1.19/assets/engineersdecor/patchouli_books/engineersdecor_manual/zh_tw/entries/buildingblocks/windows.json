@@ -1,0 +1,14 @@
+{
+  "name": "Windows",
+  "icon": "engineersdecor:steel_framed_window",
+  "category": "engineersdecor:buildingblocks",
+  "sortnum": 1070,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Placement",
+      "item": "engineersdecor:steel_framed_window",
+      "text": "To place a window in the ceiling or the floor, you have to look almost straight up or down. This makes it easier to place windows in walls without the need of scaffolding (or accidentally placing them horizontally). When you place a window next to another one, the same orientation will be used for similar reasons."
+    }
+  ]
+}
