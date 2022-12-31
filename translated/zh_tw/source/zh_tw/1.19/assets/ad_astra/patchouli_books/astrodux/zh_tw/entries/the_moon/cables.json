@@ -6,9 +6,9 @@
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Cables",
+      "title": "纜線",
       "item": "ad_astra:desh_cable",
-      "text": "Cables allow for long-range energy transfer. There are two variants: steel and desh – desh, having a higher transfer rate. When used with a wrench, cables can be configured to extend in directions or to disconnect from nodes in the network."
+      "text": "電纜可以進行長距離的能量傳輸。有兩種變體：鋼和戴斯。戴斯版本具有更快的傳輸速度。當與扳手一起使用時，電纜可以被配置為在方向上延伸或與網絡中的節點斷開。"
     },
     {
       "type": "patchouli:crafting",
