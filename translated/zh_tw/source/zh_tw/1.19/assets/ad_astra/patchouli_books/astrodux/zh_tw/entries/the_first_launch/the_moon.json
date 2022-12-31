@@ -1,19 +1,19 @@
 {
-  "name": "The Moon",
+  "name": "月球",
   "icon": "ad_astra:/textures/sky/moon.png",
   "sortnum": 5,
   "category": "ad_astra:the_first_launch",
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "The Moon",
+      "title": "月球",
       "item": "ad_astra:desh_ingot",
-      "text": "Congratulations on reaching the moon! The moon is a barren wasteland, grey and dead, as far as the eye can see; however, underground is where you will find the next major resource in Ad Astra - Desh! Desh is used to craft advanced machines, space stations, and the tier two rocket."
+      "text": "恭喜你到達月球! 月球是一片貧瘠的荒地，灰濛蒙的，死氣沉沉，盡收眼底；然而，在地下，你會發現Ad Astra的下一個主要資源--戴斯! 戴斯是用來製作先進的機器、太空站和二級火箭的。"
     },
     {
       "type": "patchouli:text",
-      "title": "Returning Home",
-      "text": "To return back to earth, open your lander (shift + right-click) and collect the rocket, fuel and the launch pads. To remove the lander, punch it. Set up the launch pad, place the rocket down and fill it up with fuel. Press $(k:jump) and fly back to earth."
+      "title": "返回家園",
+      "text": "要返回地球，打開你的著陸器（shift + 右鍵），收集火箭、燃料和發射台。要移除著陸器，打它(像收回船那樣)。放好發射台，把火箭放好，並加滿燃料。按 $(k:jump)並飛回地球。"
     }
   ]
 }
