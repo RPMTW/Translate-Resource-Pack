@@ -1,18 +1,18 @@
 {
-  "name": "Jet Suit",
+  "name": "噴氣式太空服",
   "icon": "ad_astra:jet_suit_helmet",
   "sortnum": 0,
   "category": "ad_astra:the_hot_planets",
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Jet Suit",
+      "title": "噴氣式太空服",
       "item": "ad_astra:jet_suit_helmet",
-      "text": "The Jet Suit is an upgraded version of the Netherite Space Suit, with more protection, additional oxygen storage, and flight. It's expensive to craft, but it offers high-speed flight, making travel easy."
+      "text": "噴氣式太空服是獄髓太空服的升級版，有更強的保護，額外的氧氣儲存和飛行功能。它的製作成本很高，但它能提供高速的飛行，使旅行變得容易。"
     },
     {
       "type": "patchouli:text",
-      "text": "It's got two modes of flight: ascending ($(k:jump)) and boosted ($(k:jump) + $(k:sprint)). Ascending makes the wearer fly upwards, while boosted is similar to an elytra that's constantly being propelled by fireworks. The Jet Suit is powered by energy and must be charged to fly. It can be charged with an energizer by right-clicking it with the jet suit."
+      "text": "它有兩種飛行模式：上升 ($(k:jump))和助推 ($(k:jump)) +  $(k:sprint))。上升模式使穿戴者向上飛，而助推模式則類似於一個不斷被煙火推動的物體。噴氣衣是由能量驅動的，必須充電才能飛行。它可以用能量器充電，方法是用噴氣服右鍵點擊它。"
     },
     {
       "type": "patchouli:crafting",
