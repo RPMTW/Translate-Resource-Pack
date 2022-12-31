@@ -1,17 +1,17 @@
 {
-  "name": "Proxima Centauri",
+  "name": "比鄰星系",
   "icon": "ad_astra:/textures/painting/alpha_centauri.png",
   "sortnum": 1,
   "category": "ad_astra:the_hot_planets",
   "pages": [
     {
       "type": "patchouli:text",
-      "title": "Proxima Centauri",
-      "text": "Once you have found enough Calorite to craft a tier four rocket, you will be able to leave this solar system and enter a new one. The first planet that you will head to in Proxima Centauri is Glacio. Glacio is brutally cold; however, it has oxygen, allowing you to survive there without a spacesuit."
+      "title": "比鄰星系",
+      "text": "一旦你找到足夠的耐熱金屬來製作四級火箭，你就可以離開這個星系，進入一個新的星系。你將前往半人馬座的第一個星球是霜原星。霜原星非常寒冷；然而，它擁有氧氣，你能在沒有太空服的情況下活動。"
     },
     {
       "type": "patchouli:text",
-      "text": "This is the end of the Ad Astra progression for now. This guidebook will be expanded as more content is added. Thanks for playing Ad Astra!"
+      "text": "Ad Astra的進展暫時到此為止。本指南將隨著更多內容的加入而擴展。謝謝你玩《Ad Astra》!"
     }
   ]
 }
