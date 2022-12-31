@@ -1,6 +1,6 @@
 {
-  "name": "Surviving Mars",
-  "description": "You've landed on Mars with one goal in mind - to mine as much ostrum as possible to get to Venus and Mercury.",
+  "name": "在火星上生存",
+  "description": "你降落在火星上，只有一個目標--盡可能多地開採紫金，以到達金星和水星。",
   "icon": "ad_astra:tier_2_rocket",
   "sortnum": 2
 }
