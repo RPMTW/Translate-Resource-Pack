@@ -1,18 +1,18 @@
 {
-  "name": "Better Fuel",
+  "name": "更好的燃料",
   "icon": "ad_astra:cryo_freezer",
   "sortnum": 3,
   "category": "ad_astra:surviving_mars",
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Cryo Freezer",
+      "title": "低溫冷凍器",
       "item": "ad_astra:cryo_freezer",
-      "text": "Fuel is hard to get; it requires venturing out to the ocean, looking for oil spouts. The Cryo Freezer introduces a new way to obtain a better fuel - Cryo Fuel. Cryo Fuel is much more efficient than refined fuel, allowing you to launch a rocket with just one bucket."
+      "text": "燃料是很難取得的;你需要前往海洋，尋找油田。低溫冷凍器引入了一種新的方式來獲得更好的燃料--低溫燃料。低溫燃料比精煉燃料更好用，只需一桶就能發射火箭。"
     },
     {
       "type": "patchouli:text",
-      "text": "It's created by collecting ice shards, which are found as an ore underground on cold planets. The ice shard then needs to be inserted into a Cryo Freezer, and it will convert to 25 mB of Cryo Fuel. Alternatively, you can convert ice, packed ice and blue ice to fuel. Once you've made at least two buckets (one for a launch and the other for a return trip), place the buckets in the rocket fuel slot."
+      "text": "他是透過收集冰晶製作而成的。冰晶是在寒冷星球地底的一種礦石。把冰晶放入低溫冷凍器中，它將轉化為25MB的低溫燃料。你也可以把冰、冰磚、和藍冰轉化成燃料。你需要製作至少兩桶(一桶用於出發、另一桶用於回程)，把它灌進火箭燃料槽中。"
     },
     {
       "type": "patchouli:crafting",
@@ -20,9 +20,9 @@
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Cryo Fuel",
+      "title": "低溫燃油",
       "item": "ad_astra:cryo_fuel_bucket",
-      "text": "In addition to being an excellent fuel, cryo fuel has some other features. When placed, it will damage anything inside, similar to lava. It can be placed in space and the nether without evaporating. Lastly, it freezes water, allowing for an infinite ice source."
+      "text": "除了是一種優秀的燃料外，低溫燃料還有一些特性。如果把物品丟到燃料中，物品會被銷毀，就跟熔岩一樣。他可以放置在太空跟地獄中而且不會被蒸發掉。而且他可以讓水結凍，可以擁有無限的冰。"
     }
   ]
 }
