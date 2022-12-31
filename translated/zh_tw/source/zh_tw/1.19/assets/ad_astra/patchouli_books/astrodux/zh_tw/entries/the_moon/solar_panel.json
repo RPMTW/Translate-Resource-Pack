@@ -1,19 +1,19 @@
 {
-  "name": "Solar Panel",
+  "name": "太陽能版",
   "icon": "ad_astra:solar_panel",
   "sortnum": 1,
   "category": "ad_astra:the_moon",
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Solar Panel",
+      "title": "太陽能版",
       "item": "ad_astra:solar_panel",
-      "text": "The solar panel is an upgraded version of the coal generator, producing more energy per tick while being self-reliant. Its power generation depends on the planet's distance from the sun and fog. Because of this, it is more efficient to place solar panels close to the sun. Solar panels also produce more energy in orbit, as there is no atmosphere blocking the light."
+      "text": "太陽能板是煤炭發電機的升級版，在自給自足的同時，每tick產生能量。它的發電量取決於地球與太陽的距離和霧氣的遮擋。正因為如此，把太陽能板放在靠近太陽的地方效率會更高。太陽能板在軌道上可以產生更多能量，因為沒有大氣層阻擋光線。"
     },
     {
       "type": "patchouli:crafting",
-      "title": "Solar Panel",
-      "text": "Check the solar panel's tooltip or GUI to see how much energy is being produced in the current world.",
+      "title": "太陽能版",
+      "text": "檢查太陽能板的工具提示或GUI，看看在當前世界中生產了多少能源。",
       "recipe": "ad_astra:recipes/solar_panel"
     }
   ]
