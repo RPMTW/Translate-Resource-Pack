@@ -1,0 +1,12 @@
+{
+    "_comment": "物品組",
+    "ironchest.container.iron_chest": "§鐵儲物箱",
+    "ironchest.container.gold_chest": "§金儲物箱",
+    "ironchest.container.diamond_chest": "§鑽石儲物箱",
+    "ironchest.container.copper_chest": "§銅儲物箱",
+    "ironchest.container.silver_chest": "§銀儲物箱",
+    "ironchest.container.crystal_chest": "§水晶儲物箱",
+    "ironchest.container.obsidian_chest": "§黑曜石儲物箱",
+    "ironchest.container.dirt_chest": "§泥土儲物箱 9000!",
+    "itemGroup.ironchest": "§鐵儲物箱"
+}
