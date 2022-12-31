@@ -1,19 +1,19 @@
 {
-  "name": "Mars",
+  "name": "火星",
   "icon": "ad_astra:/textures/sky/mars.png",
   "sortnum": 6,
   "category": "ad_astra:the_moon",
   "pages": [
     {
       "type": "patchouli:text",
-      "title": "Mars",
-      "text": "Now that you have explored the moon and worked with desh, you want to take it further and go to the red planet. Building a tier two rocket capable of travelling to Mars is similar to building the tier one rocket, but with desh materials instead of steel. Construct the parts, build the rocket in the NASA workbench, fuel it up, and off you go to Mars!"
+      "title": "火星",
+      "text": "現在你已經探索了月球，並且擁有了戴斯。你想更進一步，到紅色星球去。能夠前往火星的二級火箭與一級火箭的做法類似，但使用的材料是戴斯而不是鋼鐵。收集零件，在NASA工作台上建造火箭，並幫它添加燃料，然後你就可以去火星了!"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Ostrum",
+      "title": "紫金",
       "item": "ad_astra:ostrum_ingot",
-      "text": "Ostrum is the next material that you seek on the red planet. It is used to craft more powerful space armour, build exceptional machines and to construct a rocket capable of withstanding extreme heat, allowing you to travel to hot planets."
+      "text": "紫金是你在火星上尋找的下一種材料。它被用來製作更強大的太空服、特殊的機器，並製作能夠承受極端高溫的火箭，使你能夠前往高溫星球。"
     }
   ]
 }
