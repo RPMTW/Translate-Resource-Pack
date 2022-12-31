@@ -1,6 +1,6 @@
 {
-  "name": "The Moon",
-  "description": "You've discovered a new extraterrestrial metal called Desh, unlocking the ability to fly to mars.",
+  "name": "月球",
+  "description": "你發現了一種新的外星金屬，名叫戴斯，他能夠讓你擁有飛往火星的能力。",
   "icon": "ad_astra:tier_1_rocket",
   "sortnum": 1
 }
