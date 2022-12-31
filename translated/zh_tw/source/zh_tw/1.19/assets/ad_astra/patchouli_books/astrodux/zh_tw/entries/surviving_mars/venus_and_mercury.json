@@ -1,18 +1,18 @@
 {
-  "name": "Venus and Mercury",
+  "name": "金星和水星",
   "icon": "ad_astra:/textures/sky/venus.png",
   "sortnum": 5,
   "category": "ad_astra:surviving_mars",
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Calorite",
+      "title": "耐熱金屬",
       "item": "ad_astra:calorite_ingot",
-      "text": "Once you have enough Ostrum to craft a complete netherite space suit set and all of the components of the tier three rocket, you can travel to Venus and Mercury. Please note that if you enter these planets without a netherite space suit or fire resistance, you will die very fast. The next material that you seek is Calorite."
+      "text": "一旦你有足夠的紫金來製作一套完整的獄髓太空服和第三級火箭的所有部件，你就可以前往金星和水星。請注意，如果你進入這些星球時沒有獄髓太空服或抗火，你會死得很快。你尋找的下一種材料是耐熱金屬。"
     },
     {
       "type": "patchouli:text",
-      "text": "Calorite is used to craft the ultimate rocket capable of travelling to a new solar system."
+      "text": "耐熱金屬被用來製作能夠前往新太陽系的終極火箭。"
     }
   ]
 }
