@@ -1,14 +1,14 @@
 {
-  "name": "Rover",
+  "name": "探月車",
   "icon": "ad_astra:tier_1_rover",
   "sortnum": 3,
   "category": "ad_astra:the_moon",
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Rover",
+      "title": "探月車",
       "item": "ad_astra:tier_1_rover",
-      "text": "The rover is a land vehicle capable of driving on the rough terrain of moons and planets. It's exceptionally fast, has an inventory capable of storing eight items and has two seats for multiple riders. To use it, fill the rover with fuel (shift-click and place fuel buckets in the left input slot)."
+      "text": "探月車是一種陸上交通工具，能夠在衛星和行星的粗糙地形上行駛。它的速度特別快，有一個能夠儲存8件物品的儲物倉，並有兩個座位可供多個乘客使用。要使用它，請給探月車加滿燃料（按住Shift鍵，把燃料桶放在左邊的輸入槽裡）。"
     },
     {
       "type": "patchouli:entity",
