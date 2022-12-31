@@ -1,18 +1,18 @@
 {
-  "name": "Space Station",
+  "name": "太空站",
   "icon": "ad_astra:/textures/gui/space_station_icon.png",
   "sortnum": 0,
   "category": "ad_astra:the_moon",
   "pages": [
     {
       "type": "patchouli:text",
-      "title": "Space Station",
-      "text": "A space station is a pre-built structure that is created in the planet selection screen, provided you have the necessary materials. Space stations are always located in a moon or planet's orbit and provide the ability to place blocks in that orbit dimension."
+      "title": "太空站",
+      "text": "太空站是一個預建的結構，只要你有必要的材料，就可以在行星選擇屏幕上創建。空間站位於月球或行星的軌道上，並讓你能在該軌道維度上放置方塊。"
     },
     {
       "type": "patchouli:text",
-      "title": "Space Station",
-      "text": "Space stations are designed to be expanded upon, allowing you to build the base of your dreams over a moon/planet. They always spawn in whatever position you launched your rocket at, so remember the coordinates to avoid losing the structure."
+      "title": "太空站",
+      "text": "太空站的設計是為了擴大規模，允許你在月球/行星上建立你夢想中的基地。它們會在你發射火箭的任何位置產生，所以要記住坐標以避免失去結構。"
     }
   ]
 }
