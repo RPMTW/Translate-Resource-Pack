@@ -6,15 +6,15 @@
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Globes",
+      "title": "地球儀",
       "item": "ad_astra:earth_globe",
-      "text": "Globes are trophy blocks found as a reward at the end of a dungeon. Globes offer no practical function and are instead a decoration block. They can be spun around by right-clicking or can spin forever when powered by redstone."
+      "text": "地球儀是在地下城探險結束時作為獎勵的獎杯。它沒有任何實際功能，而是一種裝飾方塊。它們可以通過右擊來旋轉，或者在紅石的驅動下可以永遠旋轉。"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Space Paintings",
+      "title": "宇宙繪畫",
       "item": "ad_astra:space_painting",
-      "text": "Space paintings are found in chests throughout dungeons. They work exactly like regular paintings but only place paintings from this mod. There are 14 pieces to look for."
+      "text": "太空繪畫可以在地牢的箱子裡找到。它們的作用與普通畫作完全相同，但只放置本模組的畫作。你有14幅的畫要找。"
     }
   ]
 }

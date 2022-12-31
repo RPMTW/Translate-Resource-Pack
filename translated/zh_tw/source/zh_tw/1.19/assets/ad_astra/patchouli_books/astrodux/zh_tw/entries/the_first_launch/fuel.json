@@ -1,30 +1,30 @@
 {
-  "name": "Fuel",
+  "name": "燃料",
   "icon": "ad_astra:fuel_bucket",
   "sortnum": 2,
   "category": "ad_astra:the_first_launch",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Even after you place your rocket, you will not be able to fly just yet. To fly, you will need to fill the rocket with fuel."
+      "text": "即使你製作了火箭，你也還不能飛行。想要飛行，你需要幫火箭裝入燃料。"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Obtaining Fuel",
+      "title": "獲得燃料",
       "item": "ad_astra:oil_bucket",
-      "text": "Oil is found in large amounts spouting over the ocean surface. Collect as much oil as you can, as oil is non-renewable, and you need a lot of it for each rocket launch."
+      "text": "在海床發現大量噴出的石油。盡可能的多收集石油，因為石油是不可再生的，而且每次發射火箭都需要大量的石油。"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Obtaining Fuel",
+      "title": "獲得燃料",
       "item": "ad_astra:fuel_bucket",
-      "text": "After collecting enough oil (at least six buckets for a launch and return), you will need to refine the oil into fuel. To do this, you will need to craft a fuel refinery. Power it, then place the oil in the left slot, and it will be refined into fuel."
+      "text": "在收集到足夠多的石油後（發射和返回時至少要有六桶），你需要將石油提煉成燃料。要做到這一點，你將需要製作一個燃料精煉廠。給它供電，然後把油放在左邊的槽裡，它就會被提煉成燃料。"
     },
     {
       "type": "patchouli:crafting",
-      "title": "Fuel Refinery",
+      "title": "燃料精煉機",
       "recipe": "ad_astra:recipes/fuel_refinery",
-      "text": "Shift-click on the rocket to open its inventory, then place three buckets of fuel into the input slot. Place the other three buckets into the rocket's inventory for a return trip."
+      "text": "對火箭shift+右鍵，打開它的GUI，然後將三桶燃料放入輸入槽。將另外三桶燃料放入火箭的庫存中，進行回程。"
     }
   ]
 }

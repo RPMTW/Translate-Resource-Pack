@@ -1,12 +1,12 @@
 {
-  "name": "Oxygen",
+  "name": "氧氣",
   "icon": "ad_astra:oxygen_tank",
   "sortnum": 3,
   "category": "ad_astra:the_first_launch",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "At this point, you can launch your rocket; however, you will likely die very fast, as there is no oxygen on the moon. In order to survive on the moon, you will need an oxygenated space suit and an ample oxygen supply."
+      "text": "在這一點上，你可以發射你的火箭；但是，你很可能會死得很快，因為月球上沒有氧氣。為了在月球上生存，你將需要一件含氧的太空服和充足的氧氣供應。"
     },
     {
       "type": "patchouli:crafting",
@@ -20,15 +20,15 @@
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Oxygen",
+      "title": "氧氣",
       "item": "ad_astra:oxygen_bucket",
-      "text": "To obtain oxygen, it must be extracted from water. An oxygen loader is required to do this. Craft one, then place water in the left tank, and watch it convert into oxygen. You must repeat this process many times until you have enough oxygen."
+      "text": "為了獲得氧氣，必須從水中提取。要做到這一點，需要一台氧氣裝載機。製作一個，然後把水放在左邊的儲罐裡，看著它轉化為氧氣。你必須多次重複這個過程，直到你有足夠的氧氣。"
     },
     {
       "type": "patchouli:crafting",
-      "title": "Oxygen Loader",
+      "title": "氧氣裝載器",
       "recipe": "ad_astra:recipes/oxygen_loader",
-      "text": "Oxygen can then be extracted by collecting it in a bucket, spacesuit, or an oxygen tank. After you have enough oxygen, you are moments away from launching your first rocket!"
+      "text": "然後可以通過水桶、宇航服或氧氣瓶把氧氣收集在裡面。當你有足夠的氧氣後，你就可以發射你的第一枚火箭了"
     }
   ]
 }

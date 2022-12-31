@@ -1,16 +1,16 @@
 {
-  "name": "Preparing to Launch",
+  "name": "準備發射",
   "icon": "ad_astra:tier_1_rocket",
   "sortnum": 4,
   "category": "ad_astra:the_first_launch",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "$(#ff0000)Follow these steps very carefully! $()Missing even one thing here could make your life tough, or worse, cause you to be stranded on the moon!$(br2)In order to return to earth from the moon, you need two basic things: a launch pad and three buckets of fuel."
+      "text": "$(#ff0000)請非常仔細地執行這些步驟！ $()沒有仔細進行的話，最糟的情況可能會讓你無法回到地球!$(br2)為了從月球返回地球，你需要兩個基本的東西：一個發射台和三桶燃料。"
     },
     {
       "type": "patchouli:text",
-      "text": "Place these items in the inventory of your rocket, and ensure that you always have them every time you launch a rocket. Finally, you should bring multiple full oxygen tanks, plentiful food, soul torches or glowstone, weapons and tools. Once you have this, you are ready to launch! Enter the rocket and press $(k:jump)!"
+      "text": "把這些物品放入火箭的儲存倉中，並確認每次發射時都會有這些東西。你應該戴上多個灌滿氧氣的氧氣瓶、豐盛的食物、靈魂或螢石火把以及武器和工具。一旦你有了這些，你就可以發射了! 進入火箭，按$(k:jump)!"
     }
   ]
 }

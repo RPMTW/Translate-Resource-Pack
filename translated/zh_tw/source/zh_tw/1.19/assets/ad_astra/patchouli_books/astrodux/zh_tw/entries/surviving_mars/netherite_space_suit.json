@@ -1,14 +1,14 @@
 {
-  "name": "Netherite Space Suit",
+  "name": "獄髓太空服",
   "icon": "ad_astra:netherite_space_helmet",
   "sortnum": 4,
   "category": "ad_astra:surviving_mars",
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Netherite Space Suit",
+      "title": "獄髓太空服",
       "item": "ad_astra:netherite_space_helmet",
-      "text": "The netherite space suit is an upgraded version of the standard space suit, featuring permanent fire resistance, more protection and the ability to survive on Venus and Mercury. Before you travel to these planets, you must craft the netherite space suit armour or else you will burn to death."
+      "text": "獄髓太空服是標準太空服的升級版，具有永久的耐火性，更強的保護，並能讓你在金星和水星上生存。在你前往這些星球之前，你必須製作獄髓太空服，否則你會被燒死。"
     },
     {
       "type": "patchouli:crafting",

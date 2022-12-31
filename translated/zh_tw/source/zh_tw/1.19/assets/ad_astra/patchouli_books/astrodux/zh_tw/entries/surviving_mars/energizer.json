@@ -1,14 +1,14 @@
 {
-  "name": "Energizer",
+  "name": "能源站",
   "icon": "ad_astra:energizer",
   "sortnum": 2,
   "category": "ad_astra:surviving_mars",
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Energizer",
+      "title": "能源站",
       "item": "ad_astra:energizer",
-      "text": "The energizer is a machine capable of powering items and storing large amounts of energy. To charge an item, power the energizer and then right-click on the energizer with that item. It stores 2 million energy, making it capable of charging machines for a very long time. It also retains its energy when broken."
+      "text": "能源站是一種能夠為物品充電並儲存大量能量的機器。要給一個物品充電，就要給能量器供電，然後用該物品右鍵點擊能源站。它能儲存200萬的能量，使它能夠為機器充電很長時間。它在物品型態時時也能保留其能量。"
     },
     {
       "type": "patchouli:crafting",

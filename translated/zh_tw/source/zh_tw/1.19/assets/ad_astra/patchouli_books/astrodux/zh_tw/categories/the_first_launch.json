@@ -1,6 +1,6 @@
 {
-  "name": "The First Launch",
-  "description": "How to build your first rocket and safely travel to the moon and back.",
+  "name": "第一次發射",
+  "description": "如何製造你的第一個火箭並安全的往返月球。",
   "icon": "ad_astra:launch_pad",
   "sortnum": 0
 }

@@ -1,40 +1,40 @@
 {
-  "name": "Oxygen Distributor",
+  "name": "供氧儀",
   "icon": "ad_astra:oxygen_distributor",
   "sortnum": 2,
   "category": "ad_astra:the_moon",
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Oxygen Distributor",
+      "title": "供氧儀",
       "item": "ad_astra:oxygen_distributor",
-      "text": "The oxygen distributor is a powerful machine that distributes oxygen in a sealed room, allowing any life inside to survive. It works exactly like an oxygen loader, where you insert water into the tank, but instead of giving you oxygen, the oxygen is distributed into the air."
+      "text": "供氧儀是一個強大的機器，它能在一個密封的環境中充滿氧氣，使裡面的任何生命體得以生存。它的工作原理跟氧氣裝載機完全一樣，把水倒入水箱，但不是給你氧氣，而是將氧氣釋放到這個密閉的空間。"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Water Pump",
+      "title": "水泵",
       "item": "ad_astra:water_pump",
-      "text": "The water pump is essential for keeping the oxygen distributor running infinitely. To use it, place an infinite water source below, then place the water pump above one of the water blocks, and then place the oxygen distributor adjacent to it. Make sure to supply both the pump and the oxygen distributor with sufficient power."
+      "text": "水泵是保持供氧儀不斷運作的關鍵。要使用它，請在下面放置一個無限的水源，然後將水泵放在其中一個水方塊上面，再將供氧儀放在它旁邊。請確保水泵和供氧儀有足夠的電力。"
     },
     {
       "type": "patchouli:crafting",
-      "title": "Distributor and Pump",
+      "title": "供氧儀和水泵",
       "recipe": "ad_astra:recipes/oxygen_distributor",
       "recipe2": "ad_astra:recipes/water_pump"
     },
     {
       "type": "patchouli:text",
-      "title": "Using the Distributor",
-      "text": "Once you have supplied the oxygen distributor with an infinite water source, sufficient energy and a completely sealed room, it will distribute oxygen in that room. To check that oxygen is being distributed, click \"show\" in the distributor GUI. If you see bubbles floating around, that means that the room is being supplied with oxygen."
+      "title": "使用供氧儀",
+      "text": "一旦供氧儀擁有了無限的水源、足夠的能量和一個完全密封的空間，它就會在這個房間裡充滿氧氣。要檢查氧氣是否被充滿，請點擊供氧儀GUI中的 \"顯示\"。如果你看到周圍漂浮著氣泡，這意味著該房間充滿了氧氣。"
     },
     {
       "type": "patchouli:text",
-      "text": "If there is a hole in your structure that is causing oxygen to escape, the distributor GUI will provide a warning. Patch the hole to avoid unnecessary power draw and oxygen usage. After that, you should be able to take off your oxygen suit and survive. Each oxygen distributor can support up to 2,000 blocks, allowing you to build a moderately sized space station or base. If you need more, you can place more oxygen distributors."
+      "text": "如果空間的牆上有一個洞，導致氧氣洩漏，供氧儀GUI將出現警告。補好這個洞，以避免不必要的電力消耗和氧氣使用。之後，你應該能夠脫下你的氧氣衣並生存下來。每個供氧儀最多可以支持2000個方塊，使你可以建立一個中等規模的太空站或基地。如果你需要更多的空間，你可以放置更多的供氧儀。"
     },
     {
       "type": "patchouli:text",
-      "title": "Ventilation",
-      "text": "Inside your oxygenated structure, you should provide proper ventilation to ensure that oxygen does not get blocked when a door is closed. To do this, you can create a one-block gap in between walls or create a space that leads to a distributor."
+      "title": "通風設備",
+      "text": "在你的增氧結構內，你應該提供適當的通風，以確保當門關閉時氧氣不會被阻隔。要做到這一點，你可以在牆壁之間創造一個一堵的縫隙，或者創造一個通向供氧儀的空間。"
     }
   ]
 }

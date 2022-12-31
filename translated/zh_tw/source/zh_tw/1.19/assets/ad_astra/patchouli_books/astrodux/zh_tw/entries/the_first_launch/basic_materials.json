@@ -6,25 +6,25 @@
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Iron Plates",
+      "title": "鐵板",
       "item": "ad_astra:iron_plate",
-      "text": "Iron plates are the most basic material in Ad Astra. It's created by crafting iron ingots and a hammer in a crafting table. It's used to craft the simplest machines required to build a rocket and get into space."
+      "text": "鐵板是Ad Astra的最基本材料。它可以在工作台中由鐵錠和錘子製作而成。它被用來製作、建造火箭和進入太空所需的最簡單的機器。"
     },
     {
       "type": "patchouli:crafting",
-      "title": "Hammer and plates",
+      "title": "錘子和板材",
       "recipe": "ad_astra:recipes/hammer",
       "recipe2": "ad_astra:hammering/iron_plate"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Steel Plate",
+      "title": "鋼板",
       "item": "ad_astra:steel_plate",
-      "text": "Steel Plates are the main component in the tier one rocket and in many important machines. It's created by compressing steel ingots in a compressor, which can be powered by a coal generator. Be sure to collect lots of steel plates, as you will need it throughout your space travels."
+      "text": "鋼板是一級火箭和許多重要機器中的主要部件。它是通過在壓縮機中壓縮鋼錠而產生的，壓縮機可以由煤炭發電機提供動力。一定要收集大量的鋼板，因為你在整個太空旅行中都會需要它。"
     },
     {
       "type": "patchouli:crafting",
-      "title": "Generator, Compressor",
+      "title": "發電機與壓縮機",
       "recipe": "ad_astra:recipes/coal_generator",
       "recipe2": "ad_astra:recipes/compressor"
     }
