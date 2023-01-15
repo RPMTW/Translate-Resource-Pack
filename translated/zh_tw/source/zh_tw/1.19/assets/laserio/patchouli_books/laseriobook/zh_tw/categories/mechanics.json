@@ -1,0 +1,6 @@
+{
+  "name": "卡片機制",
+  "description": "以下各章節確定了卡片的基本機制。如果某項機制是某一種卡片特有的，它將在條目的第一頁中加以說明。",
+  "sortnum": 2,
+  "icon": "laserio:logic_chip"
+}
