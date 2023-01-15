@@ -1,0 +1,23 @@
+{
+    "debugify.name": "Debugify",
+    "debugify.basic": "基礎修復",
+    "debugify.gameplay": "遊戲玩法修復",
+    "debugify.gameplay.warning": "警告：這個類別包含可能造成不平衡優勢的修復！",
+    "debugify.gameplay.enable_in_multiplayer": "在多人模式中啟用",
+    "debugify.fix.enabled": "已修復",
+    "debugify.fix.disabled": "未修復",
+    "debugify.fix.unavailable": "不可用",
+    "debugify.error.conflict": "%s 已經被「%s」模組修復。",
+    "debugify.error.os": "%s 僅套用於 %s",
+    "debugify.os.windows": "Windows",
+    "debugify.os.macos": "macOS",
+    "debugify.os.linux": "Linux",
+    "debugify.os.solaris": "Solaris",
+    "debugify.misc": "雜項",
+    "debugify.misc.default_disabled": "預設停用",
+    "debugify.misc.default_disabled.description": "預設新的錯誤修復會被停用而不是啟用。",
+    "debugify.env.client": "客戶端",
+    "debugify.env.server": "伺服器",
+    "debugify.no_yacl.title": "未安裝 YetAnotherConfigLib！",
+    "debugify.no_yacl.description": "要透過介面設定 Debugify ，你必須安裝%s，這是讓功能可用的函式庫。\n除此之外，你可以設定位於「%s」的 JSON 檔案。"
+}
