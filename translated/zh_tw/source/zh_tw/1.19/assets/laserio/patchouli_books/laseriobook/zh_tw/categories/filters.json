@@ -1,0 +1,6 @@
+{
+  "name": "Filters",
+  "description": "過濾器能讓您控制卡片允許或不允許移動的內容。",
+  "sortnum": 3,
+  "icon": "laserio:filter_basic"
+}
