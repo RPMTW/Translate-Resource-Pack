@@ -1,11 +1,11 @@
 {
-  "name": "Echo Wood",
+  "name": "迴聲木塊",
   "icon": "deeperdarker:echo_log",
   "category": "deeperdarker:blocks",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Echo Wood Description"
+      "text": "迴聲木塊說明"
     }
   ]
 }
