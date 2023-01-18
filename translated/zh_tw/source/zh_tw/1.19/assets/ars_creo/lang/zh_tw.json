@@ -1,5 +1,5 @@
 {
-    "block.ars_creo.starbuncle_wheel": "星寶石獸滾輪",
-    "ars_creo.page.starbuncle_wheel": "生產《動力機械》模組的旋轉動能。在滾輪前方放置黃金方塊，能夠提高滾輪的 RPM 轉速。",
-    "ars_creo.page.behaviors": "《Ars Creo》模組讓新生魔藝的方塊，得以在《動力機械》的移動結構中運作，像是法術砲塔和魔源罐。基礎法術砲塔 - 位於移動結構上時，被玩家右鍵時發射法術。定時法術砲塔 - 根據設定間隔，定時發射法術。附魔法術砲塔 - 每見到一次新的方塊，就發射一次法術。魔源罐 - 可被移動結構上的法術砲塔作為魔源來源使用。"
+    "block.ars_creo.starbuncle_wheel": "星寶石獸轉輪",
+    "ars_creo.page.starbuncle_wheel": "為機械動力模組產生應力。在轉輪前面放置一塊金塊可以增加轉速。",
+    "ars_creo.page.behaviors": "Ars Creo開啟了Ars Nouveau中方塊的特殊禁忌行為，包括法術砲塔和魔源罐。基本法術砲塔--與之互動時，從裝置上發射一個法術。計時器砲塔--在其間隔時間內發射法術。魔法砲塔 - 每到一個新方塊發射法術。魔源罐 - 可以被裝置上的砲塔所吞噬。"
 }
