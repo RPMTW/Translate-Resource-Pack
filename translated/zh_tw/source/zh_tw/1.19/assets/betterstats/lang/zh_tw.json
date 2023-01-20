@@ -1,0 +1,9 @@
+{
+    "betterstats.gui.filters": "篩選條件",
+    "betterstats.gui.show_empty_stats": "顯示空白統計",
+    "betterstats.gui.no_stats_yet": "目前沒有統計可以顯示",
+    "betterstats.gui.menu_bar.view": "瀏覽",
+    "betterstats.gui.menu_bar.view.vanilla_stats": "顯示原版統計",
+    "betterstats.gui.menu_bar.about": "關於",
+    "betterstats.gui.menu_bar.about.source": "原始碼"
+}
