@@ -135,7 +135,7 @@
     "inventoryprofiles.config.name.show_move_all_button": "顯示 移動匹配物品 按鈕",
     "inventoryprofiles.config.name.show_button_tooltips": "顯示按鈕懸浮提示",
     "inventoryprofiles.config.description.enable_inventory_buttons": "此設定決定是否在所有的容器介面顯示提供整理操作的小按鈕。",
-    "inventoryprofiles.config.description.treat_unknown_screens_as_containers": "這主要是為了與其他引入非真實物品欄的屏幕的模組兼容。\n將此設置為 false 將停用除原版屏幕之外的所有小部件的插入。\n\n注意：這已被棄用，將在版本 1.2.0 中刪除。",
+    "inventoryprofiles.config.description.treat_unknown_screens_as_containers": "這主要是為了與其他引入非真實物品欄的螢幕的模組相容。\n將此設置為 false 將停用除原版螢幕之外的所有小部件的插入。\n\n注意：這已被棄用，將在版本 1.2.0 中刪除。",
     "inventoryprofiles.config.description.show_continuous_crafting_checkbox": "在介面上顯示連續合成勾選框。\n勾選後 \"連續合成\" 將在合成時自動補充材料到合成區域內。",
     "inventoryprofiles.config.description.continuous_crafting_checkbox_value": "此設定控制勾選框在介面關閉後，\n是否記住最後的選擇，或總是重置為勾選、未勾選。",
     "inventoryprofiles.config.description.continuous_crafting_saved_value": "連續合成勾選框最後的保存值。",
