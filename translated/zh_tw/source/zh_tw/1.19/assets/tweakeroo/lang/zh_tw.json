@@ -26,7 +26,7 @@
     "tweakeroo.label.snap_aim_mode.pitch": "預設俯仰角度",
     "tweakeroo.label.snap_aim_mode.yaw": "預設旋轉角度",
     "tweakeroo.message.death_coordinates": "§6你死了§r @ [§b%d, %d, %d§r] in §a%s",
-    "tweakeroo.message.focusing_game": "§6Focusing§f the game (grabbing the cursor)",
+    "tweakeroo.message.focusing_game": "§6Focusing§f  遊戲（固定游標）",
     "tweakeroo.message.potion_effects_running_out": "§6!! 警告 - %s種狀態效果將在%s秒後消失 !!§r",
     "tweakeroo.message.repair_mode.swapped_repairable_item_to_slot": "已將一個可修復的物品切換至%s欄位",
     "tweakeroo.message.set_after_clicker_count_to": "已將「放置後右鍵」次數設定為%s",
@@ -61,9 +61,9 @@
     "tweakeroo.message.toggled_snap_aim_on_pitch": "對齊翻轉角度為 %s，翻轉角度為 %s",
     "tweakeroo.message.toggled_snap_aim_on_yaw": "對齊旋轉角度為 %s，旋轉角度為 %s",
     "tweakeroo.message.toggled_zoom_on": "調整縮放視角 %s，視角範圍為: %s",
-    "tweakeroo.message.unfocusing_game": "§6Un-focusing§f the game (un-grabbing the cursor)",
+    "tweakeroo.message.unfocusing_game": "§6Un-focusing§f 遊戲（不固定游標）",
     "tweakeroo.message.value.off": "關閉",
     "tweakeroo.message.value.on": "開啟",
-    "tweakeroo.message.warning.block_type_break_restriction": "§6Block breaking prevented by Block Type Break Restriction tweak",
-    "tweakeroo.message.warning.entity_type_attack_restriction": "§6Entity attack prevented by Entity Type Attack Restriction tweak"
+    "tweakeroo.message.warning.block_type_break_restriction": "破壞 §6Block 時限制破壞方塊調整",
+    "tweakeroo.message.warning.entity_type_attack_restriction": "攻擊 §6Entity 時限制攻擊"
 }
