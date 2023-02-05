@@ -1,0 +1,58 @@
+{
+  "name": "Mining Rig Computer",
+  "category": "indrev:machines",
+  "sortnum": 4,
+  "icon": "indrev:mining_rig_mk4",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/mining_rig_mk4",
+      "text": "The Mining Rig Computer has been developed to create virtual dimensions based on ore data cards, allowing you to harvest ores without modifying your world."
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/drill_bottom",
+      "text": "Mining Rig Drills are required for the Mining Rig Computer to work. They have to be placed next to the Computer and require drill heads to work. Each Drill increases the mining speed.$(br)Screenshot of a functional setup:"
+    },
+    {
+      "type": "image",
+      "title": "Example",
+      "images": ["indrev:textures/gui/mrc_setup.png"],
+      "text": "Note that the Drills can be placed connected or diagonally to the Mining Rig Computer."
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/ore_data_card",
+      "text": "Ore Data Cards store the data necessary for the Mining Rig Computer to virtualize a dimension based on the data written on it where it mines the ores."
+    },
+    {
+      "type": "crafting",
+      "recipe": "indrev:shaped/data_card_writer_mk4",
+      "text": "The Data Card Encoder will encode all the ores and modifiers into your Ore Data Card. You can write multiple times in a card to encode more data."
+    },
+    {
+      "type": "text",
+      "text": "When looking inside a Data Card Encoder, the ores and modifiers it can encode will be highlighted in your inventory.$(br2)When encoding, some attributes will change in your card, like richness or size.$(br2)$(br)Tip: search \"#indrev:mining_rig_allowed\" on REI to see all allowed ores!"
+    },
+    {
+      "type": "text",
+      "text": "$(l)Attributes$() can be observed on your data card tooltip.$(br)These attributes can then be improved by modifiers."
+    },
+    {
+      "type": "text",
+      "text": "$(l)Storage size$() can be seen by the circle UI in the tooltip. The blue circle represents how many cycles the Mining Rig Computer has left to search on the virtual dimension, which will then turn the circle red. At the end of each cycle, the ores found will be added to a connected inventory.$(br2)Each data slot on the Data Card Encoder will increase the total cycles on the card. It can also be increased by adding Stone as a modifier."
+    },
+    {
+      "type": "text",
+      "text": "$(l)Types$() represents the ores that can be generated from this card. Note that the chance of generating each ore is proportional to the amount of the respective ore that was encoded in the card.$(br2)$(#FF1111)Be careful$(), encoding too many types can cause your data card to overflow and be unusable."
+    },
+    {
+      "type": "text",
+      "text": "$(l)Richness$() represents the maximum amount of ores that can be generated from each cycle. $(br)This can be increased by adding $(#5300de)Enriched Nikolite Dust$() to the modifier slots."
+    },
+    {
+      "type": "text",
+      "text": "$(l)Cycles$() information can be seen on the tooltip. After each cycle the ores will be inserted into a nearby inventory.$(br2)You can see the cycle progress on the Mining Rig Computer screen.$(br)Better Drill Heads can complete cycles faster."
+    }
+  ]
+}
