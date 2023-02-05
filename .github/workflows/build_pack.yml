@@ -48,7 +48,7 @@ jobs:
           name: Version ${{ github.run_number }}
           generateReleaseNotes: true
           artifacts: "*/*.zip"
-          tag: latest
+          tag: v${{ github.run_number }}
           allowUpdates: true
       - name: Merge Pull Request
         if: ${{ github.event_name == 'pull_request' }}
