@@ -1,0 +1,21 @@
+{
+  "name": "The Monstrosity",
+  "icon": "minecraft:bedrock",
+  "sortnum": 2,
+  "secret": true,
+  "advancement": "spectrum:midgame/hurt_by_monstrosity",
+  "category": "spectrum:dimension_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "The Monstrosity",
+      "text": "$(italic)Something is lurking down there. You knew it!$()$(br)A cruel monstrosity watching your every step. Just waiting for the right time to strike.$(br)Watch out not getting shredded into pieces and devoured. What a nice time to be alive."
+    },
+    {
+      "type": "patchouli:text",
+      "advancement": "spectrum:midgame/killed_monstrosity",
+      "title": "Victory?",
+      "text": "It's dead.$(br2)$(italic)You think$()."
+    }
+  ]
+}

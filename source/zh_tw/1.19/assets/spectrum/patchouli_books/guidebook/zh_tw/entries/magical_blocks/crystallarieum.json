@@ -1,0 +1,146 @@
+{
+  "name": "Crystallarieum",
+  "icon": "spectrum:crystallarieum",
+  "secret": true,
+  "advancement": "spectrum:progression/unlock_crystallarieum",
+  "category": "spectrum:magical_blocks_category",
+  "extra_recipe_mappings": {
+    "spectrum:crystallarieum": 0,
+
+    "spectrum:small_coal_bud": 0,
+    "spectrum:large_coal_bud": 0,
+    "spectrum:coal_cluster": 0,
+    "spectrum:small_copper_bud": 0,
+    "spectrum:large_copper_bud": 0,
+    "spectrum:copper_cluster": 0,
+    "spectrum:small_diamond_bud": 0,
+    "spectrum:large_diamond_bud": 0,
+    "spectrum:diamond_cluster": 0,
+    "spectrum:small_emerald_bud": 0,
+    "spectrum:large_emerald_bud": 0,
+    "spectrum:emerald_cluster": 0,
+    "spectrum:small_glowstone_bud": 0,
+    "spectrum:large_glowstone_bud": 0,
+    "spectrum:glowstone_cluster": 0,
+    "spectrum:small_gold_bud": 0,
+    "spectrum:large_gold_bud": 0,
+    "spectrum:gold_cluster": 0,
+    "spectrum:small_iron_bud": 0,
+    "spectrum:large_iron_bud": 0,
+    "spectrum:iron_cluster": 0,
+    "spectrum:small_lapis_bud": 0,
+    "spectrum:large_lapis_bud": 0,
+    "spectrum:lapis_cluster": 0,
+    "spectrum:small_netherite_bud": 0,
+    "spectrum:large_netherite_bud": 0,
+    "spectrum:netherite_cluster": 0,
+    "spectrum:small_prismarine_bud": 0,
+    "spectrum:large_prismarine_bud": 0,
+    "spectrum:prismarine_cluster": 0,
+    "spectrum:small_quartz_bud": 0,
+    "spectrum:large_quartz_bud": 0,
+    "spectrum:quartz_cluster": 0,
+    "spectrum:small_redstone_bud": 0,
+    "spectrum:large_redstone_bud": 0,
+    "spectrum:redstone_cluster": 0,
+    "spectrum:small_certus_quartz_bud": 0,
+    "spectrum:large_certus_quartz_bud": 0,
+    "spectrum:certus_quartz_cluster": 0,
+    "spectrum:small_fluix_bud": 0,
+    "spectrum:large_fluix_bud": 0,
+    "spectrum:fluix_cluster": 0,
+    "spectrum:small_globette_bud": 0,
+    "spectrum:large_globette_bud": 0,
+    "spectrum:globette_cluster": 0,
+    "spectrum:small_globette_end_bud": 0,
+    "spectrum:large_globette_end_bud": 0,
+    "spectrum:globette_end_cluster": 0,
+    "spectrum:small_globette_nether_bud": 0,
+    "spectrum:large_globette_nether_bud": 0,
+    "spectrum:globette_nether_cluster": 0
+  },
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "With Budding Blocks in mind you designed the Crystallarieum: an ink-powered apparatus, which could automatically grow resources from raw ore or crystals on it's top.$(br)While, even after all your efforts, you could not get it to grow actual $(l:general/shards)Gemstone Shards$(/l), you quickly recognised it's potential for growing all kinds of other resources."
+    },
+    {
+      "type": "spectrum:pedestal_crafting",
+      "title": "Pedestal Recipe",
+      "recipe": "spectrum:pedestal/tier4/crystallarieum",
+      "text": "It can fit a stack of catalysts, which it uses to enhance the growth process. For a few rare materials that even may be required."
+    },
+    {
+      "type": "spectrum:crystallarieum_growing",
+      "title": "Iron Growing",
+      "recipe": "spectrum:crystallarieum/vanilla/iron",
+      "text": "Metallic resources can be grown by throwing unrefined materials, like $(thing)Raw Iron$() on top of it. Result is a small iron bud that steadily grows until it reaches maturity and can safely be harvested."
+    },
+    {
+      "type": "spectrum:crystallarieum_growing",
+      "title": "Diamond Growing",
+      "recipe": "spectrum:crystallarieum/vanilla/diamond",
+      "text": "Crystal-like blocks, like $(thing)Diamonds$() can be grown, too! Albeit most requiring more Ink than metal ones, their crystal nature allows you to grow them again and again - $(thing)Diamond Clusters$() yielding $(thing)Diamonds$()."
+    },
+    {
+      "type": "spectrum:crystallarieum_growing",
+      "title": "Copper Growing",
+      "recipe": "spectrum:crystallarieum/vanilla/copper",
+      "text": ""
+    },
+    {
+      "type": "spectrum:crystallarieum_growing",
+      "title": "Gold Growing",
+      "recipe": "spectrum:crystallarieum/vanilla/gold",
+      "text": ""
+    },
+    {
+      "type": "spectrum:crystallarieum_growing",
+      "title": "Netherite Growing",
+      "recipe": "spectrum:crystallarieum/vanilla/netherite",
+      "text": ""
+    },
+    {
+      "type": "spectrum:crystallarieum_growing",
+      "title": "Coal Growing",
+      "recipe": "spectrum:crystallarieum/vanilla/coal",
+      "text": ""
+    },
+    {
+      "type": "spectrum:crystallarieum_growing",
+      "title": "Emerald Growing",
+      "recipe": "spectrum:crystallarieum/vanilla/emerald",
+      "text": ""
+    },
+    {
+      "type": "spectrum:crystallarieum_growing",
+      "title": "Glowstone Growing",
+      "recipe": "spectrum:crystallarieum/vanilla/glowstone",
+      "text": ""
+    },
+    {
+      "type": "spectrum:crystallarieum_growing",
+      "title": "Lapis Growing",
+      "recipe": "spectrum:crystallarieum/vanilla/lapis",
+      "text": ""
+    },
+    {
+      "type": "spectrum:crystallarieum_growing",
+      "title": "Prismarine Growing",
+      "recipe": "spectrum:crystallarieum/vanilla/prismarine_crystal",
+      "text": ""
+    },
+    {
+      "type": "spectrum:crystallarieum_growing",
+      "title": "Quartz Growing",
+      "recipe": "spectrum:crystallarieum/vanilla/quartz",
+      "text": ""
+    },
+    {
+      "type": "spectrum:crystallarieum_growing",
+      "title": "Redstone Growing",
+      "recipe": "spectrum:crystallarieum/vanilla/redstone",
+      "text": ""
+    }
+  ]
+}

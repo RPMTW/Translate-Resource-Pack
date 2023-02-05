@@ -1,0 +1,31 @@
+{
+  "name": "Creating Budding Onyx",
+  "icon": "spectrum:onyx_cluster",
+  "sortnum": 15,
+  "advancement": "spectrum:progression/unlock_budding_onyx",
+  "turnin": "spectrum:midgame/create_budding_onyx",
+  "category": "spectrum:general_category",
+  "extra_recipe_mappings": {
+    "spectrum:small_onyx_bud": 0,
+    "spectrum:medium_onyx_bud": 0,
+    "spectrum:large_onyx_bud": 0,
+    "spectrum:onyx_cluster": 0,
+    "spectrum:onyx_block": 0,
+    "spectrum:budding_onyx": 0,
+    "spectrum:onyx_ore": 0,
+    "spectrum:deepslate_onyx_ore": 0
+  },
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Creating Budding Onyx",
+      "text": "Crafting onyx was always very nerdy, as it depended on the current phase of the moon, despite the $(l:magical_items/crescent_clock)Crescent Clock$(/l).$(br)By making Onyx farmable like the other gems, will save you a huge amount of time.$(br2)$(italic)Strangely, the same procedure does not seem to work for other colored gems?"
+    },
+    {
+      "type": "spectrum:spirit_instiller_crafting",
+      "title": "Spirit Inst. Recipe",
+      "recipe": "spectrum:spirit_instiller/budding_onyx",
+      "text": "Even if it seems expensive, having renewable onyx seems worth it.$(br)Better to craft a larger amount of these $(l:general/midnight_aberration)Midnight Aberrations$(/l) all at once, as they seem to crumble in your hands quickly."
+    }
+  ]
+}
