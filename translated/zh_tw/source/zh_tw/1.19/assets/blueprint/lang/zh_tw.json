@@ -15,5 +15,6 @@
     "blueprint.screen.slabfish_settings.tooltip": "異常(Abnormals)團隊贊助人板魚帽的設定。成為%s的贊助者。",
     "blueprint.message.redirect": "正在重新導向",
     "biome.blueprint.original_source_marker": "原始來源標記",
-    "entity.blueprint.boat": "船"
+    "entity.blueprint.boat": "船",
+    "entity.blueprint.chest_boat": "儲物箱船"
 }
