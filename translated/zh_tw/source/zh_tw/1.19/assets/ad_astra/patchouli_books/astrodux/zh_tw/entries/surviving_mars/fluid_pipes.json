@@ -1,18 +1,18 @@
 {
-  "name": "Fluid Pipes",
+  "name": "流體管道",
   "icon": "ad_astra:ostrum_fluid_pipe",
   "sortnum": 1,
   "category": "ad_astra:surviving_mars",
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Fluid Pipes",
+      "title": "流體管道",
       "item": "ad_astra:ostrum_fluid_pipe",
-      "text": "Fluid pipes are similar to cables but with fluid transfer instead of energy transfer. To use them, craft some fluid pipes and a wrench. Then, right-click on one of the pipes with the wrench to cycle through the pipe's modes: 'none,' 'normal,' 'insert,' and 'extract.'"
+      "text": "流體管道類似於電纜，但用於流體傳輸而不是能量傳輸。要使用它們，需要製作一些流體管道和一把扳手。然後，用扳手右鍵點擊其中一個管道，查看管道的模式：\"無\"、\"正常\"、\"插入 \"和 \"提取\"。"
     },
     {
       "type": "patchouli:crafting",
-      "text": "Pipes with 'insert' set will receive fluid from the network, while pipes with 'extract' set will pump fluid into the network.",
+      "text": "設置為“插入”的管道將從網絡接收流體，而設置為“提取”的管道會將流體泵入網絡。",
       "recipe": "ad_astra:recipes/desh_fluid_pipe"
     },
     {
