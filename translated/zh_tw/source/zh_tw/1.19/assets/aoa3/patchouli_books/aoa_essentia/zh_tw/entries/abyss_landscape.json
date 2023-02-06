@@ -2,12 +2,12 @@
   "advancement": "aoa3:abyss/root",
   "category": "aoa3:abyss",
   "icon": "",
-  "name": "Landscape",
+  "name": "景觀",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "The $(thing)Abyssal Plains$() is a treacherous, hilly land dominated by creepy foliage that come in the form of tentacles, dark trees, and toxic plants; some of which have eyes growing in, or off of them. The land is perpetually shrouded in darkness.",
-      "title": "Landscape"
+      "text": "$(thing)深淵平原$() 是一片危險的丘陵地帶，以觸手、黑色的樹和有毒植物的形式出現的令人毛骨悚然的樹葉占主導地位； 其中一些擁有眼睛，或長有眼睛。 大地永遠籠罩在黑暗之中。",
+      "title": "景觀"
     }
   ],
   "sortnum": 1
