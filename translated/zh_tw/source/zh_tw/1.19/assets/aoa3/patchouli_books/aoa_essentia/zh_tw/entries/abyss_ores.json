@@ -6,12 +6,12 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Should you wish to hide underground from the horrors of the surface in the $(thing)Abyss$(), you may take comfort in knowing of the blood-red minerals that can be found down there.",
-      "title": "Ores"
+      "text": "如果你想待在地下，以躲避地面的生物，那你會很慶幸，因為在$(thing)深淵$()，你至少還可以挖一種血紅色的礦物來讓自己有事做。",
+      "title": "礦物"
     },
     {
       "type": "patchouli:text",
-      "text": "$(thing)Bloodstone Ore$() can be harvested with a pickaxe, dropping $(thing)Bloodstones$() and some xp.$(br2)$(thing)Bloodstones$() can be found almost anywhere in the abyssal underground, and can be used for a variety of purposes, such as new weapons or armour."
+      "text": "$(thing)血石礦$()可以用鎬子來採集，會掉落$(thing)血之石$()和一些經驗。$(br2)$(thing)血之石$()可以在深淵地底的任何地方找到，可以用於製造盔甲或武器。"
     }
   ],
   "sortnum": 2

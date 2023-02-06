@@ -1,16 +1,16 @@
 {
   "category": "aoa3:skills",
   "icon": "minecraft:potion",
-  "name": "Abilities",
+  "name": "能力",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "All $(aoa) $(thing)skills$() come with a list of unlockable $(thing)abilities$() that give various bonuses and effects as you level up.$(br)Each $(thing)skill$() has different available $(thing)abilities$() at different levels.",
-      "title": "Skill Abilities"
+      "text": "所有 $(aoa) $(thing)技能$() 都帶有一個可解鎖的 $(thing)能力$() 列表，在您升級時會提供各種獎勵和效果。$(br)每個 $(thing)技能$( ) 在不同的等級時會有不同的 $(thing)能力$() 。",
+      "title": "技能 & 能力"
     },
     {
       "type": "patchouli:text",
-      "text": "Every individual $(thing)ability$() can be disabled and re-enabled in the $(l:aoa3:advent_gui_base#advent_gui)Advent GUI$(/l), so if you don't like a particular ability or just don't want to use it for a while, you can toggle it off."
+      "text": "每一種 $(thing)能力$() 都可以在 $(l:aoa3:advent_gui_base#advent_gui)虛無世界 GUI$(/l) 中禁用和重新啟用，所以如果你不喜歡某個特定的能力或者只是不喜歡 想要使用一段時間，可以將其關閉。"
     }
   ],
   "sortnum": 1

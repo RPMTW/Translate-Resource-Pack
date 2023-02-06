@@ -1,13 +1,13 @@
 {
   "category": "aoa3:journal",
   "icon": "aoa3:corrupted_traveller_spawn_egg",
-  "name": "Corrupted Traveller",
+  "name": "飢餓的旅行家",
   "pages": [
     {
       "type": "patchouli:link",
       "link_text": "AoA Wiki",
-      "text": "Visit the $(aoa) wiki to read more about the $(thing)Corrupted Traveller$()",
-      "title": "Wiki Link",
+      "text": "前往$(aoa)wiki，閱讀更多關於$(thing)飢餓的旅行家$()的資訊。",
+      "title": "Wiki連接",
       "url": ""
     },
     {
