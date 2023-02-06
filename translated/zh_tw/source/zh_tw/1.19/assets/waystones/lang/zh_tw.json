@@ -143,5 +143,6 @@
     "text.autoconfig.waystones.option.compatibility": "模組整合",
     "text.autoconfig.waystones.option.compatibility.displayWaystonesOnJourneyMap": "在JourneyMap上顯示傳送石碑",
     "waystones.iconCredits": "圖示由 JoeCreates 提供（CC-BY-SA 3.0）",
-    "waystones.map.untitled_waystone": "未命名傳送石碑"
+    "waystones.map.untitled_waystone": "未命名傳送石碑",
+    "config.jade.plugin_waystones.waystone": "傳送石碑"
 }
