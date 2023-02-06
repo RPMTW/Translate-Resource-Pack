@@ -1,6 +1,6 @@
 {
   "parent": "aoa3:skills",
-  "description": "$(thing)Innervation$() is a skill based around your natural resilience.$(br2)As you level up, your body's natural strength, resistance, and combat abilities increase.",
+  "description": "$(thing)支配$()是一個圍繞你的自然恢復力的技能。 $(br2)隨著你的等級提高，你身體的自然力量、抵抗力和戰鬥能力都會增加。",
   "icon": "aoa3:textures/gui/aoaskill/innervation.png",
-  "name": "Innervation"
+  "name": "支配"
 }
