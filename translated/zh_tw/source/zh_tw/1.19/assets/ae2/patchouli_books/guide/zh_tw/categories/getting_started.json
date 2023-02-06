@@ -2,5 +2,5 @@
   "name": "入門",
   "icon": "ae2:meteorite_compass",
   "sortnum": 0,
-  "description": "This is a step-by-step guide on how to start $(thing)Applied Energistics 2$().  This will walk you through finding your first $(l:ae2:getting_started/compass)Meteor$(/l), growing $(l:ae2:getting_started/certus)Certus Quartz$(), and setting up an $(l:ae2:getting_started/inscriber)Inscriber$()."
+  "description": "這是有關如何開始使用 $(thing)Applied Energistics 2$() 的指南。 這將引導您找到您的第一個 $(l:ae2:getting_started/compass)隕石$(/l)，發展 $(l:ae2:getting_started/certus)Certus 石英$()，並設置一個 $(l: ae2:getting_started/inscriber)銘文$()。"
 }
