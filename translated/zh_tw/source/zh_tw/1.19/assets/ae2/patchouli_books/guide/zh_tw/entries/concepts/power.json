@@ -1,28 +1,28 @@
 {
-  "name": "AE Power",
+  "name": "AE電力",
   "icon": "ae2:energy_cell",
   "category": "ae2:concepts",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "The $(thing)ME System$() uses a unique form of power measured in $(thing)AE$().$(br2)Some $(item)External Power Systems$() can be converted into $(thing)AE$(), but this conversion only works 1-way.$(br2)What $(item)External Power Systems$() are available depends on your particular modpack setup."
+      "text": "這個$(thing)ME 系統$() 使用在 $(thing)AE$() 中測量的獨特形式的能量。$(br2)一些 $(item)外部電源系統$() 可以轉換成 $(thing) AE$()，但此轉換是不可逆轉的。$(br2)可用的 $(item)外部電源系統$() 取決於您的特定整合包設置。"
     },
     {
       "flag": "mod:fabric-api",
       "type": "patchouli:text",
-      "title": "Fabric Conversion(s)",
-      "text": "Tech Reborn's \"$(thing)Energy$()\" converts into $(thing)AE$() with a default ratio of $(thing)$(bold)2 E = 1 AE$()."
+      "title": "Fabric 轉換",
+      "text": "Tech Reborn 的“$(thing)能量$()”轉換為 $(thing)AE$()，默認比率為 $(thing)$(bold)2 E = 1 AE$()。"
     },
     {
       "flat": "mod:forge",
       "type": "patchouli:text",
-      "title": "Forge Conversion(s)",
-      "text": "\"$(thing)Forge Energy$()\" ($(thing)FE$()), sometimes referred to as \"$(thing)Redstone Flux$()\" ($(thing)RF$()), or even some other names ($(thing)IF$(), $(thing)CF$(), $(thing)µI$(), etc.), is the most widely used power system. It converts into $(thing)AE$() with a default ratio of $(thing)$(bold)2 FE = 1 AE$()."
+      "title": "Forge 轉換",
+      "text": "“$(thing)鍛造能源$()”($(thing)FE$())，有時稱為“$(thing)紅石通量$()”($(thing)RF$())，甚至 一些其他名稱（$(thing)IF$(), $(thing)CF$(), $(thing)µI$() 等），是使用最廣泛的電源系統。 它轉換為 $(thing)AE$()，默認比率為 $(thing)$(bold)2 FE = 1 AE$()。"
     },
     {
       "type": "patchouli:text",
-      "title": "Conversion Blocks",
-      "text": "The following machines accept $(thing)External Power$() directly for only themselves.$(li)$(l:ae2:getting_started/charger)Charger$(/l)$(li)$(l:ae2:getting_started/inscriber)Inscriber$(/l)$(li)$(l:ae2:todo)ME Chest$(/l)$(br2)The following blocks are able to accept $(thing)External Power$() and turn it into $(thing)AE$() for the entire Network.$(li)$(item)Energy Acceptor$()$(li)$(l:ae2:todo)ME Controller$(/l)"
+      "title": "轉換方塊",
+      "text": "以下機器只為自己直接接受 $(thing)外部電源$()。$(li)$(l:ae2:getting_started/charger)充電器$(/l)$(li)$(l:ae2:getting_started/ inscriber)銘文$(/l)$(li)$(l:ae2:todo)ME 箱子$(/l)$(br2)以下方塊可以接受$(thing)外部電源$()並轉動它 整個網絡的$(thing)AE$()。$(li)$(item)能量受體$()$(li)$(l:ae2:todo)ME 控制器$(/l)"
     },
     {
       "type": "patchouli:crafting",
@@ -31,8 +31,8 @@
     },
     {
       "type": "patchouli:text",
-      "title": "Energy Storage",
-      "text": "$(thing)AE$() power is stored in the network. The following blocks increase how much power can be stored.$(li)Any ME Network: 800 $(thing)AE$()$(li)$(l:ae2:todo)ME Controller$(/l): 8,000 $(thing)AE$()$(li)$(item)Energy Cell$(): 200k $(thing)AE$()$(li)$(item)Dense Energy Cell$(): 1.6M $(thing)AE$()$(br2)A common beginner issue is a lack of $(thing)AE energy storage$(). If you encounter power problems (system blanking out or constantly restarting), you should add $(item)Energy Cells$()."
+      "title": "能源儲存",
+      "text": "$(thing)AE$() 能量存儲在網絡中。 以下方塊增加了可以存儲的能量。$(li)任何 ME 網絡：800 $(thing)AE$()$(li)$(l:ae2:todo)ME 控制器$(/l)：8,000 $(thing)AE$()$(li)$(item)能量電池$(): 20 萬 $(thing)AE$()$(li)$(item)密集能量電池$(): 160 萬 $(thing)AE$()$(br2)一個常見的初學者問題是缺少 $(thing)AE 儲能$()。 如果您遇到電源問題（系統空白或不斷重啟），您應該添加 $(item)能量電池$()。"
     },
     {
       "type": "patchouli:crafting",
@@ -41,23 +41,23 @@
     },
     {
       "type": "patchouli:text",
-      "title": "Energy Transfer",
-      "text": "$(thing)AE Power$() is available across an entire $(thing)Network$(). It follows the same connectivity rules as $(l:ae2:concepts/channels)Channels$(/l), with one exception.$(br2)$(l:ae2:todo)Quartz Fiber$() is a cable multi-part piece which blocks $(thing)Channels$(), but allows $(thing)AE power$() to pass between $(thing)Networks$(). It is useful for $(l:ae2:todo)Sub-Networks$().$(br2)$(item)Energy Cells$() maintain their charge when broken."
+      "title": "能量轉移",
+      "text": "$(thing)AE Power$() 在整個 $(thing)網絡$() 中可用。 它遵循與 $(l:ae2:concepts/channels)頻道$(/l) 相同的連接規則，但有一個例外。$(br2)$(l:ae2:todo)石英纖維$() 是一種多電纜，並能夠阻止 $(thing)頻道$()，但允許 $(thing)AE 能量$() 在 $(thing)網絡$() 之間傳遞的部分。 它對 $(l:ae2:todo)Sub-Networks$().$(br2)$(item)能量電池$() 在損壞時保持充電很有用。"
     },
     {
       "type": "patchouli:text",
-      "title": "Energy Usage",
-      "text": "$(thing)AE Power$() is consumed by the network for various purposes, such as...$(li)For each block a Channel has to travel through (Controller Networks are more efficient than Ad-Hoc ones).$(li)Components having a passive power consumption.$(li)Components having an active power consumption to perform specific tasks.$(br2)The $(l:ae2:todo)Controller$(/l) or $(l:ae2:todo)Network Tool$(/l) can show you power stats."
+      "title": "能源使用",
+      "text": "$(thing)AE 能量$() 被網絡用於各種目的，例如...$(li)對於通道必須經過的每個塊（控制器網絡比 Ad-Hoc 網絡更有效）。$(li)具有被動功耗的組件。$(li)具有主動功耗以執行特定任務的組件。$(br2)$(l:ae2:todo)控制器$(/l)或$(l:ae2 :todo)網絡工具$(/l) 可以顯示電量統計數據。"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "ae2:network/blocks/energy_vibration_chamber",
-      "text": "If you don't have an $(thing)external power system$() available, then you can use the $(item)Vibration Chamber$() to generate $(thing)AE$() directly using $(thing)furnace fuels$(). With default settings, 1 $(item)Coal$() produces 8,000 $(thing)AE$() at 40 $(thing)AE$()/t."
+      "text": "如果你沒有可用的$(thing)外部電源系統$()，那麼你可以使用$(item)振動室$()直接使用$(thing)熔爐生成$(thing)AE$() 燃料$()。 在默認設置下，1 $(item)煤炭$() 以 40 $(thing)AE$()/t 的價格生產 8,000 $(thing)AE$()。"
     },
     {
       "type": "patchouli:text",
-      "title": "Extra Remarks",
-      "text": "It is worth pointing out that various $(thing)HUD Mods$() only show local power storage numbers, and will show 0 energy on things like $(l:ae2:getting_started/inscriber)Inscribers$() when they are powered by the $(thing)Network$(). The $(item)Inscriber$() will run just fine regardless.$(br2)While $(l:ae2:todo)Controllers$(/l) can accept $(thing)external power$(), it normally takes up one face (32 potential $(thing)channels$()) so you are typically better off still using an $(item)Energy Acceptor$() as your input."
+      "title": "額外備註",
+      "text": "值得指出的是，各種 $(thing)HUD 模組$() 僅顯示本地能量存儲數字，並且在 $(l:ae2:getting_started/inscriber)銘文$() 等事物上顯示 0 能量，當它們由 $(thing)網絡$()。 $(item)銘文$() 無論如何都會運行得很好。$(br2)雖然 $(l:ae2:todo)控制器$(/l) 可以接受 $(thing)外部能量$()，但它通常會佔用 一張臉（32 個潛在的 $(thing)頻道$()）所以你通常最好還是使用 $(item)能量受體$() 作為你的輸入。"
     }
   ]
 }
