@@ -2,12 +2,12 @@
   "advancement": "aoa3:abyss/root",
   "category": "aoa3:abyss",
   "icon": "",
-  "name": "Description",
+  "name": "介紹",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "The $(thing)Abyss$() is a dark, blood-coloured world filled with nauseating horrors.",
-      "title": "Description"
+      "text": "$(thing)深淵$() 是一個黑暗、血色的世界，充滿了令人作嘔的恐怖。",
+      "title": "介紹"
     }
   ],
   "sortnum": 0
