@@ -1,17 +1,17 @@
 {
-  "name": "Wooden Crank",
+  "name": "木曲柄",
   "category": "ae2:getting_started",
   "icon": "ae2:crank",
   "sortnum": 100,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "The $(thing)Wooden Crank$() can be used to manually operate the $(l:ae2:getting_started/charger)Charger$(/l), $(l:ae2:getting_started/inscriber)Inscriber$(/l), and $(l:ae2:getting_started/certus#cga)Crystal Growth Accelerators$(/l).$(br2)To place the $(thing)Crank$() on the $(thing)Charger$(), hold [$(k:sneak)] and then press [$(k:use)]. The $(thing)Wooden Crank$() can only be placed on a valid power input side (normally the top or bottom)."
+      "text": "$(thing)木曲柄$() 可用於手動操作 $(l:ae2:getting_started/charger)充電器$(/l), $(l:ae2:getting_started/inscriber)銘文$(/l) , 和 $(l:ae2:getting_started/certus#cga)晶體生長加速器$(/l).$(br2)要將 $(thing)曲柄$() 放在 $(thing)充電器$() 上，按住 [$(k:sneak)] 然後按 [$(k:use)]。 $(thing)木曲柄$() 只能放在有效的電源輸入側（通常是頂部或底部）。"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "ae2:network/blocks/crank",
-      "text": "Each turn generates $(l:ae2:concepts/power)160 AE$(). It takes 10 turns to generate enough power to craft a single item in the $(thing)Charger$().$(br2)It may break if overused."
+      "text": "物品每回合產生 $(l:ae2:concepts/power)160 AE$()。 在 $(thing)充電器$() 中需要 10 回合才能產生足夠的能量來製作一件物品。$(br2)如果過度使用它可能會損壞。"
     }
   ]
 }
