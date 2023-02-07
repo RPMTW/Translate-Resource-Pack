@@ -1,42 +1,42 @@
 {
-  "name": "4) Certus Quartz",
+  "name": "4) 賽特斯石英",
   "category": "ae2:getting_started",
   "icon": "ae2:quartz_cluster",
   "sortnum": 40,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "$(thing)Certus Quartz$() is a wondrous material found in $(l:ae2:getting_started/compass)Meteorites$(/l). It is grown similarly to $(item)Amethyst$(), though most of its $(l:ae2:getting_started/certus#budding)Budding blocks$(/l) appear to decay over time.$(br2)It is used in many $(thing)AE2$() recipes as a crafting ingredient, can be used to make $(l:ae2:equipment/quartz_tools)Iron-level tools$(/l), crushed into a $(item)Dust$(), used to decorate, and more."
+      "text": "$(thing)賽特斯石英$() 是一種在 $(l:ae2:getting_started/compass)運勢$(/l) 中發現的奇妙材料。 它的生長方式類似於 $(item)紫水晶$()，儘管它的大部分 $(l:ae2:getting_started/certus#budding)母岩$(/l) 似乎會隨著時間的推移而衰減。$(br2)它用於 在許多 $(thing)AE2$() 配方中作為製作原料，可用於製作 $(l:ae2:equipment/quartz_tools)鐵級工具$(/l)，粉碎成 $(item)粉末$ ()，用於裝飾等等。"
     },
     {
       "type": "patchouli:spotlight",
       "item": "ae2:quartz_cluster",
-      "text": "Growing $(thing)Certus Quartz$() has 3 $(thing)Bud$() stages and then a fully grown $(thing)Cluster$() stage. Breaking it during any of the $(thing)Bud$() stages will drop only a single $(thing)Certus Quartz Dust$() (not affected by $(item)Fortune$()). Breaking a fully grown $(thing)Cluster$() will drop 4 $(thing)Certus Quartz Crystals$(), and this is affected by $(item)Fortune$()."
+      "text": "成長中的 $(thing)賽特斯石英$() 有 3 個 $(thing)生長$() 階段，然後是一個完全成熟的 $(thing)結晶$() 階段。 在任何 $(thing)生長$() 階段打破它只會掉落一個 $(thing)賽特斯石英粉末$()（不受 $(item)幸運$() 影響）。 破壞一個完全成熟的 $(thing)結晶$() 會掉落 4 個 $(thing)賽特斯石英水晶$()，這受 $(item)幸運$() 影響。"
     },
     {
       "type": "patchouli:spotlight",
-      "anchor": "budding",
+      "anchor": "生長中",
       "item": "ae2:flawless_budding_quartz",
-      "title": "Budding Certus Quartz",
-      "text": "$(thing)Budding Certus Quartz$() comes in 4 tiers.$(br2)$(thing)Flawless$() is the best and never decays, but can only be found in Meteors.$(br2)The next 3 tiers, in descending quality, are $(thing)Flawed$(), $(thing)Chipped$(), and $(thing)Damaged$()."
+      "title": "賽特斯石英芽床",
+      "text": "$(thing)賽特斯石英母岩$() 分為 4 個品級。$(br2)$(thing)完美$() 是最好的並且永不衰減，但只能在流星中找到。$(br2)接下來的 3 層 ，按質量遞減，是 $(thing)損壞$()、$(thing)碎裂$() 和 $(thing)破碎$()。"
     },
     {
       "type": "patchouli:text",
-      "text": "When one of those $(thing)Budding$() blocks grows a $(thing)Certus Quartz Bud$() there is a chance for it to decay to a lower tier, with $(thing)Damaged$() decaying into a normal $(thing)Certus Quartz Block$().$(br2)Conveniently, these decaying $(thing)Budding Blocks$() can be crafted by throwing one of them (or a $(thing)Certus Quartz Block$()), along with a $(l:ae2:getting_started/charger)Charged Certus Quartz$() into a pool of water to increase their tier by 1 (Max is $(thing)Flawed$())."
+      "text": "當其中一個 $(thing)母岩$() 塊長出一個 $(thing)賽特斯石英芽$() 時，它有機會衰減到較低層級，$(thing)破碎$() 衰減到一個 普通的$(thing)Certus Quartz Block$().$(br2)方便地，這些腐壞的$(thing)母岩$()可以通過扔其中一個（或$(thing)賽特斯石英塊$() ), 連同 $(l:ae2:getting_started/charger)帶電的賽特斯石英$() 放入水中以將其等級提高 1（最大為 $(thing)損壞$()）。"
     },
     {
       "type": "patchouli:text",
-      "text": "When broken normally any $(thing)Budding Certus Quartz$() will turn into a normal $(thing)Certus Quartz Block$(). If it is broken using $(item)Silk Touch$() then the $(thing)Budding Block$() will decay one tier. If you want $(thing)Flawless Budding Quartz$() at your base then you will need to figure out another way of moving it."
+      "text": "當正常損壞時，任何 $(thing)賽特斯石英母岩$() 都會變成普通的 $(thing)賽特斯石英塊$()。 如果使用 $(item)絲綢之觸$() 破壞它，那麼 $(thing)母岩$() 將衰減一等。 如果你想在基地放置 $(thing)完美的賽特斯石英母岩$() ，那麼你需要想出另一種移動它的方法。"
     },
     {
       "type": "patchouli:crafting",
       "anchor": "cga",
       "recipe": "ae2:network/blocks/crystal_processing_quartz_growth_accelerator",
-      "text": "$(thing)Crystal Growth Accelerators$() significantly increase the speed at which $(thing)Certus Quartz$() grows. They also work on Amethyst. $(thing)CGAs$() are placed adjacent to the root $(l:ae2:getting_started/certus#budding)Budding Block$()."
+      "text": "$(thing)晶體生長加速器$() 顯著提高了 $(thing)賽特斯石英$() 的生長速度。 他們也在紫水晶上工作。 $(thing)CGAs$() 放置在根 $(l:ae2:getting_started/certus#budding)母岩$() 附近。"
     },
     {
       "type": "patchouli:text",
-      "text": "$(thing)CGAs$() need power to operate.  They accept either $(l:ae2:concepts/power)Network Power$(/l) or the $(l:ae2:getting_started/crank)Wooden Crank$(/l). They do not accept $(item)External Power$(). Power only connects to two opposing sides of the $(thing)CGA$().$(br2)$(thing)CGAs$() can be $(l:ae2:equipment/wrench)Rotated$(/l). This only affects where power can connect; adjacent $(thing)Budding Blocks$() will be $(thing)Growth Accelerated$() from any side of the $(thing)CGA$(). Also, multiple $(thing)CGAs$() can accelerate a $(thing)Budding Block$() at the same time."
+      "text": "$(thing)CGAs$() 需要電源才能運行。 他們接受 $(l:ae2:concepts/power)網絡電源$(/l) 或 $(l:ae2:getting_started/crank)木曲柄$(/l)。 他們不接受 $(item)外部電源$()。 電源僅連接到 $(thing)CGA$() 的兩個相對側。$(br2)$(thing)CGAs$() 可以是 $(l:ae2:equipment/wrench)旋轉的$(/l)。 這只會影響電源可以連接的地方； 相鄰的 $(thing)母岩$() 將是 $(thing)增長加速$() 來自 $(thing)CGA$() 的任何一側。 此外，多個 $(thing)CGAs$() 可以同時加速一個 $(thing)母岩$()。"
     },
     {
       "type": "patchouli:image",
@@ -44,7 +44,7 @@
         "ae2:textures/patchouli/images/crystal_growth_accelerator_setup.png"
       ],
       "border": true,
-      "title": "Example Setup"
+      "title": "示例設置"
     }
   ]
 }
