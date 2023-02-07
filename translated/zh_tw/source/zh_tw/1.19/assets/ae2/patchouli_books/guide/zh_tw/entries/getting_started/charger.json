@@ -1,17 +1,17 @@
 {
-  "name": "1) Charger",
+  "name": "1) 充電器",
   "category": "ae2:getting_started",
   "icon": "ae2:charger",
   "sortnum": 10,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "The $(thing)Charger$() is used to charge $(l:ae2:catalog/chargeable)various AE2 items$(/l), and for some crafting. Notably it is used to craft the $(l:ae2:getting_started/compass)Meteorite Compass$(/l) and $(thing)Charged Certus Quartz$().$(br2)The $(thing)Charger$() accepts $(l:ae2:concepts/power)Network Power, most external forms of power$(/l), or can be powered manually using a $(l:ae2:getting_started/crank)Wooden Crank$(/l)."
+      "text": "$(thing)充電器$() 用於為 $(l:ae2:catalog/chargeable) 各種 AE2 物品 $(/l) 充電，並用於一些工藝。 值得注意的是，它用於製作 $(l:ae2:getting_started/compass)隕石羅盤$(/l) 和 $(thing)充能的賽特斯石英$()。$(br2)這個$(thing)充電器$() 接受 $(l:ae2:concepts/power)網絡電源，大多數外部形式的電源$(/l)，或者可以使用 $(l:ae2:getting_started/crank)木曲柄$(/l) 手動供電。"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "ae2:network/blocks/crystal_processing_charger",
-      "text": "It only accepts $(thing)power$() from its \"top\" or \"bottom\" sides. Note that it can be $(l:ae2:equipment/wrench)rotated$(/l).$(br2)You can [$(k:use)] held items into or out of it, or use automation like $(item)Hoppers$(), $(item)Pipes$(), $(l:ae2:examples/subnets/pipe)Sub-Networks$(), etc."
+      "text": "它只接受來自其“頂部”或“底部”的 $(thing)能量$() 。 請注意，它可以是 $(l:ae2:equipment/wrench)旋轉的$(/l).$(br2)您可以 [$(k:use)] 將物品放入或取出，或使用 $(item)漏斗$(), $(item)水管$(), $(l:ae2:examples/subnets/pipe)子網絡$() 等。"
     }
   ]
 }
