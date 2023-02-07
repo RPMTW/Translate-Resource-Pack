@@ -1,12 +1,12 @@
 {
-  "name": "5) Fluix Crystals",
+  "name": "5) 流體晶體",
   "category": "ae2:getting_started",
   "icon": "ae2:fluix_crystal",
   "sortnum": 50,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "$(thing)Fluix Crystals$() are used for several recipes. They are obtained by throwing $(l:ae2:getting_started/charger)Charged Fluix Crystals$(/l), $(item)Redstone$(), and $(item)Nether Quartz$() into a pool of water.$(br2)They can be crushed into $(thing)Fluix Dust$() in an $(l:ae2:getting_started/inscriber)Inscriber$(/l).$(br2)There is also a Block form, and it can be used to upgrade $(l:ae2:equipment/quartz_tools#fluix)Quartz Tools$(/l)."
+      "text": "$(thing)流體晶體$() 用於多種配方。 它們是通過將 $(l:ae2:getting_started/charger)帶電流體晶體$(/l)、$(item)紅石$() 和 $(item)石英$() 扔進水池中獲得的。$ (br2)它們可以在$(l:ae2:getting_started/inscriber)銘文$(/l).$(br2)中粉碎成$(thing)流體粉塵$()。$(br2)還有一個方塊形式，它可以 用於升級 $(l:ae2:equipment/quartz_tools#fluix)石英工具$(/l)。"
     },
     {
       "type": "patchouli:spotlight",

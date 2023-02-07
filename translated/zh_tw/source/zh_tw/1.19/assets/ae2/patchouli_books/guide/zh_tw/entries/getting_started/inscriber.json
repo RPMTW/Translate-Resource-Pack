@@ -1,21 +1,21 @@
 {
-  "name": "3) Inscriber",
+  "name": "3) 銘文",
   "category": "ae2:getting_started",
   "icon": "ae2:inscriber",
   "sortnum": 30,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "The $(thing)Inscriber$() is a common crafting method in AE2. It is used to craft $(thing)Processors$() and certain $(thing)Dusts$().$(br2)The $(thing)Inscriber$() accepts $(l:ae2:concepts/power)Network Power, most external forms of power$(/l), or can be powered manually using a $(l:ae2:getting_started/crank)Wooden Crank$(/l).$(br2)It is $(l:ae2:concepts/sided)Sided$(/l), and can be $(l:ae2:equipment/wrench)Rotated$(/l)."
+      "text": "$(thing)銘文$() 是 AE2 中常見的製作方法。 它用於製作 $(thing)處理器$() 和某些 $(thing)粉末$()。$(br2)$(thing)銘文$() 接受 $(l:ae2:concepts/power)網絡電源 , 大多數外部形式的電源$(/l), 或者可以使用 $(l:ae2:getting_started/crank)木曲柄$(/l) 手動驅動。$(br2)它是 $(l:ae2:concepts /sided)雙面的$(/l)，並且可以是 $(l:ae2:equipment/wrench)旋轉的$(/l)。"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "ae2:network/blocks/inscribers",
-      "text": "Default Orientation Sidedness:$(li)Top Input = \"Top\" Side$(li)Middle Input = \"Sides\"$(li)Bottom Input = \"Bottom\" Side$(li)Output = \"Sides\"$(br)Sides: North, East, South, West$(br2)The items in the Input Slots will not stack."
+      "text": "默認方向偏向性:$(li)頂部輸入 =“頂部”側$(li)中間輸入=“側面”$(li)底部輸入 =“底部”側$(li)輸出=“邊”$(br)側面：北，東，南，西$(br2)輸入槽中的物品不會堆疊。"
     },
     {
       "type": "patchouli:text",
-      "text": "$(thing)Inscribers$() have 3 $(item)Card Upgrade$() Slots and only accept $(l:ae2:misc/cards/acceleration)Acceleration Cards$(/l). They significantly improve the processing speed.$(br2)You will want to automate the $(thing)Inscriber$(). An early-game example is to use $(item)Hoppers$(). Due to the $(thing)Inscriber's$() Sidedness, and $(item)Hoppers'$() limited interaction sides, you will want to rotate the $(thing)Inscriber$() using a $(l:ae2:equipment/wrench)Quartz Wrench$(/l)."
+      "text": "$(thing)銘文$() 有 3 個 $(item)卡升級$() 插槽並且只接受 $(l:ae2:misc/cards/acceleration)加速卡$(/l)。 它們顯著提高了處理速度。$(br2)您將希望自動執行 $(thing)銘文$()。 一個早期的遊戲示例是使用 $(item)漏斗$()。 由於 $(thing)銘文的 $() 偏向性，以及 $(item)漏斗的 $() 有限的交互面，您需要使用 $(l:ae2:equipment 旋轉 $(thing)銘文$() /wrench)石英扳手$(/l)."
     },
     {
       "type": "patchouli:image",
@@ -23,12 +23,12 @@
         "ae2:textures/patchouli/images/inscriber_setup.png"
       ],
       "border": true,
-      "title": "Example Semi-Automation"
+      "title": "示例半自動化"
     },
     {
       "type": "patchouli:text",
-      "title": "Notable Recipes",
-      "text": "$(todo)<ToDo: Inscriber Recipe Processor. Please use JEI or REI for now>$()$(li)Printed Circuits & Silicon$(li)Processors$(li)Certus Quartz Dust$(li)Fluix Dust$(li)Ender Dust$(li)Sky Stone Dust$(li)Copy Inscriber Plates$(br2)Logic = Gold Ingot$(br)Engineering = Diamond$(br)Calculation = Certus Quartz"
+      "title": "著名食譜",
+      "text": "$(todo)<ToDo: Inscriber Recipe Processor. Please use JEI or REI for now>$()$(li)印刷電路和矽$(li)處理器$(li)賽特斯石英粉$(li)流體粉末$(li)終界粉末$(li)天堂石粉 $(li)複製銘牌$(br2)邏輯=金錠$(br)工程= 鑽石$(br)計算=賽特斯石英"
     }
   ]
 }

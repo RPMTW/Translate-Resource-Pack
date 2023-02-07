@@ -1,5 +1,5 @@
 {
-  "name": "2) Meteors & Compass",
+  "name": "2) 隕石與羅盤",
   "category": "ae2:getting_started",
   "icon": "ae2:meteorite_compass",
   "sortnum": 20,
@@ -9,13 +9,13 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "$(thing)Meteorites$() can be found scattered across the surface of the Overworld. They contain some $(l:ae2:getting_started/certus)Certus Quartz$() and a $(thing)Mysterious Cube$() at the center. They are also encased in a large amount of $(item)Sky Stone$().$(br2)The $(thing)Mysterious Cube$() will drop all 4 $(l:ae2:getting_started/inscriber)Inscriber Plates$(/l) when broken."
+      "text": "$(thing)隕石$() 散落在主世界的表面。 它們在中心包含一些 $(l:ae2:getting_started/certus)賽特斯石英$() 和一個 $(thing)神秘方塊$() 。 它們還包裹在大量的$(item)天堂石$()中。$(br2)這個$(thing)神秘方塊$() 會掉落全部 4 個$(l:ae2:getting_started/inscriber)銘牌$ (/l) 當破損時。"
     },
     {
       "type": "patchouli:spotlight",
       "item": "ae2:meteorite_compass",
       "link_recipe": true,
-      "text": "The $(thing)Meteorite Compass$() is crafted by placing a normal Compass in a $(l:ae2:getting_started/charger)Charger$(/l).$(br2)This $(thing)Compass$() points towards the nearest Chunk containing a $(thing)Mysterious Cube$() (and thus a Meteorite) it can find.$(br2)Slow Spin = Can't find any $(thing)Mysterious Cube$() in range."
+      "text": "$(thing)隕石羅盤$() 是通過將一個普通的指南針放在 $(l:ae2:getting_started/charger)充電器$(/l).$(br2)這個 $(thing)羅盤$() 分數中製作的 朝向它可以找到的最近的包含 $(thing)神秘方塊$()（因此是隕石）的區塊。$(br2)Slow Spin = 在範圍內找不到任何 $(thing)神秘方塊$()。"
     }
   ]
 }
