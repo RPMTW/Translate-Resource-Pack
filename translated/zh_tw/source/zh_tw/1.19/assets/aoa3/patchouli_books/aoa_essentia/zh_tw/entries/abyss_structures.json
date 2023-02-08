@@ -2,12 +2,12 @@
   "advancement": "aoa3:abyss/root",
   "category": "aoa3:abyss",
   "icon": "",
-  "name": "Structures",
+  "name": "結構",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "As a weary traveller makes their way through the dark, foreboding plane, they should keep their eyes open for a few important landmarks.",
-      "title": "Structures"
+      "text": "當疲憊的旅行者穿過黑暗、預感不祥的飛機時，他們應該睜大眼睛尋找一些重要的地標。",
+      "title": "結構"
     },
     {
       "type": "patchouli:image",
@@ -15,8 +15,8 @@
       "images": [
         "aoa3:patchouli/images/structures/shadowlord_platform.png"
       ],
-      "text": "The platform houses the altar to spawn the $(thing)Shadowlord$(). $(l:https://adventofascension.fandom.com/wiki/Shadowlord_Platform)Read More$(/l)",
-      "title": "Shadowlord Platform"
+      "text": "該平台設有祭壇以產生 $(thing)暗影領主$()。 $(l:https://adventofascension.fandom.com/wiki/Shadowlord_Platform)閱讀更多$(/l)",
+      "title": "暗影領主平台"
     },
     {
       "type": "patchouli:image",
@@ -24,32 +24,32 @@
       "images": [
         "aoa3:patchouli/images/structures/illusion_tree.png"
       ],
-      "text": "Towering over all else in the $(thing)Abyss$(), the altar for $(thing)Elusive$() can be found here. $(l:https://adventofascension.fandom.com/wiki/Illusion_Tree)Read More$(/l)",
-      "title": "Illusion Tree"
+      "text": "在 $(thing)深淵$() 中高聳入雲，可以在這裡找到 $(thing)難以捉摸$() 的祭壇。 $(l:https://adventofascension.fandom.com/wiki/Illusion_Tree)閱讀更多$(/l)",
+      "title": "幻覺樹"
     },
     {
       "type": "patchouli:image",
       "images": [
         "aoa3:patchouli/images/structures/jawe_hut.png"
       ],
-      "text": "The only known home of the $(thing)Jawe$() $(l:https://adventofascension.fandom.com/wiki/Jawe Hut)Read More$(/l)",
-      "title": "Jawe Hut"
+      "text": "唯一已知的 $(thing)顎$() $(l:https://adventofascension.fandom.com/wiki/Jawe Hut)閱讀更多$(/l)",
+      "title": "爪哇小屋"
     },
     {
       "type": "patchouli:image",
       "images": [
         "aoa3:patchouli/images/structures/flesh_temple.png"
       ],
-      "text": "$(thing)Flesh Temples$() are guarded by a horrific creature - the $(thing)Flesh Eater$(). $(l:https://adventofascension.fandom.com/wiki/Flesh_Temple)Read More$(/l)",
-      "title": "Flesh Temple"
+      "text": "$(thing)Flesh Temples$() 由一個可怕的生物看守 - $(thing)Flesh Eater$()。 $(l:https://adventofascension.fandom.com/wiki/Flesh_Temple)閱讀更多$(/l)",
+      "title": "肉身寺"
     },
     {
       "type": "patchouli:image",
       "images": [
         "aoa3:patchouli/images/structures/abyssal_eye_grotto.png"
       ],
-      "text": "From just an opening in the abyssal surface, these grottos house $(thing)Eye Bulbs$(). $(l:https://adventofascension.fandom.com/wiki/Abyssal_Eye_Grotto)Read More$(/l)",
-      "title": "Abyssal Eye Grotto"
+      "text": "這些洞穴僅從深海表面的一個開口處就可以容納 $(thing)Eye Bulbs$()。 $(l:https://adventofascension.fandom.com/wiki/Abyssal_Eye_Grotto)閱讀更多$(/l)",
+      "title": "深淵之眼石窟"
     }
   ],
   "sortnum": 3
