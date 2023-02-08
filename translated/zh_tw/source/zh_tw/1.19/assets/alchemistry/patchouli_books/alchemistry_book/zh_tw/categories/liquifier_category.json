@@ -1,6 +1,6 @@
 {
   "name": "液化器",
-  "description": "An excerpt from the Alchemistry Labs Catalog:$(br)Naturally, you may want to turn that H₂O back into something you can use to water your garden. No fear! Our Liquifier does the trick! Just make sure that what you think is H₂O isn't H₂SO₄!",
+  "description": "煉金實驗室目錄的摘錄：$(br)自然地，您可能希望將 H₂O 變回可用於澆灌花園的東西。 不怕！ 我們的液化器可以解決問題！ 只需確保您認為的 H₂O 不是 H₂SO₄！",
   "icon": "alchemistry:liquifier",
   "sortnum": 6
 }

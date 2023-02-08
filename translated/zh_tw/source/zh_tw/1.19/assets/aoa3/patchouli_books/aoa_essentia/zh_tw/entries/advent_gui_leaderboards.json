@@ -1,13 +1,13 @@
 {
   "category": "aoa3:advent_gui",
   "icon": "minecraft:target",
-  "name": "Leaderboards Tab",
+  "name": "排行榜標籤",
   "pages": [
     {
       "type": "patchouli:text",
       "anchor": "leaderboards_tab",
       "text": "",
-      "title": "Leaderboards Tab"
+      "title": "排行榜標籤"
     }
   ],
   "sortnum": 4

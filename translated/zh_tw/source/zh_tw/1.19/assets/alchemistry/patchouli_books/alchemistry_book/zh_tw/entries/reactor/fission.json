@@ -6,17 +6,17 @@
   "pages": [
     {
       "type": "text",
-      "text": "The Fission Reactor allows you to split apart the very fabric that holds elements together. All elements except for Hydrogen can be split with the fission multiblock. See JEI for recipes.$(br2)$(o)From Professor Warren's notes: The rods dropped from the volatile blazes have inspired me to make a new machine.$()$(br2)The Fission Reactor is a 5x5x5 cubic structure, featuring a ceiling, floor and corner pillars of reactor casings. There are three fission core blocks in the center. The walls are filled in reactor casing or reactor glass. The chamber is entirely inert however without the fission chamber controller, energy input, and item input/output blocks."
+      "text": "裂變反應堆允許您分裂將元素結合在一起的結構。 除氫以外的所有元素都可以用裂變多方塊分裂。 參見 JEI 的食譜。$(br2)$(o)來自 Warren 教授的筆記：從揮發性火焰中掉落的棒激發了我製造一台新機器的靈感。$()$(br2)裂變反應堆是一個 5x5x5 立方體結構， 以反應堆外殼的天花板、地板和角柱為特色。 中央是三個裂變核心塊。 壁填充在反應器外殼或反應器玻璃中。 該室是完全惰性的，但沒有裂變室控制器、能量輸入和物品輸入/輸出塊。"
     },
     {
       "type": "crafting",
       "recipe": "alchemistry:fission_chamber_controller",
-      "text": "While not the core, the chamber controller is the heart of the fission reactor. This machine controls everything that happens in the core. It takes power and can have an item input and output."
+      "text": "雖然不是核心，但腔室控制器是裂變反應堆的核心。 這台機器控制著核心中發生的一切。 它需要電源並且可以有一個項目輸入和輸出。"
     },
     {
       "type": "crafting",
       "recipe": "alchemistry:fission_core",
-      "text": "The core and the surrounding air around it are where fission takes place. Items are placed inside the core and then the atom is split which leaves behind elements to use in your experiments."
+      "text": "核心及其周圍的空氣是裂變發生的地方。 項目被放置在核心內，然後原子被分裂，留下元素用於您的實驗。"
     }
   ]
 }

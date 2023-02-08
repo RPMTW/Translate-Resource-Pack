@@ -1,16 +1,16 @@
 {
   "category": "aoa3:dexterity",
   "icon": "aoa3:small_skill_crystal",
-  "name": "Training Methods",
+  "name": "訓練方法",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Being a measure of your physical ability, $(thing)Dexterity$() is trained in fairly obvious way: Moving!$(br)Being active and running around and jumping will gradually increase the skill, meaning you don't have to pay too much attention to training it.$(br)Utilising critical hits in combat also gives some $(thing)Dexterity$() xp.",
-      "title": "Training Methods"
+      "text": "作為衡量您身體能力的指標，$(thing)靈巧$() 以相當明顯的方式進行訓練：移動！$(br)保持活躍並四處奔跑和跳躍會逐漸提高技能，這意味著您無需付出代價 太注重訓練它了。$(br)在戰鬥中使用重擊也能提供一些 $(thing)靈巧$() xp。",
+      "title": "訓練方法"
     },
     {
       "type": "patchouli:text",
-      "text": "You may also get some additional xp from utilising the various abilities $(thing)Dexterity$() gives you, so continue to be active and moving!"
+      "text": "您還可以通過使用 $(thing)靈巧$() 賦予您的各種能力獲得一些額外的 xp，因此請繼續保持活躍和移動！"
     }
   ],
   "sortnum": 0

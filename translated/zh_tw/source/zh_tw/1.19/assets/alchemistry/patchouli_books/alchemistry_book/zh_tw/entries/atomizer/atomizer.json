@@ -1,11 +1,11 @@
 {
-  "name": "Fluid Atomizer",
+  "name": "流體霧化器",
   "icon": "alchemistry:atomizer",
   "category": "alchemistry:atomizer_category",
   "pages": [
     {
       "type": "text",
-      "text": "The Atomizer is a powered machine that is used to convert fluids into their equivalent Alchemistry elements or compounds.$(br)$(o)From Professor Warren's notes: Liquids are the simplest things to break down. The mere use of pistons to force them out of cauldrons turns them into easily stored atomic phials."
+      "text": "霧化器是一種動力機器，用於將流體轉化為等效的煉金術元素或化合物。$(br)$(o)引自沃倫教授的筆記：液體是最容易分解的物質。 僅僅使用活塞將它們從大鍋中推出，就可以將它們變成易於儲存的原子瓶。"
     },
     {
       "type": "crafting",

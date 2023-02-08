@@ -1,6 +1,6 @@
 {
   "parent": "aoa3:skills",
-  "description": "$(thing)Imbuing$() is the skill of controlling imbued power within items.$(br2)As you increase your $(thing)Imbuing$() level, you'll find more powerful enchantments and abilities.",
+  "description": "$(thing)灌輸$() 是控制物品內灌注能量的技能。$(br2)隨著您提高 $(thing)灌輸$() 等級，您會發現更強大的附魔和能力。",
   "icon": "aoa3:textures/gui/aoaskill/imbuing.png",
-  "name": "Imbuing"
+  "name": "注魔"
 }

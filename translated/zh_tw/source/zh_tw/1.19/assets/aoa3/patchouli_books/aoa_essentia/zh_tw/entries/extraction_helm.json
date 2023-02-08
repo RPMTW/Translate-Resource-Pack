@@ -1,12 +1,12 @@
 {
   "category": "aoa3:extraction",
   "icon": "aoa3:helm_of_the_treasurer",
-  "name": "Helm of the Treasurer",
+  "name": "寶藏頭盔",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Reaching level 100 $(thing)Extraction$() grants you the ability to wear the $(thing)Helm of the Treasurer$().$(br)The helmet is unbreakable, gives diamond-tier stats, and grants a 50% bonus to all $(thing)Extraction$() xp gained while worn.$(br2)At level 1000, it gains a fancy improved look.",
-      "title": "Helm of the Treasurer"
+      "text": "達到 100 級 $(thing)萃取$() 後，您可以佩戴 $(thing)寶藏$() 頭盔。$(br)頭盔不可破壞，提供鑽石等級的統計數據，並授予 50% 磨損時獲得的所有 $(thing)萃取$() xp 的獎勵。$(br2)在 1000 級時，它獲得了精美的改進外觀。",
+      "title": "寶藏頭盔"
     }
   ],
   "sortnum": 2

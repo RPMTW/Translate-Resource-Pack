@@ -58,13 +58,13 @@
     },
     {
       "type": "text",
-      "title": "Required Blocks",
-      "text": " 1x Fusion Chamber Controller $(br) 3x Fusion Core $(br) 1x Reactor Energy Input $(br) 1x Reactor Item Input $(br) 1x Reactor Item Output $(br) 62x Reactor Casing $(br) 36x Reactor Glass"
+      "title": "需要方塊:",
+      "text": "1x 聚變室控制器 $(br) 3x 聚變核心 $(br) 1x 反應堆能量輸入 $(br) 1x 反應堆物品輸入 $(br) 1x 反應堆物品輸出 $(br) 62x 反應堆外殼 $(br) 36x 反應堆玻璃"
     },
     {
       "type": "text",
-      "title": "Optional Blocks",
-      "text": "Reactor energy input and item input/output blocks can be placed anywhere that requires a reactor casing but not anywhere there is reactor glass.$(br2)Reactor glass is optional. Anywhere that requires reactor glass can be replaced with reactor casing. Make it look however you want."
+      "title": "可選塊",
+      "text": "反應堆能量輸入和物品輸入/輸出塊可以放置在任何需要反應堆外殼但沒有反應堆玻璃的地方。$(br2)反應堆玻璃是可選的。 任何需要反應器玻璃的地方都可以用反應器外殼代替。 讓它看起來像你想要的那樣。"
     }
   ]
 }

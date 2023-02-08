@@ -1,6 +1,6 @@
 {
-  "name": "Chemical Compactor",
-  "description": "An excerpt from the Alchemistry Labs Catalog:$(br)So, you've broken down materials with the Chemical Dissolver. The next thing to do is put them back together! No one can spend a test tube after all. The Compactor can squeeze the silcon dioxide from cobble and stone into more attractive granite, or that gold you found into easily smelted dust. Shiny!",
+  "name": "化學壓實機",
+  "description": "煉金實驗室目錄的摘錄：$(br)因此，您已經使用化學溶解器分解了材料。 接下來要做的就是把它們重新組合起來！ 畢竟誰也花不起試管。 壓實機可以將鵝卵石和石頭中的二氧化矽擠壓成更具吸引力的花崗岩，或者將您發現的黃金擠壓成易於熔煉的灰塵。 閃亮的！",
   "icon": "alchemistry:compactor",
   "sortnum": 4
 }

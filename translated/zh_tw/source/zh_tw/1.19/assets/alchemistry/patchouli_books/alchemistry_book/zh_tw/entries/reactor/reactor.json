@@ -1,5 +1,5 @@
 {
-  "name": "Reactors: An Overview",
+  "name": "反應堆：概述",
   "icon": "alchemistry:reactor_casing",
   "category": "alchemistry:reactor_category",
   "sortnum": 0,
@@ -7,37 +7,37 @@
   "pages": [
     {
       "type": "text",
-      "text": "The fission and fusion reactors are an integral part of manipulating matter to form elements for whatever you need to create. They are complex multiblock machines with a lot of requirements to get started.$(br2)Every reactor will need a number of these blocks:$(li)Reactor Casing$(li)Reactor Glass$(li)Reactor Controller$(li)Reactor Core$(li)Energy Input$(li)Item Input$(li)Item Output"
+      "text": "裂變和聚變反應堆是操縱物質以形成您需要創造的任何元素的組成部分。 它們是複雜的多塊機器，有很多啟動要求。$(br2)每個反應器都需要一些這樣的塊：$(li)反應器外殼$(li)反應器玻璃$(li)反應器控制器$(li) 反應堆核心$(li)能量輸入$(li)物品輸入$(li)物品輸出"
     },
     {
       "type": "crafting",
-      "title": "Reactor Casing",
+      "title": "反應堆外殼",
       "recipe": "alchemistry:reactor_casing",
-      "text": "Reactor Casing makes up the majority of the reactor's structure. The casing has the strength to hold up against the pressure of splitting and merging elements. You will need a lot of these to make a single reactor."
+      "text": "反應堆外殼構成了反應堆結構的大部分。 外殼具有承受分離和合併元件壓力的強度。 你將需要很多這樣的東西來製造一個反應堆。"
     },
     {
       "type": "spotlight",
-      "title": "Reactor Glass",
+      "title": "強化玻璃",
       "item": "alchemistry:reactor_glass",
-      "text": "Reactor glass allows you to view inside of your reactor. It's lead lined, which will hopefully keep the radiation at bay -- maybe. These are made in the combiner, check JEI for the recipe."
+      "text": "反應器玻璃可讓您查看反應器內部。 它是鉛襯裡的，這有望阻止輻射——也許吧。 這些是在組合器中製作的，查看 JEI 的食譜。"
     },
     {
       "type": "crafting",
-      "title": "Reactor Energy",
+      "title": "反應堆能源",
       "recipe": "alchemistry:reactor_energy",
-      "text": "Your reactors need power -- a $(bold)lot$() of power. This block can be connected to energy cables that are hopefully up to the challenge."
+      "text": "你的反應堆需要能量——$(bold)很多$() 的能量。 這個塊可以連接到有望迎接挑戰的能量電纜。"
     },
     {
       "type": "crafting",
-      "title": "Reactor Input",
+      "title": "反應堆輸入",
       "recipe": "alchemistry:reactor_input",
-      "text": "You can place your elements into the reactor by hand, but what's the fun in that? Automate your reactors by hooking them up to your item pipes."
+      "text": "您可以手動將元素放入反應器中，但這有什麼樂趣呢？ 通過將反應器連接到您的物品管道來自動化您的反應器。"
     },
     {
       "type": "crafting",
-      "title": "Reactor Output",
+      "title": "電抗器輸出",
       "recipe": "alchemistry:reactor_output",
-      "text": "Basically the same as the reactor input but in reverse."
+      "text": "與反應器輸入基本相同，但相反。"
     }
   ]
 }

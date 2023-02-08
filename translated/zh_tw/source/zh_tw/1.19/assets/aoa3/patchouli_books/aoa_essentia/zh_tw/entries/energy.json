@@ -5,18 +5,18 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "anchor": "energy",
-      "text": "$(thing)Energy$() is your body's natural resource which governs movement and action.$(br)You use $(thing)Energy$() whenever you attempt to perform a special move or attack, even if you don't have enough.$(br2)You'll recover $(thing)Energy$() naturally over time, at a fairly quick pace.",
+      "anchor": "能源",
+      "text": "$(thing)能量$() 是你身體的自然資源，它控制運動和行動。$(br)每當你嘗試執行特殊動作或攻擊時，你都會使用 $(thing)能量$()，即使你沒有 有足夠的。$(br2)隨著時間的推移，你會以相當快的速度自然地恢復 $(thing)能量$()。",
       "title": "能量"
     },
     {
       "type": "patchouli:text",
-      "text": "Fully draining your $(thing)energy$() reserves, or taking damage will temporarily halt your $(thing)energy$() regeneration, so be careful when using it in the field.$(br)Total depletion in particular will halt regeneration for a noticeable period of time, so try not to drain yourself completely."
+      "text": "完全耗盡你的 $(thing)能量$() 儲備，或者受到傷害會暫時停止你的 $(thing)能量$() 再生，所以在野外使用它時要小心。特別是 $(br)總消耗會停止 再生一段明顯的時間，所以盡量不要完全耗儘自己。"
     },
     {
       "type": "patchouli:link",
-      "link_text": "Official Wiki",
-      "text": "Visit the official $(aoa) wiki page for more information.",
+      "link_text": "官方Wiki",
+      "text": "訪問官方 $(aoa) wiki 頁面了解更多信息。",
       "title": "AoA Wiki",
       "url": "https://adventofascension.fandom.com/wiki/Energy"
     }

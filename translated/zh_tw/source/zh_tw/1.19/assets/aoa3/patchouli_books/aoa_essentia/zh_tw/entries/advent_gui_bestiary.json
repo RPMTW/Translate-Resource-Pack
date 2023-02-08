@@ -1,21 +1,21 @@
 {
   "category": "aoa3:advent_gui",
   "icon": "minecraft:zombie_head",
-  "name": "Bestiary Tab",
+  "name": "動物寓言標籤",
   "pages": [
     {
       "type": "patchouli:text",
       "anchor": "bestiary_tab",
-      "text": "The $(thing)bestiary tab$() is the monster collector's place to be! Every time you kill a creature, it will be added to the bestiary, with its stats and other information available. Collect them all!",
-      "title": "Bestiary Tab"
+      "text": "$(thing)動物寓言標籤$() 是怪物收藏家的歸宿！ 每次您殺死一個生物時，它都會被添加到動物寓言中，並提供其統計數據和其他信息。 全部收集起來！",
+      "title": "動物寓言標籤"
     },
     {
       "type": "patchouli:text",
-      "text": "The tab will list out every available creature you have previously killed, along with a counter for the amount you have killed, as well as the number of times it has killed you.$(br2)Clicking on an entry expands it to a larger view with more detail, including the creature's classification, stats, and other relevant info. Some creatures may also have some lore text to read!"
+      "text": "該選項卡將列出您之前殺死的每個可用生物，以及您殺死的數量的計數器，以及它殺死您的次數。$(br2)單擊一個條目可將其展開到更大的視圖 有更多細節，包括生物的分類、統計數據和其他相關信息。 有些生物也可能有一些知識文本可供閱讀！"
     },
     {
       "type": "patchouli:text",
-      "text": "If you have a lot of creatures available in your $(thing)bestiary$() and want to look for a specific one, you can use the search bar at the top of the tab to narrow down the list."
+      "text": "如果您的 $(thing)動物寓言$() 中有很多可用的生物並且想要查找特定的生物，您可以使用選項卡頂部的搜索欄來縮小列表範圍。"
     }
   ],
   "sortnum": 2

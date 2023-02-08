@@ -1,9 +1,9 @@
 {
-    "alchemylib.container.close_recipe_select": "Close Recipe Selection",
-    "alchemylib.container.lock_recipe": "Lock recipe",
-    "alchemylib.container.open_recipe_select": "Open Recipe Selection",
-    "alchemylib.container.pause": "Pause",
-    "alchemylib.container.resume": "Resume",
-    "alchemylib.container.show_recipes": "Show Recipes",
-    "alchemylib.container.unlock_recipe": "Unlock recipe"
+    "alchemylib.container.close_recipe_select": "關閉配方選擇",
+    "alchemylib.container.lock_recipe": "鎖定配方",
+    "alchemylib.container.open_recipe_select": "打開配方選擇",
+    "alchemylib.container.pause": "暂停",
+    "alchemylib.container.resume": "恢復",
+    "alchemylib.container.show_recipes": "顯示配方",
+    "alchemylib.container.unlock_recipe": "解鎖配方"
 }
