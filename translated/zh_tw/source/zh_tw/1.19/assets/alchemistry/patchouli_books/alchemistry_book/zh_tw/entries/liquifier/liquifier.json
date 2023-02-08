@@ -1,11 +1,11 @@
 {
-  "name": "Element Liquifier",
+  "name": "元素液化器",
   "icon": "alchemistry:liquifier",
   "category": "alchemistry:liquifier_category",
   "pages": [
     {
       "type": "text",
-      "text": "The Liquifier is a powered machine that can be used convert elements and compounds into their fluid equivalents.$(br2)$(o)From Professor Warren's notes: Of course, every process must be reversible. The right amount of pressure can be used to force the atomic phials back into liquid form by compression against iron."
+      "text": "液化器是一種動力機器，可用於將元素和化合物轉化為它們的流體等價物。$(br2)$(o)摘自沃倫教授的筆記：當然，每個過程都必須是可逆的。 可以使用適量的壓力通過對鐵的壓縮來迫使原子瓶恢復液態。"
     },
     {
       "type": "crafting",
