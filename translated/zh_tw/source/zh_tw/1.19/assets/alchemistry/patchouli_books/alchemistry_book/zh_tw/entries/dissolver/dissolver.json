@@ -5,11 +5,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "The Chemical Dissolver is a powered machine, and it, along with the Chemical Combiner are the most essential machines in Alchemistry. The Chemical Dissolver takes inputs and breaks them down into different chemical elements and compounds.$(br2)$(o)From Professor Warren's notes: I've been experimenting with the properties of magma, as a less volatile form of Lava.  While Lava will destroy most things, it turns out that I can use magma to more precisely break down materials into their components. Some components are more firmly bonded, and require an additional pass or two to be completely broken down."
+      "text": "化學溶解器是一種動力機器，它與化學合成器一起是煉金術中最重要的機器。 化學溶解器接受輸入並將它們分解成不同的化學元素和化合物。$(br2)$(o)來自 Warren 教授的筆記：我一直在試驗岩漿的特性，作為熔岩的一種不易揮發的形式。 雖然熔岩會摧毀大多數東西，但事實證明我可以使用岩漿更精確地將材料分解成它們的組成部分。 一些組件結合得更牢固，需要額外通過或兩次才能完全分解。"
     },
     {
       "type": "text",
-      "text": "There are two types of Chemical Dissolver recipes which are denoted in each JEI recipe. First, there are recipes with $(thing)relative probability$() where all possible output groups add up to 100% and one output group will always be chosen for each $(thing)roll$(). Some recipes may have empty groups, however, resulting in a chance of no output."
+      "text": "每個 JEI 配方中都標明了兩種類型的化學溶解器配方。 首先，有 $(thing)相對概率$() 的食譜，其中所有可能的輸出組加起來為 100%，並且始終會為每個 $(thing)卷$() 選擇一個輸出組。 然而，一些食譜可能有空組，導致沒有輸出的機會。"
     },
     {
       "type": "text",
