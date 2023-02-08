@@ -1,12 +1,12 @@
 {
   "category": "aoa3:farming",
   "icon": "aoa3:helm_of_the_dryad",
-  "name": "Helm of the Dryad",
+  "name": "樹妖頭盔",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Reaching level 100 $(thing)Farming$() grants you the ability to wear the $(thing)Helm of the Dryad$().$(br)The helmet is unbreakable, gives diamond-tier stats, and grants a 50% bonus to all $(thing)Farming$() xp gained while worn.$(br2)At level 1000, it gains a fancy improved look.",
-      "title": "Helm of the Dryad"
+      "text": "達到 100 級 $(thing)農耕$() 後，您就可以佩戴 $(thing)樹妖頭盔$()。$(br)頭盔牢不可破，提供鑽石級別的統計數據，並授予 50% 磨損時獲得的所有 $(thing)農耕$() xp 的獎勵。$(br2)在 1000 級時，它獲得了精美的改進外觀。",
+      "title": "樹妖頭盔"
     }
   ],
   "sortnum": 2
