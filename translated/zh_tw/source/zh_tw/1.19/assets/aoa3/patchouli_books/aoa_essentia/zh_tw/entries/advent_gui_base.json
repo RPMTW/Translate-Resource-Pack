@@ -1,17 +1,17 @@
 {
   "category": "aoa3:advent_gui",
   "icon": "minecraft:filled_map",
-  "name": "Main Window",
+  "name": "主窗口\n翻譯者iamxiazhi友情客串(bushi",
   "pages": [
     {
       "type": "patchouli:text",
       "anchor": "advent_gui",
-      "text": "Being $(aoa)'s main GUI, the $(thing)Advent GUI$() is where you can find most in-game information and utilities for the mod itself.",
-      "title": "Main Window"
+      "text": "作為 $(aoa) 的主要 GUI，$(thing)出現圖形用戶界面$() 是您可以找到大多數遊戲內信息和模組本身實用程序的地方。",
+      "title": "主窗口\n翻譯者iamxiazhi友情客串(bushi"
     },
     {
       "type": "patchouli:text",
-      "text": "At the top of the window, the mod's current version is displayed under the left corner of the logo. If the mod detects an update is available, it will also show a flashing notification in the same location.$(br2)Along the left side of the screen are the available tabs - clicking on one will change the largest section of the GUI to the contents of that tab."
+      "text": "在窗口的頂部，模組的當前版本顯示在徽標的左下角。 如果模組檢測到更新可用，它還會在同一位置顯示閃爍通知。$(br2)屏幕左側是可用選項卡 - 單擊一個會將 GUI 的最大部分更改為 該選項卡的內容。"
     }
   ],
   "sortnum": 0
