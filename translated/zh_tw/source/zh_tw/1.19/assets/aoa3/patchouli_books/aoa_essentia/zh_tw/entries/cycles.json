@@ -1,16 +1,16 @@
 {
   "category": "aoa3:skills",
   "icon": "minecraft:totem_of_undying",
-  "name": "Cycles",
+  "name": "循環",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "$(thing)Skill cycling$() is a function in $(aoa) that allows you to 'reset' your $(thing)skill$()'s progress to level 1, in exchange for a sizeable xp boost for future gains.",
-      "title": "Skill Cycling"
+      "text": "$(thing)技能循環$() 是 $(aoa) 中的一個函數，它允許你將你的 $(thing)技能$() 的進度“重置”到級別 1，以換取未來收益的相當大的 xp 提升 .",
+      "title": "技能循環"
     },
     {
       "type": "patchouli:text",
-      "text": "When you reach level 100 in a $(thing)skill$(), you unlock the ability to '$(thing)cycle$()' that skill.$(br)Doing so reverts your current xp to 0, and your level to 1, but adds a counter to your total $(thing)cycles$(). Each counter gives you a significant boost to xp gain for the skill, with more $(thing)cycles$() completed giving you more boosts."
+      "text": "當你在 $(thing)技能$() 中達到 100 級時，你將解鎖“$(thing)循環$()”該技能的能力。$(br)這樣做會將你當前的 xp 恢復為 0，並且你的等級 到 1，但會為您的總 $(thing)循環$() 添加一個計數器。 每個計數器都會顯著提高技能的 xp 增益，完成更多的 $(thing)循環$() 會給你更多的提升。"
     }
   ],
   "sortnum": 2
