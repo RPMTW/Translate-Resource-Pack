@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "text",
-      "text": "The Chemical Combiner is a powered machine, perhaps the most important machine of all in Alchemistry. It allows you to combine elements, compounds, and occasionally other items to form new items. The combiner takes up to 4 input items similar to a 2x2 crafting grid, but unlike a crafting grid it allows each input slot to contain more than one item per craft.$(br2)$(o)From Professor Warren's notes: The Compactor is all well and good, but rather simplistic.  I'm interested in what I can do with these components. With the focusing power of a diamond and the resistance of obsidian, I can use a piston to force these components into more complex items."
+      "text": "化學合成器是一種動力機器，也許是煉金術中最重要的機器。 它允許您組合元素、化合物和偶爾的其他項目以形成新項目。 組合器最多可容納 4 個輸入項目，類似於 2x2 工藝網格，但與工藝網格不同，它允許每個輸入槽在每個工藝中包含多個項目。$(br2)$(o)來自沃倫教授的筆記：壓實器是 一切都很好，但相當簡單。 我對我可以用這些組件做什麼很感興趣。 憑藉鑽石的聚焦能力和黑曜石的抗性，我可以使用活塞將這些組件強制放入更複雜的物品中。"
     },
     {
       "type": "crafting",
       "recipe": "alchemistry:combiner",
-      "text": "While the combiner is very powerful, it's also easy to use. To get started, choose the item you want to craft in the combiner screen or use JEI to transfer the recipe."
+      "text": "雖然組合器非常強大，但它也很容易使用。 首先，在合成器屏幕中選擇您想要製作的物品，或使用 JEI 傳輸配方。"
     }
   ]
 }
