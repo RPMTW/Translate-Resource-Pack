@@ -1,20 +1,20 @@
 {
   "category": "aoa3:farming",
   "icon": "aoa3:small_skill_crystal",
-  "name": "Training Methods",
+  "name": "訓練方法",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "$(thing)Farming$() is fairly simple to train; there's just two main training methods:$(br)1. Harvest fully-grown crops$(br)2. Breed animals$(br2)Crops will only give xp if harvested at full-growth, so attempting to grab them early won't work",
-      "title": "Training Methods"
+      "text": "$(thing)農耕$() 訓練起來相當簡單； 只有兩種主要的訓練方法：$(br)1。 收穫完全成熟的作物$(br)2。 繁殖動物$(br2)作物只有在完全生長時收穫才會給予 xp，所以試圖早點抓住它們是行不通的",
+      "title": "訓練方法"
     },
     {
       "type": "patchouli:text",
-      "text": "Once you reach a high-enough level, you may also start seeing $(thing)Dryad Sprites$() showing up while you're harvesting.$(br)Take note of their colour, and use the right type of hoe on them to make them happy and they'll bless you with some $(thing)Farming$() xp"
+      "text": "一旦你達到足夠高的水平，你可能還會開始看到 $(thing)樹精精靈$() 在你收割時出現。$(br)注意它們的顏色，並在它們上使用正確類型的鋤頭 讓他們開心，他們會用一些 $(thing)農耕$() 來祝福你"
     },
     {
       "type": "patchouli:text",
-      "text": "Utilising your various $(thing)Farming$() abilities will also grant you some xp.$(br2)As you continue to improve your $(thing)Farming$() skill, you'll start to notice your crops auto-replanting for you, and regrowing quicker for faster harvests. This should make both your training and your harvesting more effective!"
+      "text": "利用你的各種 $(thing)農耕$() 能力也會給你一些經驗。$(br2)當你繼續提高你的 $(thing)農耕$() 技能時，你會開始注意到你的莊稼會自動重新種植 為你，更快地重新生長以獲得更快的收穫。 這將使您的訓練和收割更加有效！"
     }
   ],
   "sortnum": 0
