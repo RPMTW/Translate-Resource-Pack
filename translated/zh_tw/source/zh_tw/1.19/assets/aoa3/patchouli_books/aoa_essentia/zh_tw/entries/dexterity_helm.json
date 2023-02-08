@@ -1,12 +1,12 @@
 {
   "category": "aoa3:dexterity",
   "icon": "aoa3:helm_of_the_dextrous",
-  "name": "Helm of the Dextrous",
+  "name": "敏捷頭盔",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Reaching level 100 $(thing)Dexterity$() grants you the ability to wear the $(thing)Helm of the Dextrous$().$(br)The helmet is unbreakable, gives diamond-tier stats, and grants a 50% bonus to all $(thing)Dexterity$() xp gained while worn.$(br2)At level 1000, it gains a fancy improved look.",
-      "title": "Helm of the Dextrous"
+      "text": "達到 100 級 $(thing)靈巧$() 後，您可以佩戴 $(thing)靈巧$() 頭盔。$(br)頭盔不可破壞，提供鑽石等級的統計數據，並授予 50% 磨損時獲得的所有 $(thing)靈巧$() xp 的獎勵。$(br2)在 1000 級時，它獲得了精美的改進外觀。",
+      "title": "敏捷頭盔"
     }
   ],
   "sortnum": 2
