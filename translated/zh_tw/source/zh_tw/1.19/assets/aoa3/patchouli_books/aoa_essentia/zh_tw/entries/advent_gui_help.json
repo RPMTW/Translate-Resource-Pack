@@ -1,17 +1,17 @@
 {
   "category": "aoa3:advent_gui",
   "icon": "minecraft:structure_block",
-  "name": "Help Tab",
+  "name": "幫助標籤",
   "pages": [
     {
       "type": "patchouli:text",
       "anchor": "help_tab",
-      "text": "The $(thing)help tab$() of the $(thing)Advent GUI$() is the last tab on the list, accessed by the button at the bottom of the left-panel menu.",
-      "title": "Help Tab"
+      "text": "$(thing)出現圖形用戶界面$() 的 $(thing)幫助標籤$() 是列表中的最後一個選項卡，可通過左側面板菜單底部的按鈕訪問。",
+      "title": "幫助標籤"
     },
     {
       "type": "patchouli:text",
-      "text": "The tab contains a brief text section giving some helpful information on the mod, a handful of important links to sites related to the mod, a theme selector, and a randomly selected tip that changes each time the tab is opened.$(br2)Changing the theme via the theme selector changes the entire GUI's theme and will save through game restarts."
+      "text": "該選項卡包含一個簡短的文本部分，提供有關模組的一些有用信息、一些指向與模組相關的站點的重要鏈接、一個主題選擇器和一個隨機選擇的提示，每次打開選項卡時都會更改。$(br2)改變通過主題選擇器選擇的主題會改變整個 GUI 的主題，並且會在遊戲重啟時保存。"
     }
   ],
   "sortnum": 5
