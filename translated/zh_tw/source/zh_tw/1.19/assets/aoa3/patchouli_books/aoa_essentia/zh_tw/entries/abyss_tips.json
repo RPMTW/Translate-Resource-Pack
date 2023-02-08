@@ -2,16 +2,16 @@
   "advancement": "aoa3:abyss/root",
   "category": "aoa3:abyss",
   "icon": "",
-  "name": "Tips",
+  "name": "提示",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Here are a few tips to help keep you alive longer in the depths of the $(thing)Abyss$()",
-      "title": "Tips"
+      "text": "這裡有一些技巧可以幫助你在 $(thing)深淵$() 的深處活得更久",
+      "title": "提示"
     },
     {
       "type": "patchouli:text",
-      "text": "$(thing)Web Reapers$() can be empowered by using $(thing)Nightmare Flakes$() on them, causing them to grow and become more powerful. Using an $(thing)Enchanted Book$() of any kind on one will give you a $(thing)Book of Shadows$()"
+      "text": "$(thing)網絡收割者$() 可以通過對它們使用 $(thing)噩夢片$() 來增強，使它們成長並變得更強大。 使用任何類型的 $(thing)附魔書$() 都會給你一本 $(thing)暗影之書$()"
     }
   ],
   "sortnum": 5
