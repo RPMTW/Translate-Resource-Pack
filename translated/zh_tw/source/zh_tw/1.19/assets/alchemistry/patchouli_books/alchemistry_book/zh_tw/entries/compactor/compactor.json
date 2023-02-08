@@ -1,11 +1,11 @@
 {
-  "name": "Chemical Compactor",
+  "name": "化學壓實機",
   "icon": "alchemistry:compactor",
   "category": "alchemistry:compactor_category",
   "pages": [
     {
       "type": "text",
-      "text": "The compactor is a powered machine that will allow you to form simple items by compacting their components.$(br2)$(o)From Professor Warren's notes: The simplest form of atomic manipulation is assembling one element or compound into a more convenient form: dusts, and so forth. More pistons, and everything just squeezes together."
+      "text": "壓實機是一種動力機器，可讓您通過壓實組件來形成簡單的物品。$(br2)$(o)摘自 Warren 教授的筆記：原子操作的最簡單形式是將一種元素或化合物組裝成更方便的形式： 灰塵等等。 更多的活塞，一切都擠在一起。"
     },
     {
       "type": "crafting",
