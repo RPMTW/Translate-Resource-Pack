@@ -1,0 +1,9 @@
+{
+    "Use /locate structure betterdeserttemples:desert_temple instead!": "使用/locate structure betterdeserttemples:desert_temple 代替!",
+    "text.autoconfig.betterdeserttemples-fabric-1_19.title": "容氏更好的沙漠神殿",
+    "text.autoconfig.betterdeserttemples-fabric-1_19.option.general.disableVanillaPyramids": "禁止生成原版金字塔",
+    "text.autoconfig.betterdeserttemples-fabric-1_19.option.general.disableVanillaPyramids.@Tooltip": "決定原版沙漠神殿是否要禁用",
+    "text.autoconfig.betterdeserttemples-fabric-1_19.option.general.applyMiningFatigue": "產生挖掘疲勞",
+    "text.autoconfig.betterdeserttemples-fabric-1_19.option.general.applyMiningFatigue.@Tooltip[0]": "是否要對神殿中的玩家產生挖掘疲勞效果",
+    "text.autoconfig.betterdeserttemples-fabric-1_19.option.general.applyMiningFatigue.@Tooltip[1]": "如果尚未清除"
+}
