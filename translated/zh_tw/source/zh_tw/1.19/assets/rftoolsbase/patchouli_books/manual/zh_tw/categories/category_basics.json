@@ -1,0 +1,7 @@
+{
+  "name": "基礎",
+  "description": "RFTools 的基本資訊， 包括世界生成詳細資料。",
+  "parent": "rftoolsbase:category_rftoolsbase",
+  "icon": "rftoolsbase:dimensionalshard_overworld",
+  "sortnum": 10
+}
