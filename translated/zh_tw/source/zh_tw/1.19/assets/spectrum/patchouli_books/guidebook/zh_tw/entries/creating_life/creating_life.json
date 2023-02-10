@@ -1,0 +1,18 @@
+{
+  "name": "創造生活",
+  "icon": "minecraft:egg",
+  "advancement": "spectrum:progression/unlock_bottle_of_fading",
+  "category": "spectrum:creating_life_category",
+  "priority": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "創造生活",
+      "text": "創造人造生命一直是人們的夢想。$(br)既然你現在自己和魔法寶石打交道，這些魔法寶石似乎具有神奇的力量，這應該是小菜一碟。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "由寶石捆綁的原始魔力，是此類研究的最佳起點。$(br2)既然你是個不死之身，那你應該有很多的時間能去思考這些問題。$(br)( 上次一頭直立行走的綠色豬讓你大吃一驚，你第二天早上在床上醒來）$(br2)是時候進行...實驗了！"
+    }
+  ]
+}

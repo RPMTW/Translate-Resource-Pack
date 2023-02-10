@@ -1,0 +1,23 @@
+{
+  "name": "衰敗",
+  "icon": "spectrum:bottle_of_decay_away",
+  "advancement": "spectrum:progression/unlock_bottle_of_decay_away",
+  "category": "spectrum:creating_life_category",
+  "extra_recipe_mappings": {
+    "spectrum:bottle_of_decay_away": 0
+  },
+  "pages": [
+    {
+      "title": "衰敗",
+      "type": "patchouli:spotlight",
+      "item": "spectrum:bottle_of_decay_away",
+      "text": "你上次的實驗不僅危險，善後也相當麻煩。$(br)為了防止事情再次失控，你創再了這個的改良版。這次，是修理而不是再次淹沒你的基地。$(br2)對，應該會更好。"
+    },
+    {
+      "type": "spectrum:pedestal_crafting",
+      "title": "基座配方",
+      "recipe": "spectrum:pedestal/tier3/bottle_of_decay_away",
+      "text": "擺脫99%的所有自我複制的微生物。"
+    }
+  ]
+}

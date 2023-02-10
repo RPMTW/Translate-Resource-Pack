@@ -196,7 +196,7 @@
     "advgenerators.recipe.syngas_conversion": "合成氣轉化",
     "advgenerators.recipe.exchanger.heating": "熱交換器 - 加熱",
     "advgenerators.recipe.exchanger.cooling": "熱交換器 - 冷卻",
-    "advgenerators.recipe.upgrade": "世界加載升級",
+    "advgenerators.recipe.upgrade": "世界載入升級",
     "bdlib.unit.carbon": "碳",
     "bdlib.unit.eu": "EU",
     "bdlib.unit.carbon_short": "C",
