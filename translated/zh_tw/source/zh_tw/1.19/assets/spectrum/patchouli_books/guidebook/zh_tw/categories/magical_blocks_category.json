@@ -1,0 +1,6 @@
+{
+  "name": "魔法方塊",
+  "description": "在你那些奇特的魔法寶石的幫助下，這些設備可以執行許多任務。$(br2)其中一些的設備需要某種形式的能量來保持運作。",
+  "icon": "spectrum:private_chest",
+  "sortnum": 6
+}
