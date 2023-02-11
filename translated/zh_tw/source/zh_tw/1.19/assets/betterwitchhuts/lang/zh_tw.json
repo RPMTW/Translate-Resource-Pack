@@ -1,0 +1,6 @@
+{
+    "text.autoconfig.betterwitchhuts-fabric-1_19.title": "容氏更好的女巫小屋",
+    "text.autoconfig.betterwitchhuts-fabric-1_19.option.general.disableVanillaWitchHuts": "禁止生成原版女巫小屋",
+    "text.autoconfig.betterwitchhuts-fabric-1_19.option.general.disableVanillaWitchHuts.@Tooltip": "決定原版女巫小屋是否要禁用",
+    "Use /locate structure betterwitchhuts:witch_hut instead!": "請改用/locate structure betterwitchhuts:witch_hut !"
+}
