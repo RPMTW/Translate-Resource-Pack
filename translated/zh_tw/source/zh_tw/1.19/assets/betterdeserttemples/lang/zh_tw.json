@@ -1,5 +1,5 @@
 {
-    "Use /locate structure betterdeserttemples:desert_temple instead!": "使用/locate structure betterdeserttemples:desert_temple 代替!",
+    "Use /locate structure betterdeserttemples:desert_temple instead!": "請改用/locate structure betterdeserttemples:desert_temple !",
     "text.autoconfig.betterdeserttemples-fabric-1_19.title": "容氏更好的沙漠神殿",
     "text.autoconfig.betterdeserttemples-fabric-1_19.option.general.disableVanillaPyramids": "禁止生成原版金字塔",
     "text.autoconfig.betterdeserttemples-fabric-1_19.option.general.disableVanillaPyramids.@Tooltip": "決定原版沙漠神殿是否要禁用",
