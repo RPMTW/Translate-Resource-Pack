@@ -1,6 +1,6 @@
 {
-    "Use /locate structure betteroceanmonuments:ocean_monument instead!": "Use /locate structure betteroceanmonuments:ocean_monument instead!",
-    "text.autoconfig.betteroceanmonuments-fabric-1_19.title": "YUNG's Better Ocean Monuments",
-    "text.autoconfig.betteroceanmonuments-fabric-1_19.option.general.disableVanillaMonuments": "Disable Vanilla Ocean Monuments",
-    "text.autoconfig.betteroceanmonuments-fabric-1_19.option.general.disableVanillaMonuments.@Tooltip": "Whether or not vanilla ocean monuments should be disabled."
+    "Use /locate structure betteroceanmonuments:ocean_monument instead!": "使用/locate structure betteroceanmonuments:ocean_monument 代替!",
+    "text.autoconfig.betteroceanmonuments-fabric-1_19.title": "容氏更好的海底遺跡",
+    "text.autoconfig.betteroceanmonuments-fabric-1_19.option.general.disableVanillaMonuments": "禁止生成原版海底遺跡",
+    "text.autoconfig.betteroceanmonuments-fabric-1_19.option.general.disableVanillaMonuments.@Tooltip": "決定原版海底遺跡是否要禁用"
 }
