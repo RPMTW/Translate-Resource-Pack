@@ -1,0 +1,22 @@
+{
+    "_comment": "快速鍵",
+    "itemGroup.structurecompass": "結構羅盤",
+    "structurecompass.screen.selection.title": "選擇結構",
+    "structurecompass.screen.selection.select": "選擇",
+    "structurecompass.screen.search": "搜尋",
+    "structurecompass.screen.search.a_to_z": "A-Z",
+    "structurecompass.screen.search.z_to_a": "Z-A",
+    "item.structurecompass.structure_compass": "結構羅盤",
+    "structurecompass.locate.invalid": "綁定結構無效，請重新綁定",
+    "structurecompass.locate.fail": "綁定結構無法定位",
+    "structurecompass.locate.distance": "綁定結構在 %s 格方塊之外",
+    "structurecompass.locate.toggled": "結構羅盤 HUD 切換 %s",
+    "structurecompass.structure.found": "發現 %s 在 %s 格方塊之外，羅盤已指向結構",
+    "structurecompass.structure.found.tooltip": "發現 %s，羅盤已指向結構",
+    "structurecompass.structure.failed": "無法定位 %s，請稍後再試",
+    "structurecompass.structure.failed.tooltip": "無法定位 %s，請稍後再試",
+    "structurecompass.structure.wrong_dimension.tooltip": "你所在的維度找不到 %s",
+    "structurecompass.structure.unset.tooltip": "尚未綁定結構，點擊右鍵來選擇結構",
+    "category.structurecompass.main": "結構羅盤",
+    "key.structurecompass.hide": "隱藏結構羅盤HUD"
+}
