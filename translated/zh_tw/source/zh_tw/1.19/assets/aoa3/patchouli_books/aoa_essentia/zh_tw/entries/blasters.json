@@ -1,29 +1,29 @@
 {
   "category": "aoa3:weapons",
   "icon": "aoa3:death_ray",
-  "name": "Blasters",
+  "name": "爆能",
   "pages": [
     {
       "type": "patchouli:text",
-      "anchor": "blasters",
-      "text": "Want to shoot things, but don't want to make or carry any ammunition? $(thing)Blasters$() are your friend!$(br)$(thing)Blasters$() utilise your natural $(thing)spirit$() to charge shots, allowing you to deal quick damage at range, with the drawback of only being able to fire in short bursts.",
-      "title": "Blasters"
+      "anchor": "爆能",
+      "text": "火想射擊，但不想製造或攜帶任何彈藥？ $(thing)爆能$() 是你的朋友！$(br)$(thing)爆能$() 利用你天生的 $(thing)精神$() 蓄力射擊，讓你在射程內快速造成傷害， 缺點是只能短時間連發。",
+      "title": "爆能"
     },
     {
       "type": "patchouli:text",
-      "text": "To fire a $(thing)blaster$(), hold it out and hold right-click. After a short charge-up time, the blaster will begin to fire, dealing energy damage to targets.$(br2)Energy-based projectiles don't have the mass required to punch through foliage like $(thing)arrows$() or $(thing)bullets$() might, and will dissipate quickly in water.$(br2)The $(thing)blaster$() will be able to continue firing until you run out of $(l:aoa3:spirit#spirit)spirit$(/l)."
+      "text": "要發射 $(thing)爆能$()，請將其舉起並按住右鍵單擊。 在短暫的充電時間後，爆能槍將開始發射，對目標造成能量傷害。$(br2)基於能量的射彈沒有像 $(thing)箭$() 或 $(thing)子彈$() 可能並且會在水中迅速墜落。$(br2)$(thing)爆能$() 將能夠繼續發射直到你用完 $(l:aoa3:spirit#spirit )精神$(/l)。"
     },
     {
       "type": "patchouli:spotlight",
       "item": "aoa3:beamer",
-      "text": "$(l:aoa3:guns#guns)Guns$(/l) without ammo? $(thing)Blasters$() are here for you!",
-      "title": "A Blaster"
+      "text": "$(l:aoa3:guns#guns)槍械$(/l)沒有彈藥？ $(thing)爆能$()等著你！",
+      "title": "爆能"
     },
     {
       "type": "patchouli:link",
       "link_text": "AoA Wiki",
-      "text": "Find info on all of the $(thing)blasters$() in $(aoa) on the $(thing)official wiki$().",
-      "title": "Read More",
+      "text": "在 $(thing)官方Wiki$() 中查找有關 $(aoa) 中所有 $(thing)爆能$() 的信息。",
+      "title": "了解詳情",
       "url": "https://adventofascension.fandom.com/wiki/Blasters"
     }
   ],
