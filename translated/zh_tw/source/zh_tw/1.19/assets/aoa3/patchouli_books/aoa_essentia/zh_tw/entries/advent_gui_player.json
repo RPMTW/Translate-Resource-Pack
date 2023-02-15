@@ -1,21 +1,21 @@
 {
   "category": "aoa3:advent_gui",
   "icon": "minecraft:bone",
-  "name": "Player Tab",
+  "name": "玩家標簽",
   "pages": [
     {
       "type": "patchouli:text",
       "anchor": "player_tab",
-      "text": "The $(thing)player tab$() is the default tab that is opened whenever the $(l:aoa3:advent_gui_base)Advent GUI$(/l) is opened.$(br)It contains an overview of the player's current $(l:aoa3:skills_overview)skills$(/l)",
-      "title": "Player Tab"
+      "text": "$(thing)玩家標簽$()是$(l:aoa3:advent_gui_base)Advent GUI$(/l)打開時打開的默認選項卡。$(br)它包含玩家當前$的概覽 (l:aoa3:skills_overview)技能$(/l)",
+      "title": "玩家標簽"
     },
     {
       "type": "patchouli:text",
-      "text": "Clicking on any skill opens up a dedicated window, giving greater detail into the chosen skill.$(br)In the dedicated window you'll find your current xp in the skill, progression to the next level, your current cycles, and the list of $(l:aoa3:abilities)abilities$(/l) applicable to the skill."
+      "text": "單擊任何技能都會打開一個專用窗口，提供所選技能的更多詳細信息。$(br)在專用窗口中，您將找到當前技能的經驗、下一級別的進度、當前週期和列表 $(l:aoa3:abilities)abilities$(/l) 適用於該技能。"
     },
     {
       "type": "patchouli:text",
-      "text": "Clicking on any ability listed in the ability pane will disable it if it is currently active, or enable it if it was previously disabled by you.$(br)Disabling an ability removes any bonuses it currently places on you, or prevents it from having any effect on the game as you play.$(br2)If you have reached level 100, a button to $(l:aoa3:cycles)cycle$(/l) the skill will be made available"
+      "text": "單擊能力面板中列出的任何能力將禁用它（如果它當前處於活動狀態），或者如果它之前被你禁用則啟用它。$(br)禁用一個能力會移除它當前對你施加的任何獎勵，或者阻止它擁有 在你玩遊戲時對遊戲有任何影響。$(br2)如果你達到了 100 級，將可以使用 $(l:aoa3:cycles)循環$(/l) 技能的按鈕"
     }
   ],
   "sortnum": 1
