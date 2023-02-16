@@ -1,7 +1,7 @@
 {
-    "cos.key.opencosarmorinventory": "OpenCosmeticArmorInventory",
-    "cos.gui.buttoncos": "CosmeticArmor",
-    "cos.gui.buttonnormal": "Normal",
-    "cos.command.clearcosarmor.success.single": "Removed %s items in cosmetic armor inventory from player %s",
-    "cos.command.clearcosarmor.success.multiple": "Removed %s items in cosmetic armor inventory from %s players"
+    "cos.key.opencosarmorinventory": "打開裝飾盔甲欄",
+    "cos.gui.buttoncos": "裝飾盔甲",
+    "cos.gui.buttonnormal": "標準搜索",
+    "cos.command.clearcosarmor.success.single": "已從玩家%s的裝飾盔甲欄中移除了%s件物品",
+    "cos.command.clearcosarmor.success.multiple": "已從%s名玩家的裝飾盔甲欄中移除了%s件物品"
 }
