@@ -1,12 +1,12 @@
 {
   "category": "aoa3:farming",
   "icon": "aoa3:green_manure_seeds",
-  "name": "Useful Items",
+  "name": "實用物品",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "There are some useful items that come along with farming that it's worth knowing about. You may not be able to utilise them at the start of your $(thing)Farming$() journey, but in time they will become quite useful",
-      "title": "Useful Items"
+      "text": "有一些伴隨耕作而來的有用物品值得了解。 你可能無法在你的 $(thing)農耕$() 旅程開始時使用它們，但隨著時間的推移它們會變得非常有用",
+      "title": "實用物品"
     },
     {
       "type": "patchouli:empty"
@@ -14,30 +14,30 @@
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:bone_meal",
-      "text": "Bone Meal helps improve your harvest potential!"
+      "text": "骨粉可以提高您的收成速度！"
     },
     {
       "type": "patchouli:text",
-      "text": "Once you are a little more experienced, you'll be able to use $(thing)Bone Meal$() on your farmland to fertilise it, causing the next crop harvested on it to double its bounty!$(br)This is only a short-term effect however, so you'll need to re-fertilise the next time you plant"
+      "text": "當您有了更多的經驗後，您就可以在耕地上使用$(thing)骨粉$()來施肥，使得下一次收成的作物收益加倍！$(br)不過這只是一個短期效應，所以下次種植時您需要重新施肥。"
     },
     {
       "type": "patchouli:spotlight",
       "item": "aoa3:green_manure_seeds",
-      "text": "The ultimate in fertilisation"
+      "text": "終極施肥技巧"
     },
     {
       "type": "patchouli:text",
-      "text": "Eventually you'll be able to utilise $(thing)Green Manure$(). This is an even fancier method of fertilising farmland, which involves growing this crop to full growth, then harvesting it. You won't get any special produce, but you'll find that the farmland below has become very fertile$(br)This an even more powerful effect than Bone Meal, and lasts longer!"
+      "text": "最後，您將能夠使用$(thing)綠肥$()。這是一種更高級的耕地施肥方法，它需要讓這種作物生長到滿期，然後再收割。您不會得到任何特殊的產物，但您會發現下面的耕地變得非常肥沃。$(br)這種效果比骨粉更加強大，並且持續時間更長！"
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:golden_hoe",
-      "text": "A tool for farming? Sure, why not",
-      "title": "Hoes"
+      "text": "用於農耕的工具？當然，為什麼不呢？",
+      "title": "鋤頭"
     },
     {
       "type": "patchouli:text",
-      "text": "Experienced farmers will be able to use $(thing)Hoes$() to harvest large areas in a single sweep. This makes the harvesting task much quicker and easier, and will become invaluable once available to you"
+      "text": "有經驗的農民將能夠使用$(thing)鋤頭$()直接一次收割大面積的農作物。這使得收穫工作更快速，更輕鬆，一旦掌握了這個技巧，您會發現它是個無價之寶。"
     }
   ],
   "sortnum": 1
