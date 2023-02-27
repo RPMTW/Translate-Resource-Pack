@@ -5,25 +5,25 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "anchor": "bows",
-      "text": "$(thing)Bows$() in $(thing)Minecraft$() are the simplest way to increase your combat flexibility.$(br)With a short-to-moderate draw time, you can launch an $(thing)arrow$() through the air at high speed to hit targets from far away.$(br2)Be aware that different bows have different draw times.",
-      "title": "Bows"
+      "anchor": "弓",
+      "text": "在$(thing)Minecraft$()中，$(thing)弓$()是增加戰鬥靈活性的最簡單方式。$(br)由於射擊需要短至中等的拉弓時間，您可以以高速發射$(thing)箭矢$()，從遠處擊中目標。$(br2)請注意，不同的弓具有不同的拉弓時間。",
+      "title": "弓"
     },
     {
       "type": "patchouli:text",
-      "text": "While all $(thing)bows$() function in mostly the same way, it's important to note that each bow will have its own slightly different characteristics.$(br2)Some $(thing)bows$() will take more or less time to nock an $(thing)arrow$(), and some will shoot the released $(thing)arrow$() shorter or further away."
+      "text": "儘管所有的$(thing)弓$()在大多數情況下都具有相同的功能，但重要的是要注意，每種$(thing)弓$()都有其自己略微不同的特點。$(br2)一些$(thing)弓$()的繫箭時間可能較長或較短，而一些弓射出的$(thing)箭矢$()可能較短或較遠。"
     },
     {
       "type": "patchouli:spotlight",
       "item": "aoa3:alacrity_bow",
-      "text": "$(thing)Bows$() offer the versatility of ranged combat, for a low-cost ammunition tradeoff.",
-      "title": "A Bow"
+      "text": "$(thing)弓$()提供遠程戰鬥的靈活性，只需付出低廉的彈藥代價。",
+      "title": "一把弓"
     },
     {
       "type": "patchouli:link",
       "link_text": "AoA Wiki",
-      "text": "Find info on all of the $(thing)bows$() in $(aoa) on the $(thing)official wiki$().",
-      "title": "Read More",
+      "text": "在$(aoa)的$(thing)官方維基$()上可以找到所有$(thing)弓$()的相關資訊。",
+      "title": "了解詳情",
       "url": "https://adventofascension.fandom.com/wiki/Bows"
     }
   ],
