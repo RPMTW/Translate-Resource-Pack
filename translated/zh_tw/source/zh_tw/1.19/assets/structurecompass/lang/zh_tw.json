@@ -15,7 +15,7 @@
     "structurecompass.structure.found.tooltip": "發現 %s，羅盤已指向結構",
     "structurecompass.structure.failed": "無法定位 %s，請稍後再試",
     "structurecompass.structure.failed.tooltip": "無法定位 %s，請稍後再試",
-    "structurecompass.structure.wrong_dimension.tooltip": "你所在的維度找不到 %s",
+    "structurecompass.structure.wrong_dimension.tooltip": "你所在的次元找不到 %s",
     "structurecompass.structure.unset.tooltip": "尚未綁定結構，點擊右鍵來選擇結構",
     "category.structurecompass.main": "結構羅盤",
     "key.structurecompass.hide": "隱藏結構羅盤HUD"
