@@ -19,7 +19,7 @@
     "text.autoconfig.levelz.option.overallMaxLevel": "全體最高等級",
     "text.autoconfig.levelz.option.startPoints": "初始技能點",
     "text.autoconfig.levelz.option.pointsPerLevel": "每等級可獲得技能點",
-    "text.autoconfig.levelz.option.resetCurrentXP": "重置當前經驗",
+    "text.autoconfig.levelz.option.resetCurrentXP": "重置目前經驗",
     "text.autoconfig.levelz.option.xpBaseCost": "經驗值原始基礎值",
     "text.autoconfig.levelz.option.xpCostMultiplicator": "經驗倍率",
     "text.autoconfig.levelz.option.xpExponent": "指數",
