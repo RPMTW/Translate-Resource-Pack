@@ -15,7 +15,7 @@
     "text.autoconfig.chat_heads.option.senderDetection.UUID_ONLY": "僅 UUID",
     "text.autoconfig.chat_heads.option.senderDetection.UUID_AND_HEURISTIC": "UUID 和啟發式方法",
     "text.autoconfig.chat_heads.option.senderDetection.HEURISTIC_ONLY": "僅啟發式方法",
-    "text.autoconfig.chat_heads.option.smartHeuristics": "智能啟發式方法",
+    "text.autoconfig.chat_heads.option.smartHeuristics": "智慧啟發式方法",
     "text.autoconfig.chat_heads.option.smartHeuristics.@Tooltip[0]": "得知伺服器發送 UUID 後，自動關閉啟發式方法。",
     "text.autoconfig.chat_heads.option.smartHeuristics.@Tooltip[1]": "（發送者檢測設為“UUID 和啟發式方法”時適用）",
     "text.chat_heads.config.error.title": "無法打開配置菜單",

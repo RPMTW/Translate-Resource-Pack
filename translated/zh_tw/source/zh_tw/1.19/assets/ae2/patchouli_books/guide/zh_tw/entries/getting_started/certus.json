@@ -36,7 +36,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "$(thing)CGAs$() 需要電源才能運行。 他們接受 $(l:ae2:concepts/power)網絡電源$(/l) 或 $(l:ae2:getting_started/crank)木曲柄$(/l)。 他們不接受 $(item)外部電源$()。 電源僅連接到 $(thing)CGA$() 的兩個相對側。$(br2)$(thing)CGAs$() 可以是 $(l:ae2:equipment/wrench)旋轉的$(/l)。 這只會影響電源可以連接的地方； 相鄰的 $(thing)母岩$() 將是 $(thing)增長加速$() 來自 $(thing)CGA$() 的任何一側。 此外，多個 $(thing)CGAs$() 可以同時加速一個 $(thing)母岩$()。"
+      "text": "$(thing)CGAs$() 需要電源才能運作。 他們接受 $(l:ae2:concepts/power)網絡電源$(/l) 或 $(l:ae2:getting_started/crank)木曲柄$(/l)。 他們不接受 $(item)外部電源$()。 電源僅連接到 $(thing)CGA$() 的兩個相對側。$(br2)$(thing)CGAs$() 可以是 $(l:ae2:equipment/wrench)旋轉的$(/l)。 這只會影響電源可以連接的地方； 相鄰的 $(thing)母岩$() 將是 $(thing)增長加速$() 來自 $(thing)CGA$() 的任何一側。 此外，多個 $(thing)CGAs$() 可以同時加速一個 $(thing)母岩$()。"
     },
     {
       "type": "patchouli:image",

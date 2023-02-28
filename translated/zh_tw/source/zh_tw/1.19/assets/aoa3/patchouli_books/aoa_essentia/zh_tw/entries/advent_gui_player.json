@@ -6,16 +6,16 @@
     {
       "type": "patchouli:text",
       "anchor": "player_tab",
-      "text": "$(thing)玩家標簽$()是$(l:aoa3:advent_gui_base)Advent GUI$(/l)打開時打開的默認選項卡。$(br)它包含玩家當前$的概覽 (l:aoa3:skills_overview)技能$(/l)",
+      "text": "$(thing)玩家標簽$()是$(l:aoa3:advent_gui_base)Advent GUI$(/l)打開時打開的默認選項卡。$(br)它包含玩家目前$的概覽 (l:aoa3:skills_overview)技能$(/l)",
       "title": "玩家標簽"
     },
     {
       "type": "patchouli:text",
-      "text": "單擊任何技能都會打開一個專用窗口，提供所選技能的更多詳細信息。$(br)在專用窗口中，您將找到當前技能的經驗、下一級別的進度、當前週期和列表 $(l:aoa3:abilities)abilities$(/l) 適用於該技能。"
+      "text": "單擊任何技能都會打開一個專用窗口，提供所選技能的更多詳細信息。$(br)在專用窗口中，您將找到目前技能的經驗、下一級別的進度、目前週期和列表 $(l:aoa3:abilities)abilities$(/l) 適用於該技能。"
     },
     {
       "type": "patchouli:text",
-      "text": "單擊能力面板中列出的任何能力將禁用它（如果它當前處於活動狀態），或者如果它之前被你禁用則啟用它。$(br)禁用一個能力會移除它當前對你施加的任何獎勵，或者阻止它擁有 在你玩遊戲時對遊戲有任何影響。$(br2)如果你達到了 100 級，將可以使用 $(l:aoa3:cycles)循環$(/l) 技能的按鈕"
+      "text": "單擊能力面板中列出的任何能力將禁用它（如果它目前處於活動狀態），或者如果它之前被你禁用則啟用它。$(br)禁用一個能力會移除它目前對你施加的任何獎勵，或者阻止它擁有 在你玩遊戲時對遊戲有任何影響。$(br2)如果你達到了 100 級，將可以使用 $(l:aoa3:cycles)循環$(/l) 技能的按鈕"
     }
   ],
   "sortnum": 1

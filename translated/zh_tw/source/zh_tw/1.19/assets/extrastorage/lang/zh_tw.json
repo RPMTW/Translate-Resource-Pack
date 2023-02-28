@@ -42,6 +42,6 @@
     "tooltip.extrastorage.holdShift": "按住 Shift顯示資訊",
     "tooltip.extrastorage.slotCrafting": "插槽數: %s",
     "top.extrastorage.currentSpeed": "目前速度：%s",
-    "top.extrastorage.limitedSpeed": "當前速度(受%s限制):%sx",
+    "top.extrastorage.limitedSpeed": "目前速度(受%s限制):%sx",
     "top.extrastorage.occupiedSpace": "占用空間:%s/%s"
 }

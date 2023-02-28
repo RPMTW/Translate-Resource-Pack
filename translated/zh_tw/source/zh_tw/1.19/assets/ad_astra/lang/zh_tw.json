@@ -619,7 +619,7 @@
     "text.resourcefulconfig.ad_astra.option.fuelRefinery.energyPerTick": "能量每tick",
     "text.resourcefulconfig.ad_astra.option.fuelRefinery.maxEnergy": "最大能量",
     "text.resourcefulconfig.ad_astra.option.fuelRefinery.tankSize": "儲罐容量",
-    "text.resourcefulconfig.ad_astra.option.general": "常規設定",
+    "text.resourcefulconfig.ad_astra.option.general": "一般設定",
     "text.resourcefulconfig.ad_astra.option.general.acidRainBurns": "酸雨灼傷",
     "text.resourcefulconfig.ad_astra.option.general.acidRainDamage": "酸雨傷害",
     "text.resourcefulconfig.ad_astra.option.general.allowFlagImages": "允許旗幟上的圖片",

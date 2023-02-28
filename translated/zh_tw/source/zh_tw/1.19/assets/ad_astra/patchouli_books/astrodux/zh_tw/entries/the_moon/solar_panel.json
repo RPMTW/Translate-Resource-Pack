@@ -13,7 +13,7 @@
     {
       "type": "patchouli:crafting",
       "title": "太陽能版",
-      "text": "檢查太陽能板的工具提示或GUI，看看在當前世界中生產了多少能源。",
+      "text": "檢查太陽能板的工具提示或GUI，看看在目前世界中生產了多少能源。",
       "recipe": "ad_astra:recipes/solar_panel"
     }
   ]
