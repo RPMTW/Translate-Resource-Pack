@@ -1,6 +1,6 @@
 {
   "parent": "aoa3:worlds",
-  "description": "深淵是第 2 層維度，需要去到 $(thing)地獄$() 才能存取",
+  "description": "深淵是第 2 層次元，需要去到 $(thing)地獄$() 才能存取",
   "icon": "aoa3:abyss_realmstone",
   "name": "深淵之地"
 }
