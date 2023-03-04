@@ -1,0 +1,15 @@
+{
+    "name": "電動引擎",
+    "icon": "simpleplanes:electric_engine",
+    "category": "simpleplanes:engines",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "它可以透過$(l:misc/charging_station)充電站$(/l)充電。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simpleplanes:electric_engine"
+        }
+    ]
+}
