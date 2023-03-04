@@ -1,0 +1,15 @@
+{
+    "name": "移除升級",
+    "icon": "simpleplanes:wrench",
+    "category": "simpleplanes:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "使用扳手右鍵點擊飛機即可移除升級。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simpleplanes:wrench"
+        }
+    ]
+}
