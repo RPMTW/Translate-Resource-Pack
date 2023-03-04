@@ -1,0 +1,15 @@
+{
+    "name": "飛機建構台",
+    "icon": "simpleplanes:plane_workbench",
+    "category": "simpleplanes:intro",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "飛機建構台用於製造飛機和直升機。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simpleplanes:plane_workbench"
+        }
+    ]
+}
