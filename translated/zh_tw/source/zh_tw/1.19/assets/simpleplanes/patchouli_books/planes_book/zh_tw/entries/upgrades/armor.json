@@ -1,0 +1,15 @@
+{
+    "name": "盔甲",
+    "icon": "simpleplanes:armor",
+    "category": "simpleplanes:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "飛機裝甲。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simpleplanes:armor"
+        }
+    ]
+}
