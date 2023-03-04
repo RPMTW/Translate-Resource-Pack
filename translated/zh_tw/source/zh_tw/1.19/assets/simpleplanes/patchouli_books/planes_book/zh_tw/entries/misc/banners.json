@@ -1,0 +1,11 @@
+{
+    "name": "旗幟",
+    "icon": "minecraft:cyan_banner",
+    "category": "simpleplanes:misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "您可以將任何旗幟放在飛機上作為裝飾。"
+        }
+    ]
+}
