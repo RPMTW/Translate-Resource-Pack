@@ -1,0 +1,6 @@
+{
+    "name": "升級組件",
+    "description": "你可以透過點擊右鍵，在飛機/直升機上添加數種升級裝置。",
+    "icon": "simpleplanes:booster",
+    "sortnum": 2
+}
