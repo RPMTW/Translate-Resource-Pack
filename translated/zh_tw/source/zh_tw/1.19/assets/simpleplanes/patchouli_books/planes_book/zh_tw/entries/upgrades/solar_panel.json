@@ -1,0 +1,15 @@
+{
+  "name": "太陽能版",
+  "icon": "simpleplanes:solar_panel",
+  "category": "simpleplanes:upgrades",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "供飛機和大型飛機使用的太陽能板。在被太陽照射時可補充RF/FE！"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simpleplanes:solar_panel"
+    }
+  ]
+}

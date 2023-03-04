@@ -1,0 +1,15 @@
+{
+    "name": "機炮",
+    "icon": "minecraft:dispenser",
+    "category": "simpleplanes:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "在飛機中放置機砲，即可使用。當你坐在飛機中時，右鍵點擊煙火、火焰彈或箭矢即可發射它們。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:dispenser"
+        }
+    ]
+}

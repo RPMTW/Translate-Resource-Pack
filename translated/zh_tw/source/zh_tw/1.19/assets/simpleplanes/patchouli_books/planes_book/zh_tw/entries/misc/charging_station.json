@@ -1,0 +1,15 @@
+{
+    "name": "充氣站",
+    "icon": "simpleplanes:charging_station",
+    "category": "simpleplanes:misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "當放在飛機下面時，可以為飛機進行充電。支援Forge能量。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simpleplanes:charging_station"
+        }
+    ]
+}

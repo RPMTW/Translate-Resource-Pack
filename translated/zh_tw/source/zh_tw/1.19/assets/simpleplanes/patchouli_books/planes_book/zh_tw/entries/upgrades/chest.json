@@ -1,0 +1,15 @@
+{
+    "name": "Chest",
+    "icon": "minecraft:chest",
+    "category": "simpleplanes:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "當你坐在飛機內部時，可以通過打開物品欄來訪問它。可以使用 $(l:https://www.curseforge.com/minecraft/mc-mods/iron-chests)Iron Chests$(/l)。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:chest"
+        }
+    ]
+}

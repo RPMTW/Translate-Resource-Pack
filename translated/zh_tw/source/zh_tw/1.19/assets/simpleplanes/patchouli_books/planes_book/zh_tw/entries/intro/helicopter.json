@@ -1,0 +1,22 @@
+{
+    "name": "直升機",
+    "icon": "simpleplanes:helicopter",
+    "category": "simpleplanes:intro",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "它可以容納兩名乘客(或大型升級加一名乘客)。你需要一個引擎來驅動它。"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "simpleplanes:helicopter",
+            "scale": "0.4"
+        },
+        {
+            "type": "simpleplanes:plane_recipe",
+            "item1": "simpleplanes:propeller#2",
+            "item2": "minecraft:oak_planks#7",
+            "output": "simpleplanes:helicopter"
+        }
+    ]
+}

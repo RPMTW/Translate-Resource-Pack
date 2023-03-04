@@ -1,0 +1,11 @@
+{
+    "name": "添加升級",
+    "icon": "simpleplanes:wrench",
+    "category": "simpleplanes:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "要添加升級，請手持升級對飛機右鍵。"
+        }
+    ]
+}

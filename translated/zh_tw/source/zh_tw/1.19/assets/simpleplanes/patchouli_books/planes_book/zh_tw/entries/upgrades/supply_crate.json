@@ -1,0 +1,15 @@
+{
+    "name": "物資箱",
+    "icon": "simpleplanes:supply_crate",
+    "category": "simpleplanes:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "可以跟儲物箱一樣裝滿，並使用 $(k:plane_drop_payload.desc) 鍵放下。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simpleplanes:supply_crate"
+        }
+    ]
+}

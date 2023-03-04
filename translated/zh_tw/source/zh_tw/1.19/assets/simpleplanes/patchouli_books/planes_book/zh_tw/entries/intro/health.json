@@ -1,0 +1,11 @@
+{
+    "name": "生命值",
+    "icon": "simpleplanes:healing",
+    "category": "simpleplanes:intro",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "飛機會遭受損壞，可以查看右側的飛機生命值。要修理飛機，可以坐在停機的飛機內，或使用 $(l:misc/healing)快速修復套件$(/l)。"
+        }
+    ]
+}

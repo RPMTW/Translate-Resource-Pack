@@ -1,0 +1,15 @@
+{
+    "name": "降落傘",
+    "icon": "simpleplanes:parachute",
+    "category": "simpleplanes:misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "在空中右鍵以使用它。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simpleplanes:parachute"
+        }
+    ]
+}

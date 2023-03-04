@@ -1,0 +1,11 @@
+{
+    "name": "TNT",
+    "icon": "minecraft:tnt",
+    "category": "simpleplanes:misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "只能用於大型飛機和直升機。飛行時使用打火石來放下 TNT。您也可以在飛行途中將 TNT 放在飛機內。"
+        }
+    ]
+}
