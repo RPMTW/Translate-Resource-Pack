@@ -1,0 +1,15 @@
+{
+    "name": "浮床",
+    "icon": "simpleplanes:floaty_bedding",
+    "category": "simpleplanes:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "使得飛機可以在水上漂浮。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simpleplanes:floaty_bedding"
+        }
+    ]
+}
