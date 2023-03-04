@@ -1,0 +1,22 @@
+{
+    "name": "小型飛機",
+    "icon": "simpleplanes:plane",
+    "category": "simpleplanes:intro",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "它只能容納一名乘客，但它需要的燃料最少。你需要一個引擎來驅動它。"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "simpleplanes:plane",
+            "scale": "0.5"
+        },
+        {
+            "type": "simpleplanes:plane_recipe",
+            "item1": "simpleplanes:propeller#1",
+            "item2": "minecraft:oak_planks#5",
+            "output": "simpleplanes:plane"
+        }
+    ]
+}
