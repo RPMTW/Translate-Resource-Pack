@@ -1,0 +1,22 @@
+{
+    "name": "大型飛機",
+    "icon": "simpleplanes:large_plane",
+    "category": "simpleplanes:intro",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "這種飛機可以載運兩名乘客，但需要比較小型版本更多的燃料，同時也需要安裝引擎才能啟動。"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "simpleplanes:large_plane",
+            "scale": "0.4"
+        },
+        {
+            "type": "simpleplanes:plane_recipe",
+            "item1": "simpleplanes:propeller#1",
+            "item2": "minecraft:oak_planks#10",
+            "output": "simpleplanes:large_plane"
+        }
+    ]
+}
