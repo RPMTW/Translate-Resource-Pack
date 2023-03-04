@@ -1,0 +1,15 @@
+{
+    "name": "座位",
+    "icon": "simpleplanes:seats",
+    "category": "simpleplanes:upgrades",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "為更多乘客提供空間。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simpleplanes:seats"
+        }
+    ]
+}
