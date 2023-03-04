@@ -1,0 +1,15 @@
+{
+    "name": "熔爐引擎",
+    "icon": "simpleplanes:furnace_engine",
+    "category": "simpleplanes:engines",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "它需要熔爐燃料來提供動力。您可以坐在飛機上打開屏幕(默認 X 鍵)來加油。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "simpleplanes:furnace_engine"
+        }
+    ]
+}
