@@ -1,29 +1,29 @@
 {
   "category": "aoa3:weapons",
   "icon": "minecraft:crossbow",
-  "name": "Crossbows",
+  "name": "弩",
   "pages": [
     {
       "type": "patchouli:text",
-      "anchor": "crossbows",
-      "text": "Like $(l:aoa3:bows#bows)bows$(/l), crossbows fire $(thing)arrows$() to deal ranged damage. $(thing)Crossbows$() operate by pre-loading the arrows, requiring a short loading time after which the $(thing)arrow$() sits ready in the rack.$(br2)Once you are ready to fire, the $(thing)crossbow$() will release its $(thing)arrow$() immediately, firing it in a similar manner to a standard $(l:aoa3:bows#bows)bow$(/l).",
-      "title": "Crossbows"
+      "anchor": "弩",
+      "text": "和$(l:aoa3:bows#bows)弓$(/l)一樣，弩能夠射出$(thing)箭矢$()以製造範圍傷害。$(thing)弩$()的運作需要一點時間預先載入箭矢，直到$(thing)箭矢$()已被裝載入彈匣中。$(br2)一旦你準備好了發射，$(thing)弩$()就會立即射出$(thing)箭矢$()，與$(l:aoa3:bows#bows)弓$(/l)相似地發射。",
+      "title": "弩"
     },
     {
       "type": "patchouli:text",
-      "text": "There isn't a lot to say about $(thing)crossbows$(). They deal the same kind of damage that $(l:aoa3:bows#bows)bows$(/l) do, use the same ammunition, and are used in a similar manner.$(br2)The primary difference is that crossbows allow you to prepare your shot before it is needed, freeing you up for a rapid response to any threat."
+      "text": "關於 $(thing)弩$() 沒什麼好說的。 它們造成與 $(l:aoa3:bows#bows)弓$(/l) 相同類型的傷害，使用相同的彈藥，並且以類似的方式使用。$(br2)主要區別在於弩允許 您可以在需要之前準備好射擊，從而騰出時間對任何威脅做出快速反應。"
     },
     {
       "type": "patchouli:spotlight",
       "item": "aoa3:trolls_crossbow",
-      "text": "Feel like a true marksman with the power of a $(thing)crossbow$() at your side.",
-      "title": "A Crossbow"
+      "text": "身旁有 $(thing)弩$() 的力量，感覺自己像個真正的射手。",
+      "title": "弩弓"
     },
     {
       "type": "patchouli:link",
       "link_text": "AoA Wiki",
-      "text": "Find info on all of the $(thing)crossbows$() in $(aoa) on the $(thing)official wiki$().",
-      "title": "Read More",
+      "text": "在 $(thing)官方Wiki$() 中查找有關 $(aoa) 中所有 $(thing)弩$() 的信息。",
+      "title": "了解詳情",
       "url": "https://adventofascension.fandom.com/wiki/Crossbows"
     }
   ],
