@@ -1,5 +1,5 @@
 {
-    "name": "Cold Damage",
+    "name": "冰凍傷害",
     "icon": "minecraft:blue_ice",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Cold Damage$() is bonus magic damage applied to melee attacks. It also applies a slow dependent on the strength of the damage.$(p)Found on melee weapons."
+            "text": "$(9)冰凍傷害$()是應用於近戰攻擊的額外魔法傷害。 它還會根據傷害的強度應用減速在敵人身上。$(p)它通常能夠在近戰武器上找到。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 0$(p)$(9)$(n)Max Value:$() 1024$(p)"
+            "text": "$(9)$(n)基礎值：$()0$(p)$(9)$(n)最大值：$()1024$(p)"
         }
     ]
 }

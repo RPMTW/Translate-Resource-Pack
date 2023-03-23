@@ -1,5 +1,5 @@
 {
-    "name": "Attack Speed",
+    "name": "攻擊速度",
     "icon": "minecraft:golden_sword",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Attack Speed$() controls how frequently you can attack. If your attack speed is 2, you can attack twice per second.$(p)Various items can increase your attack speed."
+            "text": "$(9)攻擊速度$()控制您可以攻擊的頻率。 如果你的攻擊速度是2，你每秒可以攻擊兩次。$(p)各種物品可以提高你的攻擊速度。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 4$(p)$(9)$(n)Max Value:$() 1024$(p)Note: Weapons will usually specify their own attack speed, ignoring the base value of 4."
+            "text": "$(9)$(n)基礎數值：$()4$(p)$(9)$(n)最大數值：$()1024$(p)注：武器通常擁有其自定義數值，並忽視了基礎數值。"
         }
     ]
 }

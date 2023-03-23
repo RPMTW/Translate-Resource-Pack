@@ -1,5 +1,5 @@
 {
-    "name": "Attack Range",
+    "name": "攻擊範圍",
     "icon": "minecraft:skeleton_skull",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Your $(9)Attack Range$() is the maximum distance at which you may attack targets with a melee weapon.$(p)Generally found on weapons."
+            "text": "你的$(9)攻擊範圍$()是您可以使用近戰武器攻擊目標的最大距離。$(p)它們通常出現在武器上。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 3.0$(p)$(9)$(n)Max Value:$() 1024$(p)"
+            "text": "$(9)$(n)基礎值：$()3.0$(p)$(9)$(n)最大值：$()1024$(p)"
         }
     ]
 }
