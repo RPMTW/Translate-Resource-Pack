@@ -1,5 +1,5 @@
 {
-    "name": "Current HP Damage",
+    "name": "真實傷害",
     "icon": "minecraft:dragon_head",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Current HP Damage$() is a type of on-hit damage.  Every hit, you will deal a percentage of the target's current health as additional damage.$(p)This stat is only found on heavy weapons."
+            "text": "$(9)真實傷害$()是一種擊中傷害。 每次擊中，你都會造成目標當前生命值一定百分比的額外傷害。$(p)此屬性僅適用於重型武器。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 1$(p)$(9)$(n)Max Value:$() 1024$(p)Note: A value of 1.0 is actually 0% current hp damage, but if the base was zero, percentage modifiers would have no effect, and flat modifiers don't convey the bonus correctly."
+            "text": "$(9)$(n)基礎值：$()1$(p)$(9)$(n)最大值：$()1024$(p)注意：值 1.0 實際上是當前 HP 的 0% 傷害，但如果基數為零，則百分比修飾符將沒有效果，並且平坦修飾符無法正確傳達加成。"
         }
     ]
 }
