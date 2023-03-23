@@ -1,5 +1,5 @@
 {
-    "name": "Armor Toughness",
+    "name": "護甲韌性",
     "icon": "minecraft:netherite_chestplate",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Armor Toughness$() is a stat that adjusts how effective your armor is against higher damaging attacks.$(p)Usually provided by armor, and some shields."
+            "text": "$(9)盔甲韌性$()是一個調整你的盔甲對抗更高傷害攻擊的效果的指標。$(p)通常由盔甲，還有一些盾牌擁有。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 0$(p)$(9)$(n)Max Value:$() 30$(p)Note: In vanilla, the max value is 20.  Apotheosis raises the cap to 30, and also changes armor math."
+            "text": "$(9)$(n)基本數值：$()0$(p)$(9)$(n)最大數值：$()30$(p)注：Vanilla版本中，最大數值是20。神話模組將最大數值提升到了30，并且更改了一些盔甲的屬性。"
         }
     ]
 }
