@@ -1,0 +1,23 @@
+{
+    "step.base.create_your_server": "讓我們創建你的 Minecraft 伺服器。",
+    "step.base.back": "上一步",
+    "step.loading_plans.loading": "正在載入方案",
+    "step.loading_plans.failed": "無法載入方案",
+    "step.player_count.question": "你預期有多少個玩家會同時在伺服器上？",
+    "step.player_count.next": "下一步",
+    "step.recommended_jar.detected": "我們偵測到你正在運作：",
+    "step.recommended_jar.choice": "點擊“選擇”以使用此包，或點擊“改變”以選擇另外一個包。",
+    "step.recommended_jar.select": "選擇",
+    "step.recommended_jar.change": "更改",
+    "step.select_jar.name_filter": "依名稱過濾",
+    "step.select_jar.platform_filter": "以遊戲平台分類",
+    "step.select_jar.select_pack": "選擇這個包",
+    "step.select_jar.select": "選擇",
+    "step.select_package.plan": "我們選擇了最完美的方案給你！",
+    "step.select_package.slider": "滑動滑塊以選擇一個不同的計劃",
+    "step.select_package.order_plan": "其他方案",
+    "step.select_package.price": "$%s嗯／",
+    "step.select_plan.choose_plan": "選擇方案類型",
+    "step.select_plan.choose_budget": "選擇預算",
+    "step.select_plan.choose_premium": "選擇會員"
+}
