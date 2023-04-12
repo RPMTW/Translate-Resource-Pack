@@ -1,5 +1,5 @@
 {
-    "name": "Fire Damage",
+    "name": "火焰傷害",
     "icon": "minecraft:blaze_powder",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Fire Damage$() is bonus magic damage applied to melee attacks. It also sets the target on fire for a short time. Higher damage increases the fire duration.$(p)Found on melee weapons."
+            "text": "$(9)火焰傷害$()是應用於近戰攻擊上的魔法加成傷害。它還會使目標短時間內著火。傷害越高，著火持續時間就越長。$(p)這種屬性會出現在近戰武器上。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 0$(p)$(9)$(n)Max Value:$() 1024$(p)"
+            "text": "$(9)$(n)基礎值：$()0$(p)$(9)$(n)最大值：$()1024$(p)"
         }
     ]
 }
