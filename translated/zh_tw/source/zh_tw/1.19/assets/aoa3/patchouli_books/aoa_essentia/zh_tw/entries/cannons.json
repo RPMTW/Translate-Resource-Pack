@@ -1,29 +1,29 @@
 {
   "category": "aoa3:weapons",
   "icon": "aoa3:big_blast",
-  "name": "Cannons",
+  "name": "加農炮",
   "pages": [
     {
       "type": "patchouli:text",
-      "anchor": "cannons",
-      "text": "$(thing)Cannons$() are the third sub-class of $(l:aoa3:guns#guns)guns$(/l), offering increased fire power in exchange for more expensive ammunition and a slower fire rate.$(br)$(thing)Cannons$() also offer additional damage against armoured targets, disable shields if the target is blocking with one, and pushes targets back when struck.",
-      "title": "Cannons"
+      "anchor": "加農炮",
+      "text": "$(thing)加農炮$()是$(l:aoa3:guns#guns)槍械$(/l)的第三個子類，提供更強大的火力，但需要更昂貴的彈藥和較慢的射速作為代價。$(br)$(thing)加農炮$()還可以對抗裝甲目標造成額外傷害，在目標使用盾牌防禦時可以使其失效，並在擊中目標時將其擊退。",
+      "title": "加農炮"
     },
     {
       "type": "patchouli:text",
-      "text": "Think of $(thing)cannons$() as the big brother of $(l:aoa3:guns#guns)guns$(/l), working the same way but dishing out much more damage per shot, and hitting defensive targets $(o)hard$().$(br2)Where $(thing)guns$() might be used for multiple weaker targets, or to dish out rapid damage, $(thing)cannons$() act as the ranged-equivalent of a $(l:aoa3:mauls#mauls)maul$(/l), blowing targets away."
+      "text": "將 $(thing)加農炮$() 視為 $(l:aoa3:guns#guns)槍械$(/l) 的老大哥，工作方式相同，但每次射擊造成更多傷害，並擊中防禦目標 $(o)hard$().$(br2)其中 $(thing)槍械$() 可能用於多個較弱的目標，或快速造成傷害，$(thing)加農炮$() 充當遠程等價物 $(l:aoa3:mauls#mauls)打傷$(/l)，將目標炸飛。"
     },
     {
       "type": "patchouli:spotlight",
       "item": "aoa3:missile_maker",
-      "text": "Blow your enemies away with these oversized shooty-sticks.",
-      "title": "A Cannon"
+      "text": "用這些超大的射擊棍擊退你的敵人",
+      "title": "加農炮"
     },
     {
       "type": "patchouli:link",
       "link_text": "AoA Wiki",
-      "text": "Find info on all of the $(thing)cannons$() in $(aoa) on the $(thing)official wiki$().",
-      "title": "Read More",
+      "text": "在$(aoa)的$(thing)官方維基$()上可以找到所有$(thing)加農炮$()的相關資訊。",
+      "title": "了解詳情",
       "url": "https://adventofascension.fandom.com/wiki/Cannons"
     }
   ],
