@@ -1,0 +1,15 @@
+{
+    "entity.strawgolem.strawgolem": "小麥魔像",
+    "entity.strawgolem.strawnggolem": "強力魔像",
+    "strawgolem.subtitle.golemAmbient": "小麥魔像環顧四周",
+    "strawgolem.subtitle.golemHurt": "小麥魔像受傷",
+    "strawgolem.subtitle.golemDeath": "小麥魔像死亡",
+    "strawgolem.subtitle.golemHeal": "小麥魔像治癒中",
+    "strawgolem.subtitle.golemScared": "小麥魔像害怕",
+    "strawgolem.subtitle.golemInterested": "小麥魔像有興趣",
+    "strawgolem.lifespan": "壽命: %s 天",
+    "strawgolem.hunger": "飢餓等級: %s",
+    "strawgolem.deliver": "%s現在將會把物品放到這個容器",
+    "strawgolem.order": "投遞方式：%s",
+    "item.strawgolem.straw_hat": "稻草帽"
+}
