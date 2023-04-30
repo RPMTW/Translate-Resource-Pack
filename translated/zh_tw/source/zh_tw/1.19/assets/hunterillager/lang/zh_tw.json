@@ -1,0 +1,19 @@
+{
+    "item.hunterillager.spawnegg_hunterillager": "獵人 生怪蛋",
+    "item.hunterillager.quivers": "箭袋",
+    "item.hunterillager.boomerang": "迴旋鏢",
+    "item.hunterillager.quiver.desc": "手持箭袋和箭矢時，按右鍵可以存放箭矢。",
+    "entity.hunterillager.hunterillager": "獵人",
+    "subtitles.hunterillager.idle": "獵人低語",
+    "subtitles.hunterillager.hurt": "獵人受傷",
+    "subtitles.hunterillager.death": "獵人死亡",
+    "subtitles.hunterillager.cheer": "獵人歡呼",
+    "subtitles.hunterillager.laugh": "獵人大笑",
+    "death.attack.hunterillager.boomerang": "%1$s 被 %2$s 的迴旋鏢擊斃",
+    "hunterillager.config.structureSpacing": "獵手小屋生成間距",
+    "hunterillager.config.foodWhitelist": "獵人食用食物白名單",
+    "hunterillager.config.attackableWhitelist": "獵人可攻擊的白名單",
+    "enchantment.hunterillager.bounce": "反射",
+    "hunterillager.config.spacing": "間距",
+    "hunterillager.config.separation": "間隔"
+}
