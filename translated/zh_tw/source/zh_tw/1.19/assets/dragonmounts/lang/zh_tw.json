@@ -1,0 +1,16 @@
+{
+    "entity.dragonmounts.dragon": "巨龍",
+    "dragon_breed.dragonmounts.aether": "以太龍",
+    "dragon_breed.dragonmounts.fire": "火龍紋章",
+    "dragon_breed.dragonmounts.end": "終界龍",
+    "dragon_breed.dragonmounts.forest": "森林龍",
+    "dragon_breed.dragonmounts.ghost": "鬼龍",
+    "dragon_breed.dragonmounts.ice": "冰龍",
+    "dragon_breed.dragonmounts.nether": "地獄龍",
+    "dragon_breed.dragonmounts.water": "水龍",
+    "item.dragonmounts.spawn_egg": "%s  生怪蛋",
+    "block.dragonmounts.dragon_egg": "%s龍蛋",
+    "block.dragonmounts.dragon_egg.remaining_time": "在 %s 秒內開啟艙門。",
+    "block.dragonmounts.dragon_egg.change_breeds": "創造模式：與龍互動將使其品種改為此蛋的品種。",
+    "key.dragonmounts.flight_descent": "飛行下降"
+}
