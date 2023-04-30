@@ -1,0 +1,21 @@
+{
+  "name": "黎明之握的手套",
+  "advancement": "spectrum:progression/unlock_gloves_of_dawns_grasp",
+  "icon": "spectrum:gloves_of_dawns_grasp",
+  "category": "spectrum:magical_items_category",
+  "extra_recipe_mappings": {
+    "spectrum:gloves_of_dawns_grasp": 0
+  },
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "當你問你的鄰居他們總是談論的\"gobber\"是什麼時，你唯一得到的回答是這種神秘的物質對於你這個小藝術家而言是無法觸及的。$(br)在他們解釋\"無法觸及\"不應該被字面理解之前，你已經設計出了這些手套。糟糕。"
+    },
+    {
+      "type": "spectrum:fusion_shrine_crafting",
+      "title": "融合配方",
+      "recipe": "spectrum:fusion_shrine/trinkets/gloves_of_dawns_grasp",
+      "text": "哦，既然你想出了這個設計，那你現在就可以用它們了！$(br2)注入 $(l:magic/ink)淡藍色染料$(/l) 可以增加額外的使用距離。"
+    }
+  ]
+}
