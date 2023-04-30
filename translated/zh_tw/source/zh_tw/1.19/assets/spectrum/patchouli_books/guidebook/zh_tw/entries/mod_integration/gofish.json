@@ -1,0 +1,21 @@
+{
+  "name": "一起釣魚吧！",
+  "icon": "gofish:starry_salmon",
+  "flag": "mod:go-fish",
+  "advancement": "spectrum:progression/unlock_molten_rod",
+  "category": "spectrum:mod_integration_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "熔岩釣魚",
+      "item": "spectrum:molten_rod",
+      "text": "你的魔法釣竿可以釣取熔岩和住在終界的魚，就像特別的“Go Fish”釣竿一樣。$(br)只要你在開放區域中，還可以釣到木箱。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "其他功能",
+      "item": "minecraft:enchanted_book{Stored_Enchantments: [{id: \"gofish:deepfry\", lvl: 1s}]}",
+      "text": "雖然深度燒烤附魔可以像平常一樣烹飪魚類，但魚餌沒有效果。但你肯定以後會找到一種方法來增強你的魚竿。$(br) 魚竿上的深度燒烤附魔也與鑄造互斥。"
+    }
+  ]
+}

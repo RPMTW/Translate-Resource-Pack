@@ -1,0 +1,8 @@
+{
+    "fluid.moonlight.generic_fluid": "未命名流體",
+    "item.minecraft.potion_lingering": "滯留藥水",
+    "item.minecraft.potion_splash": "飛濺藥水",
+    "gui.moonlight.open_mod_page": "開啓%s CurseForge 頁面",
+    "message.moonlight.anti_repost": "你似乎從一個惡意網站下載了 %1$s :( 請下載正版 %2$s。",
+    "message.moonlight.anti_repost_link": "這裡"
+}
