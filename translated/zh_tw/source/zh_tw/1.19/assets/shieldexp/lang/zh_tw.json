@@ -1,0 +1,14 @@
+{
+    "shieldexp.tooltip.instructions": "按住Shift鍵以獲取說明",
+    "shieldexp.tooltip.instructions.parry": "在受到攻擊前迅速舉起盾牌，就能招架攻擊！",
+    "item.shieldexp.wooden_shield": "木盾牌",
+    "item.shieldexp.golden_shield": "金製盾牌",
+    "item.shieldexp.iron_shield": "鐵製盾牌",
+    "item.shieldexp.diamond_shield": "鑽石盾牌",
+    "item.shieldexp.netherite_shield": "獄髓盾牌",
+    "item.shieldexp.paragon_shield": "至尊盾牌",
+    "shieldexp.advancements.get_diamond_shield.title": "鑽石永不磨損",
+    "shieldexp.advancements.get_diamond_shield.description": "合成一個鑽石盾牌",
+    "shieldexp.advancements.get_netherite_shield.title": "不可移動的物體",
+    "shieldexp.advancements.get_netherite_shield.description": "合成一個獄髓盾牌"
+}
