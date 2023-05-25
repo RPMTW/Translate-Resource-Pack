@@ -1,0 +1,12 @@
+{
+    "blur.midnightconfig.title": "模糊設定",
+    "blur.midnightconfig.blurExclusions": "模糊排除",
+    "blur.midnightconfig.fadeTimeMillis": "淡入時間(毫秒)",
+    "blur.midnightconfig.ease": "舒適動畫",
+    "blur.midnightconfig.radius": "範圍",
+    "blur.midnightconfig.gradientStart": "漸變起始色",
+    "blur.midnightconfig.gradientEnd": "漸變結束色",
+    "blur.midnightconfig.gradientStartAlpha": "漸變起始透明度",
+    "blur.midnightconfig.gradientEndAlpha": "漸變結束透明度",
+    "blur.midnightconfig.showScreenTitle": "顯示畫面標題"
+}
