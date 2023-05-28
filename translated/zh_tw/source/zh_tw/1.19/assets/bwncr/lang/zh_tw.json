@@ -1,13 +1,13 @@
 {
-    "badwithernocookiereloaded.general.tooltip": "Global basic sounds and events you can cancel",
-    "badwithernocookiereloaded.xtra.tooltip": "Extra localized sounds that you can cancel",
-    "badwithernocookiereloaded.localized settings.silenceus": "Example: entity.sheep.step - use /listen for other sounds",
-    "text.autoconfig.bwncr.option.title": "Bad Wither No Cookie - Reloaded",
-    "text.autoconfig.bwncr.option.general": "General",
-    "text.autoconfig.bwncr.option.general.silenceWither": "Silence Wither",
-    "text.autoconfig.bwncr.option.general.silenceTrader": "Silence Trader",
-    "text.autoconfig.bwncr.option.general.silenceDragon": "Silence Dragon",
-    "text.autoconfig.bwncr.option.general.silenceLightning": "Silence Lightning",
-    "text.autoconfig.bwncr.option.general.silenceUs": "Silence Us",
-    "text.autoconfig.bwncr.option.general.debugMode": "Debug Mode"
+    "badwithernocookiereloaded.general.tooltip": "全域基本聲音和事件你可以取消",
+    "badwithernocookiereloaded.xtra.tooltip": "額外的在地化聲音你可以取消",
+    "badwithernocookiereloaded.localized settings.silenceus": "範例：entity.sheep.step - 使用 /listen 來收聽其他聲音",
+    "text.autoconfig.bwncr.option.title": "惡毒凋零沒有餅乾 - 重啟版",
+    "text.autoconfig.bwncr.option.general": "一般選項",
+    "text.autoconfig.bwncr.option.general.silenceWither": "靜音凋零",
+    "text.autoconfig.bwncr.option.general.silenceTrader": "靜音交易者",
+    "text.autoconfig.bwncr.option.general.silenceDragon": "靜音龍",
+    "text.autoconfig.bwncr.option.general.silenceLightning": "靜音閃電",
+    "text.autoconfig.bwncr.option.general.silenceUs": "靜音我們",
+    "text.autoconfig.bwncr.option.general.debugMode": "除錯模式"
 }
