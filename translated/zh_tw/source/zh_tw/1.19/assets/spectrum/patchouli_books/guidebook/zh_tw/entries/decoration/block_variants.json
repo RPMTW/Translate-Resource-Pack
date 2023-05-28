@@ -1,0 +1,90 @@
+{
+  "name": "方塊變種",
+  "advancement": "spectrum:spectrum",
+  "icon": "spectrum:chiseled_polished_basalt",
+  "category": "spectrum:decoration_category",
+  "extra_recipe_mappings": {
+    "spectrum:polished_basalt": 0,
+    "spectrum:polished_calcite": 0,
+    "spectrum:polished_basalt_slab": 0,
+    "spectrum:polished_calcite_slab": 0,
+    "spectrum:polished_basalt_stairs": 0,
+    "spectrum:polished_calcite_stairs": 0,
+    "spectrum:polished_basalt_pillar": 0,
+    "spectrum:polished_calcite_pillar": 0,
+    "spectrum:polished_basalt_crest": 0,
+    "spectrum:polished_calcite_crest": 0,
+    "spectrum:chiseled_polished_basalt": 0,
+    "spectrum:chiseled_polished_calcite": 0,
+    "spectrum:notched_polished_basalt": 0,
+    "spectrum:notched_polished_calcite": 0,
+    "spectrum:polished_basalt_wall": 0,
+    "spectrum:polished_calcite_wall": 0,
+    "spectrum:basalt_bricks": 0,
+    "spectrum:calcite_bricks": 0,
+    "spectrum:basalt_brick_slab": 0,
+    "spectrum:calcite_brick_slab": 0,
+    "spectrum:basalt_brick_stairs": 0,
+    "spectrum:calcite_brick_stairs": 0,
+    "spectrum:basalt_brick_wall": 0,
+    "spectrum:calcite_brick_wall": 0,
+    "spectrum:smooth_basalt_slab": 0,
+    "spectrum:calcite_slab": 0,
+    "spectrum:smooth_basalt_stairs": 0,
+    "spectrum:calcite_stairs": 0,
+    "spectrum:smooth_basalt_wall": 0,
+    "spectrum:calcite_wall": 0
+  },
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "anchor": "polished_basalt",
+      "title": "拋光玄武岩",
+      "recipe": "spectrum:smelting/smooth_basalt_to_polished_basalt",
+      "text": "還記得那些保護你寶貴寶石免受外界影響的方塊嗎？加熱能更加突顯它們的深色和白色紋理。$(br)當玄武岩熔化時，幾乎變得全黑。$(br)也許它們也吸收了地晶體本身的一些魔法特性呢？$(br)誰知道呢。"
+    },
+    {
+      "type": "patchouli:smelting",
+      "anchor": "polished_calcite",
+      "title": "拋光方解石",
+      "recipe": "spectrum:smelting/calcite_to_polished_calcite",
+      "text": "方解石的明亮白色可能是你所遇到的最明亮的自然色彩，看起來非常清潔且散發著尊嚴。白色的方解石與黑色的玄武岩形成了美妙的對比。$(br2)經過拋光的玄武岩和方解石可以製作成各種裝飾方塊。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "半磚 & 階梯",
+      "recipe": "spectrum:crafting_table/stone_deco/polished_basalt_slab",
+      "recipe2": "spectrum:crafting_table/stone_deco/polished_calcite_stairs"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "柱子 & 紋章",
+      "recipe": "spectrum:crafting_table/stone_deco/polished_basalt_pillar",
+      "recipe2": "spectrum:crafting_table/stone_deco/polished_calcite_crest"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "浮雕 & 裂痕",
+      "recipe": "spectrum:crafting_table/stone_deco/chiseled_polished_basalt",
+      "recipe2": "spectrum:crafting_table/stone_deco/notched_polished_calcite"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "牆",
+      "recipe2": "spectrum:crafting_table/stone_deco/polished_basalt_wall"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "磚塊和原礦變體",
+      "recipe": "spectrum:crafting_table/stone_deco/basalt_brick_stairs",
+      "recipe2": "spectrum:crafting_table/stone_deco/calcite_slab"
+    },
+    {
+      "type": "patchouli:smelting",
+      "title": "將它們再次熔煉",
+      "recipe": "spectrum:smelting/stone_deco_unsmelting/basalt_brick_stairs_to_polished_basalt",
+      "recipe2": "spectrum:smelting/stone_deco_unsmelting/chiseled_polished_calcite_to_polished_calcite",
+      "text": "通過施加熱源，所有的方塊都可以再次轉換為它們的抛光版本。"
+    }
+  ]
+}
