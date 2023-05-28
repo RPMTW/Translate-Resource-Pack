@@ -1,0 +1,15 @@
+{
+    "collective-fabric.duskconfig.title": "Collective配置",
+    "collective-fabric.duskconfig.DESC_transferItemsBetweenReplacedEntities": "啟用後，將替換實體的手持物品和盔甲從任何依賴於Collective的實體生成模組轉移。",
+    "collective-fabric.duskconfig.transferItemsBetweenReplacedEntities": "在替換的實體之間轉移物品",
+    "collective-fabric.duskconfig.DESC_loopsAmountUsedToGetAllEntityDrops": "Collective循環遍歷可能的生物掉落的次數，以達到程序化的效果。掉落物品僅在相關模組使用時生成。降低此值可能會增加世界加載時間，但降低準確性。",
+    "collective-fabric.duskconfig.RANGE_loopsAmountUsedToGetAllEntityDrops": "最少：1，最多：500",
+    "collective-fabric.duskconfig.loopsAmountUsedToGetAllEntityDrops": "用於獲取所有生物掉落物品的循環次數",
+    "collective-fabric.duskconfig.DESC_findABlockcheckAroundEntitiesDelayMs": "檢查周圍是否有方塊的延遲時間（以毫秒為單位）。用於依賴於世界中特定方塊狀態的模組。增加此數字可以提高TPS（每秒遊戲刻）",
+    "collective-fabric.duskconfig.RANGE_findABlockcheckAroundEntitiesDelayMs": "最少：0，最多：3600000",
+    "collective-fabric.duskconfig.findABlockcheckAroundEntitiesDelayMs": "尋找實體周圍方塊檢查的延遲時間（以毫秒為單位）",
+    "collective-fabric.duskconfig.DESC_enableAntiRepostingCheck": "請查看 https://stopmodreposts.org/ 以獲取有關此功能存在的更多信息。",
+    "collective-fabric.duskconfig.enableAntiRepostingCheck": "啟用防止重貼檢查功能。",
+    "collective-fabric.duskconfig.DESC_enablePatronPets": "啟用贊助者的寵物功能。將在未來版本中添加。",
+    "collective-fabric.duskconfig.enablePatronPets": "啟用贊助者寵物功能"
+}
