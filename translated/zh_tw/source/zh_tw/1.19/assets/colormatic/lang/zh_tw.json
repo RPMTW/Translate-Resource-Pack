@@ -1,0 +1,16 @@
+{
+    "colormatic.config.title": "色彩選項",
+    "colormatic.config.title.subtitle": "色彩選項",
+    "colormatic.config.category.fog": "霧 + 天空",
+    "colormatic.config.category.light": "照明",
+    "colormatic.config.option.clearSky": "晴朗的天空",
+    "colormatic.config.option.clearSky.desc": "使用天空顏色作為迷霧顏色。",
+    "colormatic.config.option.clearVoid": "清晰虛空",
+    "colormatic.config.option.clearVoid.desc": "即使在海平面以下也不要渲染虛空。",
+    "colormatic.config.option.blendSkyLight": "平滑轉換",
+    "colormatic.config.option.blendSkyLight.desc": "在日出和日落期間平滑混合天空光。",
+    "colormatic.config.option.flickerBlockLight": "方塊亮度閃爍",
+    "colormatic.config.option.flickerBlockLight.desc": "允許方塊光線閃爍。",
+    "colormatic.config.option.relativeBlockLightIntensity": "方塊光線強度",
+    "colormatic.config.option.relativeBlockLightIntensity.desc": "方塊光線相對於天空光線的強度。數值越低，方塊光線在環境光中顯得更暗。"
+}
