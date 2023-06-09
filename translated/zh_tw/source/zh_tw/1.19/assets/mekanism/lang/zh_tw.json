@@ -1249,7 +1249,7 @@
     "matrix.mekanism.stats": "矩陣統計資料",
     "miner.mekanism.auto_pull": "自動推拉: %1$s",
     "miner.mekanism.buffer_free": "釋放緩衝: %1$s",
-    "miner.mekanism.config": "數字型採礦機設定",
+    "miner.mekanism.config": "數位型採礦機設定",
     "miner.mekanism.energy_capacity": "電容量: %1$s",
     "miner.mekanism.idle": "未就緒",
     "miner.mekanism.inverse": "反向模式",
