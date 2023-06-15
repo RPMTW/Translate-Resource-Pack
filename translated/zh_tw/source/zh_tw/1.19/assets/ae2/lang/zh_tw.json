@@ -232,7 +232,7 @@
     "chat.ae2.PlotNotFound": "未找到地塊：%d",
     "chat.ae2.PlotNotFoundForCurrentPosition": "找不到目前位置的地塊。",
     "chat.ae2.RegionFile": "區域文件",
-    "chat.ae2.ResetSettings": "新的設備設定已被創建並保存到記憶體卡中.",
+    "chat.ae2.ResetSettings": "新的設備設定已被建立並保存到記憶體卡中.",
     "chat.ae2.SavedSettings": "已將目前設備的設定保存到記憶體卡中.",
     "chat.ae2.SettingCleared": "設定已清除.",
     "chat.ae2.Size": "大小",
