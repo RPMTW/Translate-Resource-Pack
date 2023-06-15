@@ -39,7 +39,7 @@
     "wildfire_gender.label.no": "否",
     "wildfire_gender.label.exit": "×",
     "wildfire_gender.label.too_far": "距離過遠",
-    "wildfire_gender.label.with_creator": "您正在與此模組的創建者一起伺服服器上遊玩！",
+    "wildfire_gender.label.with_creator": "您正在與此模組的建立者一起伺服服器上遊玩！",
     "wildfire_gender.slider.bounce": "彈跳強度：%sx",
     "wildfire_gender.slider.floppy": "乳房動量：%s%%",
     "wildfire_gender.slider.min_bounce": "那你為何開啟乳房物理？",

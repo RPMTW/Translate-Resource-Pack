@@ -125,7 +125,7 @@
     "death.attack.damage.if.nuke": "%1$s 被核武器瓦解了",
     "__comment": "!-- 頁面格式幫助",
     "__comment1": "@L@\" -> 加入新的行",
-    "__comment2": "@PAGE@\" ->將創建一個新頁面，以下文字將位於新頁面中",
+    "__comment2": "@PAGE@\" ->將建立一個新頁面，以下文字將位於新頁面中",
     "__comment3": "【\" ->將啟動一個粗體/彩色字元串以突出顯示",
     "__comment4": "】\" -> 將停止高亮顯示 -->",
     "text.industrialforegoing.book.title": "工業先鋒手冊",
