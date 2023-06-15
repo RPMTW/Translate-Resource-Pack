@@ -855,7 +855,7 @@
     "filter.mekanism.modid.id": "ID: %1$s",
     "filter.mekanism.modid.no_id": "無 ID",
     "filter.mekanism.modid.same_id": "相同 ID",
-    "filter.mekanism.new": "創建: %1$s",
+    "filter.mekanism.new": "建立: %1$s",
     "filter.mekanism.no_matches": "沒有搜尋到目標",
     "filter.mekanism.oredictionificator": "標籤過濾器",
     "filter.mekanism.oredictionificator.invalid_namespace": "無效的標籤命名空間",
