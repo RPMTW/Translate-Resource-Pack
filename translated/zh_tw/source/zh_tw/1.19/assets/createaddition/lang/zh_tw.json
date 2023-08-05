@@ -32,7 +32,7 @@
     "item.createaddition.copper_rod": "銅棒",
     "item.createaddition.gold_spool": "金線軸",
     "item.createaddition.gold_spool.tooltip": "線軸",
-    "item.createaddition.gold_spool.tooltip.summary": "R-Clicking two _Connectors_ will create a wire link between them and return an _Empty Spool_.",
+    "item.createaddition.gold_spool.tooltip.summary": "右擊兩個_連接器_來產生連接它們之間的線纜並返還一個_空線軸_。",
     "item.createaddition.gold_wire": "金線",
     "item.createaddition.gold_rod": "金棒",
     "item.createaddition.brass_rod": "黃銅棒",
