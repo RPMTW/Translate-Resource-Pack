@@ -1,7 +1,7 @@
 {
   "name": "附加元件",
   "icon": "industrialforegoing:range_addon11",
-  "category": "工業先鋒:基礎",
+  "category": "industrialforegoing:basics",
   "sortnum": 5,
   "read_by_default": true,
   "pages": [
