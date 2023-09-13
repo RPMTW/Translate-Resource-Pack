@@ -1,7 +1,7 @@
 {
   "name": "生物燃料（流體）",
   "icon": "industrialforegoing:biofuel_bucket",
-  "category": "工業先鋒:發電機",
+  "category": "industrialforegoing:generators",
   "sortnum": 1,
   "read_by_default": true,
   "pages": [

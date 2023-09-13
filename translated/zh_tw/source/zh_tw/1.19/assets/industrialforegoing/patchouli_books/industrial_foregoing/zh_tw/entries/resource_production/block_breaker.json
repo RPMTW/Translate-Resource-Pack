@@ -1,7 +1,7 @@
 {
   "name": "方塊破壞器",
   "icon": "industrialforegoing:block_breaker",
-  "category": "工業先鋒:資源與生產",
+  "category": "industrialforegoing:resource_production",
   "sortnum": 2,
   "read_by_default": true,
   "pages": [
