@@ -1,5 +1,5 @@
 {
-    "name": "Attack Knockback",
+    "name": "擊退",
     "icon": "minecraft:piston",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Attack Knockback$() is how far you knockback enemies when you attack them.$(p)Each point will cause hit enemies to be pushed half a block away.$(p)Weapons and shields may provide this stat."
+            "text": "$(9)擊退$()是你攻擊敵人時擊退敵人的距離。$(p)每個點數都會導致被擊中的敵人被推開半個格。$(p)武器和盾牌可以提供一些數據。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 0$(p)$(9)$(n)Max Value:$() 5$(p)Note: The Knockback enchantment provides a bonus equivalent to this stat, but it doesn't count towards the max value cap."
+            "text": "$(9)$(n)基礎值：$() 0$(p)$(9)$(n)最大值：$() 5$(p)注意：擊退附魔提供相當於此數據的加成，但不計入最大值上限。"
         }
     ]
 }
