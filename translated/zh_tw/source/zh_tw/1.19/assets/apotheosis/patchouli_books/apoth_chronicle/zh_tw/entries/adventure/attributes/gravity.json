@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Gravity$() is how fast you fall down, in blocks per second squared.$(p)Could be found on anything, or nothing, who knows."
+            "text": "$(9)重力$() 是你下落的速度，以每秒平方的方塊數為單位。$(p)可以在任何東西上找到，也可以什麼都找不到，誰知道呢。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 0.08$(p)$(9)$(n)Max Value:$() 8$(p)Note: Gravity can go negative. With negative gravity, you float upwards."
+            "text": "$(9)$(n)基礎值：$() 0.08$(p)$(9)$(n)最大值：$() 8$(p)注意：重力可以變成負值。 在負重力的作用下，你會向上漂浮。"
         }
     ]
 }

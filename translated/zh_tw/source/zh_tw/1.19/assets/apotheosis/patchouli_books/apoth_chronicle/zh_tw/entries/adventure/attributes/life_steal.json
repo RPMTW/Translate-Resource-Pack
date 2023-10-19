@@ -1,5 +1,5 @@
 {
-    "name": "Life Steal",
+    "name": "吸血",
     "icon": "apotheosis:textures/mob_effect/bleeding.png",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Your $(9)Life Steal$() is the percentage of your physical damage dealt that is added directly to your health.$(p)Generally, only weapons provide this stat."
+            "text": "你的$(9)吸血$()是你所造成的物理傷害的百分比，該傷害會直接加成到你的生命值中。$(p)通常，只有武器提供此數據。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 1$(p)$(9)$(n)Max Value:$() 1024$(p)Note: A value of 1.0 is actually 0% life steal, but if the base was zero, percentage modifiers would have no effect, and flat modifiers don't convey the bonus correctly."
+            "text": "$(9)$(n)基礎值：$() 1$(p)$(9)$(n)最大值：$() 1024$(p)注意：值 1.0 其實是 0% 生命偷取，但如果基數為零，則百分比修飾符將不起作用，且固定更正器無法正確傳達加成。"
         }
     ]
 }

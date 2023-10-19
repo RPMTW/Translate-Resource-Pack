@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Luck$() makes you lucky!  Well, that is, it increases the likelihood you receive better loot drops.$(p)Everything can grant luck."
+            "text": "$(9)幸運值$()讓你幸運！ 它增加了你獲得高級的戰利品掉落的可能性。$(p)一切都可以帶來好運。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 0$(p)$(9)$(n)Max Value:$() 1024$(p)Note: You can have negative luck, which makes better loot drops even harder to get."
+            "text": "$(9)$(n)基礎值：$() 0$(p)$(9)$(n)最大值：$() 1024$(p)注意：你可以擁有霉運（運氣負值），這會帶來高級的戰利品更難獲得。"
         }
     ]
 }

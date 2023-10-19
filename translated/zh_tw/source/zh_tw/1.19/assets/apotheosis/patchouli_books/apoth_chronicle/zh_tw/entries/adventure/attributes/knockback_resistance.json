@@ -1,5 +1,5 @@
 {
-    "name": "Knockback Resistance",
+    "name": "擊退抗性",
     "icon": "minecraft:shulker_shell",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Knockback Resistance$() is how resistant you are to being knocked back by attacks. At the max value, you are immune to knockback.$(p)Usually provided by armor or shields."
+            "text": "$(9)擊退抗性$()是指你對被攻擊擊退的抵抗力。 在最大值時，你免疫擊退。$(p)通常由盔甲或盾牌提供。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 0$(p)$(9)$(n)Max Value:$() 1$(p)Note: Modifiers providing this value say they provide 10x what they really provide, so +1 Knockback Resistance is really +0.1."
+            "text": "$(9)$(n)基礎值：$() 0$(p)$(9)$(n)最大值：$() 1$(p)注意：提供此值的更正表示它們所提供的數值是實際值的10 倍，所以+1擊退抗性其實是+0.1。"
         }
     ]
 }
