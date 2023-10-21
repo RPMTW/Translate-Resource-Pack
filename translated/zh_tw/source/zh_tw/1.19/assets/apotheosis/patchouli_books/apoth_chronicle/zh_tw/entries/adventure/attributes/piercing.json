@@ -1,5 +1,5 @@
 {
-    "name": "Piercing",
+    "name": "刺穿",
     "icon": "apotheosis:textures/mob_effect/sundering.png",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Piercing$() refers to how much of your target's armor is ignored when you attack them.$(p)This stat is only found on heavy weapons."
+            "text": "$(9)刺穿$()指的是當你攻擊目標時，有多少目標的護甲被忽略。$(p)此統計數據僅在重型武器上可見。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 1$(p)$(9)$(n)Max Value:$() 1024$(p)Note: A value of 1.0 is actually 0% piercing, but if the base was zero, percentage modifiers would have no effect, and flat modifiers don't convey the bonus correctly."
+            "text": "$(9)$(n)基礎值：$() 1$(p)$(9)$(n)最大值：$() 1024$(p)注意：值 1.0 其實是 0% 穿透，但如果基數為零，則百分比修飾符將不起作用，且固定更正值無法正確傳達加成。"
         }
     ]
 }
