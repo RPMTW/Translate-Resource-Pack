@@ -1,5 +1,5 @@
 {
-    "name": "Movement Speed",
+    "name": "移動速度",
     "icon": "minecraft:leather_boots",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Your $(9)Movement Speed$() is how fast you move, in blocks per second.$(p)This stat can be provided by nearly any item."
+            "text": "你的$(9)移動速度$()是你移動的速度，以方塊/每秒為單位。$(p)幾乎任何物品都可以使用此技能。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 0.7$(p)$(9)$(n)Max Value:$() 1024"
+            "text": "$(9)$(n)基礎值：$() 0.7$(p)$(9)$(n)最大值：$() 1024"
         }
     ]
 }
