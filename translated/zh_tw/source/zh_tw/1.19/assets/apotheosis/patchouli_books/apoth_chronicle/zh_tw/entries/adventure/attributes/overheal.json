@@ -1,5 +1,5 @@
 {
-    "name": "Overheal",
+    "name": "進階治療",
     "icon": "minecraft:experience_bottle",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Having $(9)Overheal$() means that part of your physical damage dealt will be gained as an absorption shield. As opposed to lifesteal, Overheal works when you are at full health.$(p)This stat is only found on heavy weapons."
+            "text": "擁有$(9)進階治療$()意味著你造成的部分物理傷害將變成傷害吸收的保護。 與吸血相反，過度治療在你完全健康時起作用。$(p)此統計數據僅在重型武器上可見。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 1$(p)$(9)$(n)Max Value:$() 1024$(p)Note: A value of 1.0 is actually 0% current hp damage, but if the base was zero, percentage modifiers would have no effect, and flat modifiers don't convey the bonus correctly."
+            "text": "$(9)$(n)基礎值：$()1$(p)$(9)$(n)最大值：$()1024$(p)注意：值 1.0 實際上是當前 HP 的 0% 傷害，但如果基數為零，則百分比修飾符將沒有效果，並且平坦修飾符無法正確傳達加成。"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "name": "Step Height",
+    "name": "上升高度",
     "icon": "minecraft:iron_boots",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Step Height$() changes how high you can automatically step-up blocks.$(p)Only found on boots."
+            "text": "$(9)上升高度$()更改您可以自動踏上方塊的高度，例如半磚。$(p)僅出現在靴子上。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 0$(p)$(9)$(n)Max Value:$() 512$(p)Note: This value is not your total step height, but rather a value added to your implicit base of 0.5."
+            "text": "$(9)$(n)基礎值：$() 0$(p)$(9)$(n)最大值：$() 512$(p)注意：該值不是您的總上升高度，而是而是在您的默認基數 0.5 上添加一個值。"
         }
     ]
 }

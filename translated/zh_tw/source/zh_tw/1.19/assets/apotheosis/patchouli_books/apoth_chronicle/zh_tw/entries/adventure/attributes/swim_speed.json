@@ -1,5 +1,5 @@
 {
-    "name": "Swim Speed",
+    "name": "游泳速度",
     "icon": "minecraft:kelp",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Swim Speed$() is a modifier to your actual swim speed, which is based on your movement speed.  If your swim speed was 2.0, you would swim twice as fast.$(p)Only found on boots."
+            "text": "$(9)游泳速度$()是你實際游泳速度的修正值，它是基於你的移動速度。 如果你的游泳速度是 2.0，你的游泳速度會是原來的兩倍。$(p)只出現在靴子上。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 1$(p)$(9)$(n)Max Value:$() 1024$(p)"
+            "text": "$(9)$(n)基礎值：$()1$(p)$(9)$(n)最大值：$()1024$(p)"
         }
     ]
 }

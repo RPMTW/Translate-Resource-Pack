@@ -1,5 +1,5 @@
 {
-    "name": "Mining Speed",
+    "name": "挖掘速度",
     "icon": "minecraft:netherite_pickaxe",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Increasing your $(9)Mining Speed$() increases the speed at which you break blocks. At the base value of 1.0, you break blocks like normal.$(p)Found on pickaxes and shovels."
+            "text": "提高您的$(9)挖掘速度$()會提高您打破方塊的速度。 在基值為 1.0 時，您可以像平常一樣打破方塊。$(p)用於鎬和鏟子上。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 1$(p)$(9)$(n)Max Value:$() 1024$(p)"
+            "text": "$(9)$(n)基礎值：$()1$(p)$(9)$(n)最大值：$()1024$(p)"
         }
     ]
 }

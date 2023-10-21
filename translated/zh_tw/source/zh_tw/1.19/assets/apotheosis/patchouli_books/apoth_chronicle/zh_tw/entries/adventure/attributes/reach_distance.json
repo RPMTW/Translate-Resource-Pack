@@ -1,5 +1,5 @@
 {
-    "name": "Reach Distance",
+    "name": "觸及距離",
     "icon": "minecraft:iron_pickaxe",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Your $(9)Reach Distance$() is the maximum distance at which you can reach an object. When you can reach an object, you can interact with it, or break it, if it's a block.$(p)Usually found on tools that break blocks, since it isn't useful for weapons."
+            "text": "你的$(9)觸及距離$()是您可以觸及到物體的最大距離。 當你可以觸及一個物體時，你可以與它互動，或者打破它，如果它是一個方塊。$(p)它通常出現在打破方塊的工具上，因為它對武器沒有用處。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 4.5$(p)$(9)$(n)Max Value:$() 1024$(p)"
+            "text": "$(9)$(n)基本值：$() 4.5$(p)$(9)$(n)最大值：$() 1024$(p)"
         }
     ]
 }
