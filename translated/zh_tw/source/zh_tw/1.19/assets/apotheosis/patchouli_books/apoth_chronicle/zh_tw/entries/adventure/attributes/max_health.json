@@ -1,5 +1,5 @@
 {
-    "name": "Max Health",
+    "name": "生命上限",
     "icon": "minecraft:apple",
     "category": "apotheosis:adventure/attributes",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(9)Max Health$() controls the number of health points (HP) you have. One point is half a heart.$(p)Usually provided by armor or shields."
+            "text": "$(9)生命上限$()調整你擁有的生命值(HP)數量。 一點相當於半顆心。$(p)通常由盔甲或盾牌提供。"
         },
         {
             "type": "patchouli:text",
-            "text": "$(9)$(n)Base Value:$() 20$(p)$(9)$(n)Max Value:$() 1024"
+            "text": "$(9)$(n)基本值：$() 20$(p)$(9)$(n)最大值：$() 1024"
         }
     ]
 }
