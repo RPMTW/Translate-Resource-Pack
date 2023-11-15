@@ -1,5 +1,5 @@
 {
-    "name": "Boss Items",
+    "name": "Boss物品",
     "icon": "minecraft:ender_chest",
     "category": "apotheosis:adventure/bosses",
     "flag": "apotheosis:adventure",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Every boss is empowered with exactly one affix item, alongside the rest of their fully enchanted gear.$(p)This affix item is guaranteed to be dropped on death, and has a higher chance to be of a higher rarity than other sources of affix loot."
+            "text": "每個Boss都被賦予了指定的一件詞綴物品，以及他們的其他全套附魔裝備。 $(p)這件詞綴物品保證在死亡時掉落，並且比其他詞綴戰利品的來源有更高的幾率。"
         },
         {
             "type": "patchouli:text",
-            "text": "This item alone is the trophy you will take from slaying a boss, and it is likely to be worth it.$(p)As a memento of the original owner, every boss item will have the boss's name prefixed to the item's name."
+            "text": "僅僅是這件物品就是你殺死Boss後的“獎杯”，而且它很可能是值得的。 $(p)作為原主人的紀念品，每件Boss的物品都會有Boss的名字作為物品名稱的前綴。"
         }
     ]
 }
