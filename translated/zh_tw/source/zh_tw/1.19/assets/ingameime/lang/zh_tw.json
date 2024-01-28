@@ -1,9 +1,9 @@
 {
-    "key.ingameime.hotkey": "Toggle IME State",
-    "category.ingameime.keybinding": "IngameIME",
+    "key.ingameime.hotkey": "切換輸入法狀態",
+    "category.ingameime.keybinding": "遊戲內輸入法",
     "alpha.ingameime.mode": "A",
-    "native.ingameime.mode": "ENG",
-    "config.title": "IngameIME Config",
+    "native.ingameime.mode": "中",
+    "config.title": "遊戲內輸入法設定",
     "config.category.chat": "聊天欄",
     "desc.disableIMEInCommandMode": "在指令模式關閉輸入法",
     "tooltip.disableIMEInCommandMode": "（即按 / 開啟聊天欄時）",
