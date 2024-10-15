@@ -27,7 +27,7 @@
     "mob_grinding_utils.jei.any_experience": "accepts any: forge:experience",
     "block.mob_grinding_utils.jumbo_tank.jei.info": "奇異水槽的較大版本，可容納 1024 桶的任何液體。",
     "block.mob_grinding_utils.xpsolidifier.jei.info": "使用模具固化液體經驗，以製造可食用的經驗果凍。",
-    "block.mob_grinding_utils.tinted_glass.jei.info": "允許你在不放置光源的情況下看到生怪塔的內部。",
+    "block.mob_grinding_utils.tinted_glass.jei.info": "Allows you to see the inside of the mob farm without letting light inside.",
     "block.mob_grinding_utils.dreadful_dirt.jei.info": "在黑暗中迅速產生怪物，如果在白天暴露在天空中會被燒毀。",
     "block.mob_grinding_utils.solid_xp_block.jei.info": "一塊固化的經驗，非常有彈性，非常有趣。",
     "block.mob_grinding_utils.delightfull_dirt.jei.info": "在明亮的環境下迅速產生生物，如果在夜間暴露在天空中，將被冰封。",
