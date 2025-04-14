@@ -1,6 +1,6 @@
 {
     "itemGroup.pipez": "Pipez",
-    "block.pipez.item_pipe": "物品管道",
+    "block.pipez.item_pipe": "物品傳輸管道",
     "block.pipez.fluid_pipe": "流體管道",
     "block.pipez.energy_pipe": "能量管道",
     "block.pipez.universal_pipe": "通用管道",
