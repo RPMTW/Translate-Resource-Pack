@@ -679,7 +679,7 @@
     "book.occultism.dictionary_of_spirits.summoning_rituals.summon_lumberjack.usage.text": "使用召喚之書來設定伐木靈的工作區和物品存放點。\n\\\n\\\n查看 [召喚之書](entry://getting_started/books_of_calling) 章節以獲得更多資訊\n",
     "book.occultism.dictionary_of_spirits.summoning_rituals.summon_lumberjack.usage.title": "用途",
     "book.occultism.dictionary_of_spirits.summoning_rituals.summon_lumberjack.usage2.text": "魔靈可能會在清理完工作區域之後暫停幾分鐘,即便已經又有樹長出來了.這其實是節約效能之舉,而不是Bug.他會自己接著幹活的.\\n\\\\\\n\\\\\\n重設工作區域後他會立即重新工作.\\n",
-    "book.occultism.dictionary_of_spirits.summoning_rituals.summon_lumberjack.usage2.title": "伐木工變懶了?",
+    "book.occultism.dictionary_of_spirits.summoning_rituals.summon_lumberjack.usage2.title": "伐木靈變懶了?",
     "book.occultism.dictionary_of_spirits.summoning_rituals.summon_manage_machine.book_of_calling.text": "If you lose the book of calling, you can craft a new one.\n[#](ad03fc)Shift-right-click[#]() the spirit with the crafted book to assign it.\n",
     "book.occultism.dictionary_of_spirits.summoning_rituals.summon_manage_machine.intro.text": "The machine operator transfers items specified in the dimensional storage actuator GUI, to it's managed machine, and returns crafting results to the storage system. It can also be used to automatically empty a chest into the storage actuator.\n\\\nBasically, on-demand crafting!\n",
     "book.occultism.dictionary_of_spirits.summoning_rituals.summon_manage_machine.intro.title": "Djinni Machine Operator",
