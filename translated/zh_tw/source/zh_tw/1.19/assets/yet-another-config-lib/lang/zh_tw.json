@@ -1,0 +1,20 @@
+{
+    "yacl.control.boolean.true": "True",
+    "yacl.control.boolean.false": "False",
+    "yacl.control.action.execute": "執行",
+    "yacl.gui.save": "儲存變更",
+    "yacl.gui.save.tooltip": "讓所做的改動永久套用。",
+    "yacl.gui.finished.tooltip": "關閉介面。",
+    "yacl.gui.cancel.tooltip": "忘記待確認的改動並關閉介面。",
+    "yacl.gui.reset.tooltip": "重設所有選項回預設。(這是可以復原的！)",
+    "yacl.gui.undo": "取消變更",
+    "yacl.gui.undo.tooltip": "復原所有選項恢復在編輯之前的樣子。",
+    "yacl.gui.fail_apply": "套用失敗。",
+    "yacl.gui.fail_apply.tooltip": "錯誤發生因此改動並沒有被套用。",
+    "yacl.gui.save_before_exit": "離開前儲存！",
+    "yacl.gui.save_before_exit.tooltip": "儲存或取消來離開介面。",
+    "yacl.restart.title": "設定檔要求重啟！",
+    "yacl.restart.message": "一個或更多的選項需要你重開遊戲來套用變更。",
+    "yacl.restart.yes": "關閉 Minecraft",
+    "yacl.restart.no": "忽略"
+}
