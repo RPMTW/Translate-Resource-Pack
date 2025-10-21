@@ -30,7 +30,7 @@
       "name": "流浪商人",
       "entity": "ad_astra:lunarian_wandering_trader",
       "default_rotation": 45,
-      "scale": "0.8"
+      "scale": 0.8
     }
   ]
 }
