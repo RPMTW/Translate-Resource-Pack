@@ -13,7 +13,7 @@
     {
       "type": "patchouli:entity",
       "entity": "ad_astra:tier_1_rover",
-      "scale": "0.36"
+      "scale": 0.36
     }
   ]
 }
