@@ -18,8 +18,8 @@
     {
       "type": "patchouli:entity",
       "entity": "aoa3:anemia",
-      "offset": "1.2",
-      "scale": "0.692",
+      "offset": 1.2,
+      "scale": 0.692,
       "text": "在 $(l:https://adventofascension.fandom.com/wiki/Anemia)官方Wiki$(/l) 上閱讀有關 $(thing)嗜血轟炸機$() 的更多訊息。"
     },
     {
@@ -30,7 +30,7 @@
     {
       "type": "patchouli:entity",
       "entity": "aoa3:bloodsucker",
-      "scale": "0.52",
+      "scale": 0.52,
       "text": "在 $(l:https://adventofascension.fandom.com/wiki/Anemia)官方Wiki$(/l) 上閱讀有關 $(thing)血之吮吸者$() 的更多訊息。"
     },
     {
@@ -51,7 +51,7 @@
     {
       "type": "patchouli:entity",
       "entity": "aoa3:jawe",
-      "scale": "0.625",
+      "scale": 0.625,
       "text": "在 $(l:https://adventofascension.fandom.com/wiki/Anemia)官方Wiki$(/l) 上閱讀有關 $(thing)深淵蹣跚者$() 的更多訊息。"
     },
     {
@@ -62,7 +62,7 @@
     {
       "type": "patchouli:entity",
       "entity": "aoa3:web_reaper",
-      "scale": "0.802",
+      "scale": 0.802,
       "text": "在 $(l:https://adventofascension.fandom.com/wiki/Anemia)官方Wiki$(/l) 上閱讀有關 $(thing)強能蛛網收割者$() 的更多訊息。"
     },
     {
@@ -73,7 +73,7 @@
     {
       "type": "patchouli:entity",
       "entity": "aoa3:lottoman",
-      "scale": "0.875",
+      "scale": 0.875,
       "text": "在 $(l:https://adventofascension.fandom.com/wiki/Anemia)官方Wiki$(/l) 上閱讀有關 $(thing)樂透兌換人$() 的更多訊息。"
     },
     {
