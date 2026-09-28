@@ -10,7 +10,7 @@
         {
             "type": "patchouli:entity",
             "entity": "simpleplanes:plane",
-            "scale": "0.5"
+            "scale": 0.5
         },
         {
             "type": "simpleplanes:plane_recipe",
